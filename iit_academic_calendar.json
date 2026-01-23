@@ -1,0 +1,437 @@
+[
+  {
+    "term": "Spring 2026",
+    "items": [
+      {
+        "date": "January 12",
+        "event": "Courses Begin for Spring and Online A Session",
+        "source": "table"
+      },
+      {
+        "date": "January 19",
+        "event": "Martin Luther King, Jr. Day—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "January 20",
+        "event": "Last Day to Add/Drop for Full Semester and Online A Session Courses with No Tuition Charges Courses Begin for ID Full Semester and ID A Session",
+        "source": "table"
+      },
+      {
+        "date": "January 23",
+        "event": "Monday Classes Meet (Dr. King's Birthday Makeup)",
+        "source": "table"
+      },
+      {
+        "date": "January 27",
+        "event": "Last Day to Request Late Registration Last Day to Add/Drop for ID Full Semester and ID A Session Courses with No Tuition Charges",
+        "source": "table"
+      },
+      {
+        "date": "February 2",
+        "event": "Spring Degree Conferral Applications Due",
+        "source": "table"
+      },
+      {
+        "date": "February 20",
+        "event": "Last Day to Withdraw for ID and Online A Session Courses",
+        "source": "table"
+      },
+      {
+        "date": "February 23",
+        "event": "Fall Incomplete Grades Due",
+        "source": "table"
+      },
+      {
+        "date": "March 4",
+        "event": "Midterm Grading Begins",
+        "source": "table"
+      },
+      {
+        "date": "March 7",
+        "event": "Last Day of ID and Online A Session Courses",
+        "source": "table"
+      },
+      {
+        "date": "March 9",
+        "event": "Online B Session Courses Begin",
+        "source": "table"
+      },
+      {
+        "date": "March 11",
+        "event": "Final Online A Session Courses Grades Due",
+        "source": "table"
+      },
+      {
+        "date": "March 11",
+        "event": "Spring Final Exam Schedule Published Online",
+        "source": "table"
+      },
+      {
+        "date": "March 13",
+        "event": "Midterm Grades Due",
+        "source": "table"
+      },
+      {
+        "date": "March 16-21",
+        "event": "Spring Break Week—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "March 17",
+        "event": "Last Day to Add/Drop for Online B Session Courses with No Tuition Charges",
+        "source": "table"
+      },
+      {
+        "date": "March 23",
+        "event": "Fall Course Schedule Published Online ID B Session Courses Begin",
+        "source": "table"
+      },
+      {
+        "date": "March 30",
+        "event": "Last Day to Withdraw for Full Semester Courses Last Day to Add/Drop for ID B Session Courses with No Tuition Charges",
+        "source": "table"
+      },
+      {
+        "date": "April 6",
+        "event": "Fall Registration Begins",
+        "source": "table"
+      },
+      {
+        "date": "April 15",
+        "event": "Summer Reinstatement Applications Due for Undergraduate Students",
+        "source": "table"
+      },
+      {
+        "date": "April 17",
+        "event": "Last Day to Withdraw for ID and Online B Session Courses Last Day to Withdraw for ID Full Semester Courses",
+        "source": "table"
+      },
+      {
+        "date": "May 2",
+        "event": "Last Day of Spring Courses",
+        "source": "table"
+      },
+      {
+        "date": "May 3",
+        "event": "Last Day to Request an Incomplete Grade",
+        "source": "table"
+      },
+      {
+        "date": "May 4-9",
+        "event": "Final Exam Week/Final Grading Begins on May 4",
+        "source": "table"
+      },
+      {
+        "date": "May 9",
+        "event": "Last Day of ID Full Semester and ID and Online B Session Courses",
+        "source": "table"
+      },
+      {
+        "date": "May 13",
+        "event": "Final Grades Due at Noon (CST)",
+        "source": "table"
+      },
+      {
+        "date": "May 16",
+        "event": "Spring Degree Conferral and Commencement",
+        "source": "table"
+      },
+      {
+        "date": "COURSE",
+        "event": "CRN",
+        "source": "table"
+      },
+      {
+        "date": "BUS 510-01",
+        "event": "52594",
+        "source": "table"
+      },
+      {
+        "date": "BUS 510-05",
+        "event": "53047",
+        "source": "table"
+      },
+      {
+        "date": "BUS 550-01",
+        "event": "29750",
+        "source": "table"
+      },
+      {
+        "date": "HIST 352-J01",
+        "event": "53328",
+        "source": "table"
+      },
+      {
+        "date": "HUM 200-J01",
+        "event": "54250",
+        "source": "table"
+      },
+      {
+        "date": "MAX 504-01",
+        "event": "53288",
+        "source": "table"
+      },
+      {
+        "date": "MAX 506-01",
+        "event": "29756",
+        "source": "table"
+      },
+      {
+        "date": "MAX 506-02",
+        "event": "52532",
+        "source": "table"
+      },
+      {
+        "date": "MBA 501-01",
+        "event": "51230",
+        "source": "table"
+      },
+      {
+        "date": "MBA 505-01",
+        "event": "52603",
+        "source": "table"
+      },
+      {
+        "date": "MBA 505-05",
+        "event": "53048",
+        "source": "table"
+      },
+      {
+        "date": "MBA 506-01",
+        "event": "25512",
+        "source": "table"
+      },
+      {
+        "date": "MBA 511-01",
+        "event": "52328",
+        "source": "table"
+      },
+      {
+        "date": "MBA 513-05",
+        "event": "53472",
+        "source": "table"
+      },
+      {
+        "date": "MBA 523-01",
+        "event": "53841",
+        "source": "table"
+      },
+      {
+        "date": "MSF 506-01",
+        "event": "22009",
+        "source": "table"
+      },
+      {
+        "date": "PA 501-01",
+        "event": "54094",
+        "source": "table"
+      },
+      {
+        "date": "PA 522-01",
+        "event": "53843",
+        "source": "table"
+      },
+      {
+        "date": "PA 523-01",
+        "event": "54095",
+        "source": "table"
+      },
+      {
+        "date": "PA 542-01",
+        "event": "53293",
+        "source": "table"
+      },
+      {
+        "date": "PA 568-01",
+        "event": "51257",
+        "source": "table"
+      },
+      {
+        "date": "PA 581-01",
+        "event": "53844",
+        "source": "table"
+      },
+      {
+        "date": "PM 501-01",
+        "event": "53299",
+        "source": "table"
+      },
+      {
+        "date": "PM 501-05",
+        "event": "54327",
+        "source": "table"
+      },
+      {
+        "date": "PM 505-01",
+        "event": "53300",
+        "source": "table"
+      },
+      {
+        "date": "PM 508-01",
+        "event": "53846",
+        "source": "table"
+      },
+      {
+        "date": "PS 338-J01",
+        "event": "53821",
+        "source": "table"
+      },
+      {
+        "date": "PSYC 301-J02",
+        "event": "53971",
+        "source": "table"
+      },
+      {
+        "date": "PSYC 363-J01",
+        "event": "53886",
+        "source": "table"
+      },
+      {
+        "date": "PS 380-J01",
+        "event": "54404",
+        "source": "table"
+      },
+      {
+        "date": "PSYC 722-01",
+        "event": "54222",
+        "source": "table"
+      },
+      {
+        "date": "PSYC 723-01",
+        "event": "54223",
+        "source": "table"
+      },
+      {
+        "date": "PSYC 723-02",
+        "event": "54353",
+        "source": "table"
+      },
+      {
+        "date": "SAM 503-01",
+        "event": "54096",
+        "source": "table"
+      },
+      {
+        "date": "SAM 505-01",
+        "event": "54097",
+        "source": "table"
+      },
+      {
+        "date": "SCI 511-01",
+        "event": "27474",
+        "source": "table"
+      }
+    ]
+  },
+  {
+    "term": "Summer 2026",
+    "items": [
+      {
+        "date": "May 18",
+        "event": "Courses Begin—Summer 1",
+        "source": "table"
+      },
+      {
+        "date": "May 22",
+        "event": "Last Day to Add/Drop Courses with No Tuition Charges—Summer 1",
+        "source": "table"
+      },
+      {
+        "date": "May 25",
+        "event": "Memorial Day—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "May 29",
+        "event": "Last Day to Request Late Registration—Summer Session 1",
+        "source": "table"
+      },
+      {
+        "date": "June 5",
+        "event": "Summer Combined Session Degree Conferral Applications Due",
+        "source": "table"
+      },
+      {
+        "date": "June 19",
+        "event": "Juneteenth Day—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "June 23",
+        "event": "Last Day to Withdraw—Summer 1",
+        "source": "table"
+      },
+      {
+        "date": "July 3",
+        "event": "Independence Day (Observed)—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "July 11",
+        "event": "Last Day of Courses—Summer 1",
+        "source": "table"
+      },
+      {
+        "date": "July 15",
+        "event": "Final Grades Due at Noon (CST)—Summer 1",
+        "source": "table"
+      },
+      {
+        "date": "August 15",
+        "event": "Summer Combined Session Degree Conferral",
+        "source": "table"
+      },
+      {
+        "date": "June 15",
+        "event": "Courses Begin—Summer 2",
+        "source": "table"
+      },
+      {
+        "date": "June 19",
+        "event": "Last Day to Add/Drop Courses with No Tuition Charges—Summer 2",
+        "source": "table"
+      },
+      {
+        "date": "June 19",
+        "event": "Juneteenth Day—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "June 26",
+        "event": "Last Day to Request Late Registration—Summer Session 2",
+        "source": "table"
+      },
+      {
+        "date": "July 3",
+        "event": "Independence Day (Observed)—No Classes",
+        "source": "table"
+      },
+      {
+        "date": "July 21",
+        "event": "Last Day to Withdraw—Summer 2",
+        "source": "table"
+      },
+      {
+        "date": "July 21",
+        "event": "PBA: Last Day for Converting MOOC into a Credit—Coursera Summer Term",
+        "source": "table"
+      },
+      {
+        "date": "August 8",
+        "event": "Last Day of Courses—Summer 2",
+        "source": "table"
+      },
+      {
+        "date": "August 11",
+        "event": "Final Grades Due at Noon (CST)—Summer 2",
+        "source": "table"
+      },
+      {
+        "date": "August 15",
+        "event": "Summer Combined Session Degree Conferral",
+        "source": "table"
+      }
+    ]
+  }
+]

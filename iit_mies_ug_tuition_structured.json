@@ -1,0 +1,89 @@
+{
+  "tuition": [
+    {
+      "cohort": "Admitted Summer 2015\u2013Spring 2026",
+      "full_time_per_semester": 25824,
+      "per_credit": 1612
+    },
+    {
+      "cohort": "Admitted Summer 2010\u2013Spring 2015",
+      "full_time_per_semester": 25150,
+      "per_credit": 1574
+    }
+  ],
+  "fees": [
+    {
+      "fee_name": "Full time",
+      "amount": 125,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Part time",
+      "amount": 50,
+      "unit": "per course",
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Full time (Entering 2023 Summer)",
+      "amount": 750,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Part time (Entering 2023 Summer)",
+      "amount": 300,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Full time (Summer 2010\u2013Spring 2023)",
+      "amount": 530,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Part time (Summer 2010\u2013Spring 2023)",
+      "amount": 190,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "UPass Fee \u00bb",
+      "amount": 155,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "Health Insurance \u00bb",
+      "amount": 2343,
+      "unit": null,
+      "category": "Mandatory Fees"
+    },
+    {
+      "fee_name": "(Admitted Summer 2010\u2013Summer 2023)",
+      "amount": 200,
+      "unit": null,
+      "category": "Other Fees"
+    },
+    {
+      "fee_name": "Late Graduation Application Fee \u00bb",
+      "amount": 110,
+      "unit": null,
+      "category": "Other Fees"
+    },
+    {
+      "fee_name": "Credit By Proficiency Exam",
+      "amount": 250,
+      "unit": "per credit hour",
+      "category": "Other Fees"
+    },
+    {
+      "fee_name": "Undergraduate Admissions Deposit",
+      "amount": 300,
+      "unit": null,
+      "category": "Other Fees"
+    }
+  ],
+  "source_url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-undergraduate"
+}
