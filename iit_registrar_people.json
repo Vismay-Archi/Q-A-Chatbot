@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.iit.edu/registrar/people",
+  "page_title": "People",
+  "people": [
+    {
+      "name": "Khalilah Guyton-Hamlin",
+      "title": "University Registrar",
+      "bio": "Khalilah Guyton-Hamlin is responsible for providing leadership and management in the area of CourseLeaf CIM, as well as operations of budgeting, planning, policy, data-sharing agreements, academic calendar, registration, course scheduling — CourseLeaf CLSS, course room assignments, and final examination scheduling. Responsible for the oversight of scheduling and registration; and serving as the Banner student lead and FERPA compliance officer.",
+      "phone": null,
+      "email": "kguytonhamlin@illinoistech.edu",
+      "source_url": "https://www.iit.edu/registrar/people"
+    },
+    {
+      "name": "Ayesha Qamer",
+      "title": "Courseleaf Administrator",
+      "bio": "Ayesha Qamer is responsible for all functionalities of CourseLeaf which includes CAT, CIM, and CLSS. She also is responsible for providing first-level support in registration, assisting in making basic updates to the course schedule to ensure accuracy as it relates to classroom assignments, faculty assignments, and maintaining documentation for registration processes, both internal and student-facing.",
+      "phone": null,
+      "email": "aqamer@illinoistech.edu",
+      "source_url": "https://www.iit.edu/registrar/people"
+    },
+    {
+      "name": "Safiya Yasin",
+      "title": "Student Services Coordinator",
+      "bio": "Safiya Yasin is responsible for being the first point of contact within the Registrar office in order to answer questions from students, faculty and staff. Safiya is responsible for registration related concerns and assistance. She is responsible for Enrollment Verifications and Personal Identification updates. She assists the team with other duties as assigned but is responsible to ensure the front office runs smoothly so that all students and staff are receive top notch assistance when they visit the Registrar office space",
+      "phone": null,
+      "email": "syasin1@illinoistech.edu",
+      "source_url": "https://www.iit.edu/registrar/people"
+    }
+  ]
+}
