@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-graduate",
+  "page_title": "Mies Campus Graduate",
+  "tuition_rates": [
+    {
+      "label": "Summer Courses (Summer 2025)",
+      "amount": 1780,
+      "unit": "per credit hour"
+    },
+    {
+      "label": "Fall 2025 Mies (Main) Campus graduate students",
+      "amount": 1851,
+      "unit": "per credit hour"
+    },
+    {
+      "label": "Short Courses",
+      "amount": 2314,
+      "unit": "per course"
+    },
+    {
+      "label": "CAPS Courses",
+      "amount": 1851,
+      "unit": "per course"
+    }
+  ],
+  "fees": [
+    {
+      "fee_name": "Activity Fee",
+      "rows": [
+        {
+          "label": "Full time",
+          "amount": 125,
+          "unit": null
+        },
+        {
+          "label": "Part time",
+          "amount": 50,
+          "unit": "per course"
+        }
+      ]
+    },
+    {
+      "fee_name": "Student Service Fee",
+      "rows": [
+        {
+          "label": "Full time (Entering 2023 Summer)",
+          "amount": 750,
+          "unit": null
+        },
+        {
+          "label": "Part time (Entering 2023 Summer)",
+          "amount": 300,
+          "unit": null
+        },
+        {
+          "label": "Full time (Summer 2010 - Spring 2023)",
+          "amount": 530,
+          "unit": null
+        },
+        {
+          "label": "Part time (Summer 2010 - Spring 2023)",
+          "amount": 190,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "fee_name": "UPass Fee",
+      "rows": [
+        {
+          "label": "Fall 2025 & Spring 2026 Opt-In",
+          "amount": 155,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "fee_name": "Course Fees",
+      "rows": [
+        {
+          "label": "Health Insurance \u00bb",
+          "amount": 2343,
+          "unit": null
+        }
+      ]
+    }
+  ]
+}
