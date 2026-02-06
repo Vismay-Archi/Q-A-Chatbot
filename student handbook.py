@@ -47,7 +47,7 @@ with pdfplumber.open(pdf_path) as pdf:
         'tables': tables_data
     }
     
-    with open('extracted_data.json', 'w', encoding='utf-8') as f:
+    with open('Student Handbook.json', 'w', encoding='utf-8') as f:
         json.dump(complete_data, f, indent=2, ensure_ascii=False)
     
     print("\n✓ Complete! Data saved to extracted_data.json")
