@@ -1,0 +1,837 @@
+{
+  "site": "Illinois Institute of Technology (Registrar)",
+  "seed_urls": [
+    "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+    "https://www.iit.edu/registrar/students-and-alumni"
+  ],
+  "pages": [
+    {
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "sections": [
+        {
+          "heading": "Transcripts",
+          "text": "- Home - Office of the Registrar - Students and Alumni - Transcripts"
+        },
+        {
+          "heading": "Students and Alumni",
+          "text": "- Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact An official transcript of a student's academic record at Illinois Institute of Technology is available only through the Office of the Registrar, upon the authorized request of the student. Illinois Tech has partnered with Parchment to take online requests for transcript orders. Law students should contact the Conviser Law Center Registrar's Office for services. This service allows students and alumni to order official electronic/PDF transcripts via the web at any time, with worldwide delivery in about an hour. - The electronic/PDF transcript option offers online order tracking—with the time, date, and name of the person who received your record. No need to pay for FedEx! - All transcripts from 1980 to the present can be delivered in an electronic/PDF format. - PDF transcripts viewed electronically are recognized as official documents. A printed copy of a PDF transcript will be considered \"unofficial\" and will display the words \"PRINTED COPY\" on all pages of the PDF. - Any financial hold on a student's account must be cleared before a transcript will be released, however, Illinois Tech provides official transcripts to students with outstanding balances if the student requests the official transcript to: complete a job application transfer from one institution of higher education to another apply for state, federal, or institutional financial aid join the United States Armed Forces or Illinois National Guard pursue other postsecondary opportunities - complete a job application - transfer from one institution of higher education to another - apply for state, federal, or institutional financial aid - join the United States Armed Forces or Illinois National Guard - pursue other postsecondary opportunities - In addition, Illinois Tech will provide an official transcript to a current or prospective employer notwithstanding a financial hold on the student's account. Students seeking an aforementioned exemption to the financial hold should contact Student Accounting. - Payment for orders must be received before a transcript request will be processed. - $10 for each electronic/PDF transcript - $12 for each printed transcript sent via the United States Postal Service first-class mail (regular mail) - Federal Express (FedEx) delivery service is available for an additional fee - Transcripts are packaged in a sealed security envelope. If the seal is broken, the transcript is no longer deemed official. - Attachments can be included with the transcript per your request. See the FAQ below for more information. - If more than one transcript is being sent to the same address, they will be shipped in one large envelope containing each individually sealed transcript. - Academic records for students pursuing doctoral-level credit prior to August 2016 have been consolidated into a unified graduate level record. This change incorporates credit hours, grades, quality points, and term grade-point average from the formerly separate master's and doctoral levels into a single graduate level moving forward. As a result, a recalculated cumulative grade-point average for combined master's and doctoral level credit appears on the official transcript. Credit earned at the graduate business or law levels remain separate and are not affected by this change."
+        },
+        {
+          "heading": "How To Order",
+          "text": "- Log in to the Illinois Tech Portal . - Type \"Order Official Transcript\" in the search bar. - Click on the \"Order Official Transcript\" Tool. After placing your order, you will be contacted when your transcript request has been processed. - Visit Illinois Tech's Parchment page to complete the online order process and pay by credit card. After placing your order, you will be contacted when your transcript has been processed and mailed. - If you do not have access to the internet, you may contact our service provider, Parchment, at 847.716.3005 for assistance with placing an order."
+        },
+        {
+          "heading": "Can I Send an Attachment?",
+          "text": "Yes! When placing your order, during the recipient selection process, you have the option to mark a checkbox noting that you will send an attachment. Follow all additional instructions and your attachment(s) will be included with your transcript."
+        },
+        {
+          "heading": "What if I Don't Recall My Student ID?",
+          "text": "If you don't know your student ID number and do not wish to enter your Social Security Number (SSN) when placing your order, please enter a nine-character sequence (e.g. A12345678) as your student ID."
+        },
+        {
+          "heading": "Where Is My Order?",
+          "text": "To check the status of your order, please click here and log in to your Parchment account. You will need your order or student ID number."
+        },
+        {
+          "heading": "Can I Cancel My Order?",
+          "text": "To cancel your order, please click here and log in to your Parchment account. You will need your order or student ID number. You may only cancel orders that have not been filled."
+        },
+        {
+          "heading": "Illinois Student Debt Assistance Act",
+          "text": "In accordance with law, the university may not: - refuse to provide an unofficial transcript to a current or former student on the grounds that the student owes a debt - condition the provision of an unofficial transcript on the payment of a debt, other than a fee charged to provide the transcript - charge a higher fee for obtaining an unofficial transcript or provide less favorable treatment of a request for an unofficial transcript because a current or former student owes a debt. In accordance with law, the university: - must provide an official transcript of a current or former student to a current or potential employer, even if the current or former student owes a debt; - may not condition the provision of an official transcript to a current or potential employer on the payment of a debt, other than a fee charged to provide the transcript - may not charge a higher fee for transferring an official transcript to a current or potential employer or provide less favorable treatment for such a request because a current or former student owes a debt."
+        },
+        {
+          "heading": "Additional Assistance and Questions",
+          "text": "If you have any questions regarding the online request system, please contact Parchment support and they will be able to answer any questions or assist you with ordering online."
+        },
+        {
+          "heading": "Apostille Transcript",
+          "text": "If you require an apostille transcript, please visit our Apostille Certifications page for instructions."
+        }
+      ],
+      "links": [
+        {
+          "text": "Office of the Registrar",
+          "url": "https://www.iit.edu/registrar"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.iit.edu/"
+        },
+        {
+          "text": "Office of the Registrar",
+          "url": "https://www.iit.edu/registrar"
+        },
+        {
+          "text": "Students and Alumni",
+          "url": "https://www.iit.edu/registrar/students-and-alumni"
+        },
+        {
+          "text": "Students and Alumni",
+          "url": "https://www.iit.edu/registrar/students-and-alumni"
+        },
+        {
+          "text": "Apostille Certifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/apostille-certifications"
+        },
+        {
+          "text": "Diplomas",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/diplomas"
+        },
+        {
+          "text": "Enrollment and Degree Verifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/enrollment-and-degree-verifications"
+        },
+        {
+          "text": "FERPA",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/ferpa"
+        },
+        {
+          "text": "Transcripts",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/transcripts"
+        },
+        {
+          "text": "Update Personal Information",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/update-personal-information"
+        },
+        {
+          "text": "Grade Legend",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/grade-legend"
+        },
+        {
+          "text": "Registrar Archives",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/registrar-archives"
+        },
+        {
+          "text": "ROTC Crosstown Contact",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/rotc-crosstown-contact"
+        },
+        {
+          "text": "Conviser Law Center Registrar's Office",
+          "url": "https://kentlaw.iit.edu/law/about/directories/office-registrar"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu"
+        },
+        {
+          "text": "Illinois Tech's Parchment page",
+          "url": "https://www.parchment.com/u/registration/33812/institution"
+        },
+        {
+          "text": "click here",
+          "url": "https://www.parchment.com/u/order/track"
+        },
+        {
+          "text": "click here",
+          "url": "https://www.parchment.com/u/order/track"
+        },
+        {
+          "text": "Parchment support",
+          "url": "https://www.parchment.com/chat-support/"
+        },
+        {
+          "text": "Apostille Certifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/apostille-certifications"
+        }
+      ],
+      "chunks": [
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec0::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Transcripts",
+          "text": "- Home - Office of the Registrar - Students and Alumni - Transcripts"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Students and Alumni",
+          "text": "- Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact An official transcript of a student's academic record at Illinois Institute of Technology is available only through the Office of the Registrar, upon the authorized request of the student. Illinois Tech has partnered with Parchment to take online requests for transcript orders. Law students should contact the Conviser Law Center Registrar's Office for services. This service allows students and alumni to order official electronic/PDF transcripts via the web at any time, with worldwide delivery in about an hour. - The electronic/PDF transcript option offers online order tracking—with the time, date, and na"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off800",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Students and Alumni",
+          "text": "me of the person who received your record. No need to pay for FedEx! - All transcripts from 1980 to the present can be delivered in an electronic/PDF format. - PDF transcripts viewed electronically are recognized as official documents. A printed copy of a PDF transcript will be considered \"unofficial\" and will display the words \"PRINTED COPY\" on all pages of the PDF. - Any financial hold on a student's account must be cleared before a transcript will be released, however, Illinois Tech provides official transcripts to students with outstanding balances if the student requests the official transcript to: complete a job application transfer from one institution of higher education to another apply for state, federal, or institutional financial aid join the United States Armed Forces or Illin"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off1600",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Students and Alumni",
+          "text": "ois National Guard pursue other postsecondary opportunities - complete a job application - transfer from one institution of higher education to another - apply for state, federal, or institutional financial aid - join the United States Armed Forces or Illinois National Guard - pursue other postsecondary opportunities - In addition, Illinois Tech will provide an official transcript to a current or prospective employer notwithstanding a financial hold on the student's account. Students seeking an aforementioned exemption to the financial hold should contact Student Accounting. - Payment for orders must be received before a transcript request will be processed. - $10 for each electronic/PDF transcript - $12 for each printed transcript sent via the United States Postal Service first-class mail"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off2400",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Students and Alumni",
+          "text": "(regular mail) - Federal Express (FedEx) delivery service is available for an additional fee - Transcripts are packaged in a sealed security envelope. If the seal is broken, the transcript is no longer deemed official. - Attachments can be included with the transcript per your request. See the FAQ below for more information. - If more than one transcript is being sent to the same address, they will be shipped in one large envelope containing each individually sealed transcript. - Academic records for students pursuing doctoral-level credit prior to August 2016 have been consolidated into a unified graduate level record. This change incorporates credit hours, grades, quality points, and term grade-point average from the formerly separate master's and doctoral levels into a single graduate"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off3200",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Students and Alumni",
+          "text": "level moving forward. As a result, a recalculated cumulative grade-point average for combined master's and doctoral level credit appears on the official transcript. Credit earned at the graduate business or law levels remain separate and are not affected by this change."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec2::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "How To Order",
+          "text": "- Log in to the Illinois Tech Portal . - Type \"Order Official Transcript\" in the search bar. - Click on the \"Order Official Transcript\" Tool. After placing your order, you will be contacted when your transcript request has been processed. - Visit Illinois Tech's Parchment page to complete the online order process and pay by credit card. After placing your order, you will be contacted when your transcript has been processed and mailed. - If you do not have access to the internet, you may contact our service provider, Parchment, at 847.716.3005 for assistance with placing an order."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec3::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Can I Send an Attachment?",
+          "text": "Yes! When placing your order, during the recipient selection process, you have the option to mark a checkbox noting that you will send an attachment. Follow all additional instructions and your attachment(s) will be included with your transcript."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec4::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "What if I Don't Recall My Student ID?",
+          "text": "If you don't know your student ID number and do not wish to enter your Social Security Number (SSN) when placing your order, please enter a nine-character sequence (e.g. A12345678) as your student ID."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec5::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Where Is My Order?",
+          "text": "To check the status of your order, please click here and log in to your Parchment account. You will need your order or student ID number."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec6::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Can I Cancel My Order?",
+          "text": "To cancel your order, please click here and log in to your Parchment account. You will need your order or student ID number. You may only cancel orders that have not been filled."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec7::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Illinois Student Debt Assistance Act",
+          "text": "In accordance with law, the university may not: - refuse to provide an unofficial transcript to a current or former student on the grounds that the student owes a debt - condition the provision of an unofficial transcript on the payment of a debt, other than a fee charged to provide the transcript - charge a higher fee for obtaining an unofficial transcript or provide less favorable treatment of a request for an unofficial transcript because a current or former student owes a debt. In accordance with law, the university: - must provide an official transcript of a current or former student to a current or potential employer, even if the current or former student owes a debt; - may not condition the provision of an official transcript to a current or potential employer on the payment of a de"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec7::off800",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Illinois Student Debt Assistance Act",
+          "text": "bt, other than a fee charged to provide the transcript - may not charge a higher fee for transferring an official transcript to a current or potential employer or provide less favorable treatment for such a request because a current or former student owes a debt."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec8::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Additional Assistance and Questions",
+          "text": "If you have any questions regarding the online request system, please contact Parchment support and they will be able to answer any questions or assist you with ordering online."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec9::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "title": "Transcripts | Illinois Institute of Technology",
+          "page_h1": "Transcripts",
+          "section_heading": "Apostille Transcript",
+          "text": "If you require an apostille transcript, please visit our Apostille Certifications page for instructions."
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "sections": [
+        {
+          "heading": "Students and Alumni",
+          "text": "- Home - Office of the Registrar - Students and Alumni"
+        },
+        {
+          "heading": "Office of the Registrar",
+          "text": "- People - Registration Hold Information Prerequisites Course Repeat Policy Late Registration Request Internet Course Registration Credit Hour Limits Advising Undergraduate Approval for a Graduate Course Taking a Course for Pass/Fail Auditing a Course Full-time Status Tuition and Fees Requirements PIN How to Register Resources Registration Errors and Descriptions Waitlisting Overview Waitlist Managers Department Permit and Time-Conflict Permit Approvers Registration Changes: Add/Drop, W Grades Withdrawal from a Course Leave of Absence or Withdrawal from the University FAQs - Hold Information - Prerequisites - Course Repeat Policy - Late Registration Request - Internet Course Registration - Credit Hour Limits - Advising - Undergraduate Approval for a Graduate Course - Taking a Course for Pass/Fail - Auditing a Course - Full-time Status - Tuition and Fees - Requirements - PIN - How to Register - Resources - Registration Errors and Descriptions - Waitlisting Overview - Waitlist Managers - Department Permit and Time-Conflict Permit Approvers - Registration Changes: Add/Drop, W Grades - Withdrawal from a Course - Leave of Absence or Withdrawal from the University - FAQs - Academic Calendar Final Exam Schedule Subsequent Academic Years - Final Exam Schedule - Subsequent Academic Years - Students and Alumni Apostille Certifications Diplomas Enrollment and Degree Verifications FERPA Transcripts Update Personal Information Grade Legend Registrar Archives ROTC Crosstown Contact - Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact - Faculty and Staff - Important Information Midwest College of Engineering - Midwest College of Engineering - Coursera - Policies and Procedures Compressed Term Courses Contact and Credit Hours Course Cancellation Policy Physical or Financial Hardship Withdrawal Policy Preferred First Name Policy Withdrawing from vs. Dropping a Course - Compressed Term Courses - Contact and Credit Hours - Course Cancellation Policy - Physical or Financial Hardship Withdrawal Policy - Preferred First Name Policy - Withdrawing from vs. Dropping a Course"
+        },
+        {
+          "heading": "Records Services",
+          "text": "For more information on the records services provided by the Office of the Registrar, please select a link below. For graduation ceremony information, please visit the Commencement website . Law students should contact the Conviser Law Center Registrar's Office for services at REGQ@kentlaw.iit.edu . - Apostille Certifications - Diplomas Diploma Replacement Request Form Diploma Shipping Request Form - Diploma Replacement Request Form - Diploma Shipping Request Form - Enrollment and Degree Verifications - FERPA—Family Educational Rights and Privacy Act - Transcripts - Update Personal Information"
+        },
+        {
+          "heading": "Class Schedules Search",
+          "text": "The Class Schedules search provides the courses that are available for a selected term. This tool should be used when scheduling for next semester. The Class Schedules search can be accessed by clicking here ."
+        },
+        {
+          "heading": "Other Services and Information",
+          "text": "- Grade Legend - Registrar Archives - ROTC Crosstown Contact"
+        },
+        {
+          "heading": "Course Catalogs",
+          "text": "For further information regarding undergraduate catalogs, please contact the Office of Undergraduate Academic Affairs . Learn More For further information regarding graduate catalogs, please contact the Office of Graduate Academic Affairs . Learn More"
+        }
+      ],
+      "links": [
+        {
+          "text": "Office of the Registrar",
+          "url": "https://www.iit.edu/registrar"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.iit.edu/"
+        },
+        {
+          "text": "Office of the Registrar",
+          "url": "https://www.iit.edu/registrar"
+        },
+        {
+          "text": "Office of the Registrar",
+          "url": "https://www.iit.edu/registrar"
+        },
+        {
+          "text": "People",
+          "url": "https://www.iit.edu/registrar/people"
+        },
+        {
+          "text": "Registration",
+          "url": "https://www.iit.edu/registrar/registration"
+        },
+        {
+          "text": "Hold Information",
+          "url": "https://www.iit.edu/registrar/registration/hold-information"
+        },
+        {
+          "text": "Prerequisites",
+          "url": "https://www.iit.edu/registrar/registration/prerequisites"
+        },
+        {
+          "text": "Course Repeat Policy",
+          "url": "https://www.iit.edu/registrar/registration/course-repeat-policy"
+        },
+        {
+          "text": "Late Registration Request",
+          "url": "https://www.iit.edu/registrar/registration/late-registration-request"
+        },
+        {
+          "text": "Internet Course Registration",
+          "url": "https://www.iit.edu/registrar/registration/internet-course-registration"
+        },
+        {
+          "text": "Credit Hour Limits",
+          "url": "https://www.iit.edu/registrar/registration/credit-hour-limits"
+        },
+        {
+          "text": "Advising",
+          "url": "https://www.iit.edu/registrar/registration/advising"
+        },
+        {
+          "text": "Undergraduate Approval for a Graduate Course",
+          "url": "https://www.iit.edu/registrar/registration/undergraduate-approval-graduate-course"
+        },
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "url": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Auditing a Course",
+          "url": "https://www.iit.edu/registrar/registration/auditing-course"
+        },
+        {
+          "text": "Full-time Status",
+          "url": "https://www.iit.edu/registrar/registration/full-time-status"
+        },
+        {
+          "text": "Tuition and Fees",
+          "url": "https://www.iit.edu/financial-aid/tuition-fees-and-costs"
+        },
+        {
+          "text": "Requirements",
+          "url": "https://www.iit.edu/registrar/registration/requirements"
+        },
+        {
+          "text": "PIN",
+          "url": "https://www.iit.edu/registrar/registration/pin"
+        },
+        {
+          "text": "How to Register",
+          "url": "https://www.iit.edu/registrar/registration/how-register"
+        },
+        {
+          "text": "Resources",
+          "url": "https://www.iit.edu/registrar/registration/resources"
+        },
+        {
+          "text": "Registration Errors and Descriptions",
+          "url": "https://www.iit.edu/registrar/registration/registration-errors-and-descriptions"
+        },
+        {
+          "text": "Waitlisting Overview",
+          "url": "https://www.iit.edu/registrar/registration/waitlisting-overview"
+        },
+        {
+          "text": "Waitlist Managers",
+          "url": "https://www.iit.edu/registrar/registration/waitlist-managers"
+        },
+        {
+          "text": "Department Permit and Time-Conflict Permit Approvers",
+          "url": "https://www.iit.edu/registrar/registration/department-permit-and-time-conflict-permit-approvers"
+        },
+        {
+          "text": "Registration Changes: Add/Drop, W Grades",
+          "url": "https://www.iit.edu/registrar/registration/registration-changes-add-drop-w-grades"
+        },
+        {
+          "text": "Withdrawal from a Course",
+          "url": "https://www.iit.edu/registrar/registration/withdrawal-course"
+        },
+        {
+          "text": "Leave of Absence or Withdrawal from the University",
+          "url": "https://www.iit.edu/registrar/registration/leave-absence-or-withdrawal-university"
+        },
+        {
+          "text": "FAQs",
+          "url": "https://www.iit.edu/registrar/registration/faqs"
+        },
+        {
+          "text": "Academic Calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar"
+        },
+        {
+          "text": "Final Exam Schedule",
+          "url": "https://www.iit.edu/registrar/academic-calendar/final-exam-schedule"
+        },
+        {
+          "text": "Subsequent Academic Years",
+          "url": "https://www.iit.edu/registrar/academic-calendar/subsequent-academic-years"
+        },
+        {
+          "text": "Students and Alumni",
+          "url": "https://www.iit.edu/registrar/students-and-alumni"
+        },
+        {
+          "text": "Apostille Certifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/apostille-certifications"
+        },
+        {
+          "text": "Diplomas",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/diplomas"
+        },
+        {
+          "text": "Enrollment and Degree Verifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/enrollment-and-degree-verifications"
+        },
+        {
+          "text": "FERPA",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/ferpa"
+        },
+        {
+          "text": "Transcripts",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/transcripts"
+        },
+        {
+          "text": "Update Personal Information",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/update-personal-information"
+        },
+        {
+          "text": "Grade Legend",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/grade-legend"
+        },
+        {
+          "text": "Registrar Archives",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/registrar-archives"
+        },
+        {
+          "text": "ROTC Crosstown Contact",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/rotc-crosstown-contact"
+        },
+        {
+          "text": "Faculty and Staff",
+          "url": "https://www.iit.edu/registrar/faculty-and-staff"
+        },
+        {
+          "text": "Important Information",
+          "url": "https://www.iit.edu/registrar/important-information"
+        },
+        {
+          "text": "Midwest College of Engineering",
+          "url": "https://www.iit.edu/registrar/important-information/midwest-college-engineering"
+        },
+        {
+          "text": "Coursera",
+          "url": "https://www.iit.edu/coursera"
+        },
+        {
+          "text": "Policies and Procedures",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures"
+        },
+        {
+          "text": "Compressed Term Courses",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures/compressed-term-courses"
+        },
+        {
+          "text": "Contact and Credit Hours",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures/contact-and-credit-hours"
+        },
+        {
+          "text": "Course Cancellation Policy",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures/course-cancellation-policy"
+        },
+        {
+          "text": "Physical or Financial Hardship Withdrawal Policy",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures/physical-or-financial-hardship-withdrawal-policy"
+        },
+        {
+          "text": "Preferred First Name Policy",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/preferred-first-name-policy"
+        },
+        {
+          "text": "Withdrawing from vs. Dropping a Course",
+          "url": "https://www.iit.edu/registrar/policies-and-procedures/withdrawing-vs-dropping-course"
+        },
+        {
+          "text": "Commencement website",
+          "url": "https://www.iit.edu/commencement"
+        },
+        {
+          "text": "REGQ@kentlaw.iit.edu",
+          "url": "mailto:REGQ@kentlaw.iit.edu"
+        },
+        {
+          "text": "Apostille Certifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/apostille-certifications"
+        },
+        {
+          "text": "Diplomas",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/diplomas"
+        },
+        {
+          "text": "Diploma Replacement Request Form",
+          "url": "https://my105.iit.edu/registrar/forms/view.php?id=33243"
+        },
+        {
+          "text": "Diploma Shipping Request Form",
+          "url": "https://my105.iit.edu/registrar/forms/view.php?id=10800"
+        },
+        {
+          "text": "Enrollment and Degree Verifications",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/enrollment-and-degree-verifications"
+        },
+        {
+          "text": "FERPA—Family Educational Rights and Privacy Act",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/ferpa"
+        },
+        {
+          "text": "Transcripts",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/transcripts"
+        },
+        {
+          "text": "Update Personal Information",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/update-personal-information"
+        },
+        {
+          "text": "here",
+          "url": "https://ssb.iit.edu/bnrprd/bwckschd.p_disp_dyn_sched"
+        },
+        {
+          "text": "Grade Legend",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/grade-legend"
+        },
+        {
+          "text": "Registrar Archives",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/registrar-archives"
+        },
+        {
+          "text": "ROTC Crosstown Contact",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/rotc-crosstown-contact"
+        },
+        {
+          "text": "Office of Undergraduate Academic Affairs",
+          "url": "https://www.iit.edu/ugaa"
+        },
+        {
+          "text": "Learn More",
+          "url": "http://catalog.iit.edu/undergraduate/"
+        },
+        {
+          "text": "Office of Graduate Academic Affairs",
+          "url": "https://www.iit.edu/gaa"
+        },
+        {
+          "text": "Learn More",
+          "url": "http://catalog.iit.edu/graduate/"
+        }
+      ],
+      "chunks": [
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec0::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Students and Alumni",
+          "text": "- Home - Office of the Registrar - Students and Alumni"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Office of the Registrar",
+          "text": "- People - Registration Hold Information Prerequisites Course Repeat Policy Late Registration Request Internet Course Registration Credit Hour Limits Advising Undergraduate Approval for a Graduate Course Taking a Course for Pass/Fail Auditing a Course Full-time Status Tuition and Fees Requirements PIN How to Register Resources Registration Errors and Descriptions Waitlisting Overview Waitlist Managers Department Permit and Time-Conflict Permit Approvers Registration Changes: Add/Drop, W Grades Withdrawal from a Course Leave of Absence or Withdrawal from the University FAQs - Hold Information - Prerequisites - Course Repeat Policy - Late Registration Request - Internet Course Registration - Credit Hour Limits - Advising - Undergraduate Approval for a Graduate Course - Taking a Course for Pa"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off800",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Office of the Registrar",
+          "text": "ss/Fail - Auditing a Course - Full-time Status - Tuition and Fees - Requirements - PIN - How to Register - Resources - Registration Errors and Descriptions - Waitlisting Overview - Waitlist Managers - Department Permit and Time-Conflict Permit Approvers - Registration Changes: Add/Drop, W Grades - Withdrawal from a Course - Leave of Absence or Withdrawal from the University - FAQs - Academic Calendar Final Exam Schedule Subsequent Academic Years - Final Exam Schedule - Subsequent Academic Years - Students and Alumni Apostille Certifications Diplomas Enrollment and Degree Verifications FERPA Transcripts Update Personal Information Grade Legend Registrar Archives ROTC Crosstown Contact - Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off1600",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Office of the Registrar",
+          "text": "Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact - Faculty and Staff - Important Information Midwest College of Engineering - Midwest College of Engineering - Coursera - Policies and Procedures Compressed Term Courses Contact and Credit Hours Course Cancellation Policy Physical or Financial Hardship Withdrawal Policy Preferred First Name Policy Withdrawing from vs. Dropping a Course - Compressed Term Courses - Contact and Credit Hours - Course Cancellation Policy - Physical or Financial Hardship Withdrawal Policy - Preferred First Name Policy - Withdrawing from vs. Dropping a Course"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec2::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Records Services",
+          "text": "For more information on the records services provided by the Office of the Registrar, please select a link below. For graduation ceremony information, please visit the Commencement website . Law students should contact the Conviser Law Center Registrar's Office for services at REGQ@kentlaw.iit.edu . - Apostille Certifications - Diplomas Diploma Replacement Request Form Diploma Shipping Request Form - Diploma Replacement Request Form - Diploma Shipping Request Form - Enrollment and Degree Verifications - FERPA—Family Educational Rights and Privacy Act - Transcripts - Update Personal Information"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec3::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Class Schedules Search",
+          "text": "The Class Schedules search provides the courses that are available for a selected term. This tool should be used when scheduling for next semester. The Class Schedules search can be accessed by clicking here ."
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec4::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Other Services and Information",
+          "text": "- Grade Legend - Registrar Archives - ROTC Crosstown Contact"
+        },
+        {
+          "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec5::off0",
+          "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+          "title": "Students and Alumni | Illinois Institute of Technology",
+          "page_h1": "Students and Alumni",
+          "section_heading": "Course Catalogs",
+          "text": "For further information regarding undergraduate catalogs, please contact the Office of Undergraduate Academic Affairs . Learn More For further information regarding graduate catalogs, please contact the Office of Graduate Academic Affairs . Learn More"
+        }
+      ]
+    }
+  ],
+  "all_chunks": [
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec0::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Transcripts",
+      "text": "- Home - Office of the Registrar - Students and Alumni - Transcripts"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Students and Alumni",
+      "text": "- Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact An official transcript of a student's academic record at Illinois Institute of Technology is available only through the Office of the Registrar, upon the authorized request of the student. Illinois Tech has partnered with Parchment to take online requests for transcript orders. Law students should contact the Conviser Law Center Registrar's Office for services. This service allows students and alumni to order official electronic/PDF transcripts via the web at any time, with worldwide delivery in about an hour. - The electronic/PDF transcript option offers online order tracking—with the time, date, and na"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off800",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Students and Alumni",
+      "text": "me of the person who received your record. No need to pay for FedEx! - All transcripts from 1980 to the present can be delivered in an electronic/PDF format. - PDF transcripts viewed electronically are recognized as official documents. A printed copy of a PDF transcript will be considered \"unofficial\" and will display the words \"PRINTED COPY\" on all pages of the PDF. - Any financial hold on a student's account must be cleared before a transcript will be released, however, Illinois Tech provides official transcripts to students with outstanding balances if the student requests the official transcript to: complete a job application transfer from one institution of higher education to another apply for state, federal, or institutional financial aid join the United States Armed Forces or Illin"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off1600",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Students and Alumni",
+      "text": "ois National Guard pursue other postsecondary opportunities - complete a job application - transfer from one institution of higher education to another - apply for state, federal, or institutional financial aid - join the United States Armed Forces or Illinois National Guard - pursue other postsecondary opportunities - In addition, Illinois Tech will provide an official transcript to a current or prospective employer notwithstanding a financial hold on the student's account. Students seeking an aforementioned exemption to the financial hold should contact Student Accounting. - Payment for orders must be received before a transcript request will be processed. - $10 for each electronic/PDF transcript - $12 for each printed transcript sent via the United States Postal Service first-class mail"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off2400",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Students and Alumni",
+      "text": "(regular mail) - Federal Express (FedEx) delivery service is available for an additional fee - Transcripts are packaged in a sealed security envelope. If the seal is broken, the transcript is no longer deemed official. - Attachments can be included with the transcript per your request. See the FAQ below for more information. - If more than one transcript is being sent to the same address, they will be shipped in one large envelope containing each individually sealed transcript. - Academic records for students pursuing doctoral-level credit prior to August 2016 have been consolidated into a unified graduate level record. This change incorporates credit hours, grades, quality points, and term grade-point average from the formerly separate master's and doctoral levels into a single graduate"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec1::off3200",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Students and Alumni",
+      "text": "level moving forward. As a result, a recalculated cumulative grade-point average for combined master's and doctoral level credit appears on the official transcript. Credit earned at the graduate business or law levels remain separate and are not affected by this change."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec2::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "How To Order",
+      "text": "- Log in to the Illinois Tech Portal . - Type \"Order Official Transcript\" in the search bar. - Click on the \"Order Official Transcript\" Tool. After placing your order, you will be contacted when your transcript request has been processed. - Visit Illinois Tech's Parchment page to complete the online order process and pay by credit card. After placing your order, you will be contacted when your transcript has been processed and mailed. - If you do not have access to the internet, you may contact our service provider, Parchment, at 847.716.3005 for assistance with placing an order."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec3::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Can I Send an Attachment?",
+      "text": "Yes! When placing your order, during the recipient selection process, you have the option to mark a checkbox noting that you will send an attachment. Follow all additional instructions and your attachment(s) will be included with your transcript."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec4::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "What if I Don't Recall My Student ID?",
+      "text": "If you don't know your student ID number and do not wish to enter your Social Security Number (SSN) when placing your order, please enter a nine-character sequence (e.g. A12345678) as your student ID."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec5::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Where Is My Order?",
+      "text": "To check the status of your order, please click here and log in to your Parchment account. You will need your order or student ID number."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec6::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Can I Cancel My Order?",
+      "text": "To cancel your order, please click here and log in to your Parchment account. You will need your order or student ID number. You may only cancel orders that have not been filled."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec7::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Illinois Student Debt Assistance Act",
+      "text": "In accordance with law, the university may not: - refuse to provide an unofficial transcript to a current or former student on the grounds that the student owes a debt - condition the provision of an unofficial transcript on the payment of a debt, other than a fee charged to provide the transcript - charge a higher fee for obtaining an unofficial transcript or provide less favorable treatment of a request for an unofficial transcript because a current or former student owes a debt. In accordance with law, the university: - must provide an official transcript of a current or former student to a current or potential employer, even if the current or former student owes a debt; - may not condition the provision of an official transcript to a current or potential employer on the payment of a de"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec7::off800",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Illinois Student Debt Assistance Act",
+      "text": "bt, other than a fee charged to provide the transcript - may not charge a higher fee for transferring an official transcript to a current or potential employer or provide less favorable treatment for such a request because a current or former student owes a debt."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec8::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Additional Assistance and Questions",
+      "text": "If you have any questions regarding the online request system, please contact Parchment support and they will be able to answer any questions or assist you with ordering online."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni/transcripts::sec9::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+      "title": "Transcripts | Illinois Institute of Technology",
+      "page_h1": "Transcripts",
+      "section_heading": "Apostille Transcript",
+      "text": "If you require an apostille transcript, please visit our Apostille Certifications page for instructions."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec0::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Students and Alumni",
+      "text": "- Home - Office of the Registrar - Students and Alumni"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Office of the Registrar",
+      "text": "- People - Registration Hold Information Prerequisites Course Repeat Policy Late Registration Request Internet Course Registration Credit Hour Limits Advising Undergraduate Approval for a Graduate Course Taking a Course for Pass/Fail Auditing a Course Full-time Status Tuition and Fees Requirements PIN How to Register Resources Registration Errors and Descriptions Waitlisting Overview Waitlist Managers Department Permit and Time-Conflict Permit Approvers Registration Changes: Add/Drop, W Grades Withdrawal from a Course Leave of Absence or Withdrawal from the University FAQs - Hold Information - Prerequisites - Course Repeat Policy - Late Registration Request - Internet Course Registration - Credit Hour Limits - Advising - Undergraduate Approval for a Graduate Course - Taking a Course for Pa"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off800",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Office of the Registrar",
+      "text": "ss/Fail - Auditing a Course - Full-time Status - Tuition and Fees - Requirements - PIN - How to Register - Resources - Registration Errors and Descriptions - Waitlisting Overview - Waitlist Managers - Department Permit and Time-Conflict Permit Approvers - Registration Changes: Add/Drop, W Grades - Withdrawal from a Course - Leave of Absence or Withdrawal from the University - FAQs - Academic Calendar Final Exam Schedule Subsequent Academic Years - Final Exam Schedule - Subsequent Academic Years - Students and Alumni Apostille Certifications Diplomas Enrollment and Degree Verifications FERPA Transcripts Update Personal Information Grade Legend Registrar Archives ROTC Crosstown Contact - Apostille Certifications - Diplomas - Enrollment and Degree Verifications - FERPA - Transcripts - Update"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec1::off1600",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Office of the Registrar",
+      "text": "Personal Information - Grade Legend - Registrar Archives - ROTC Crosstown Contact - Faculty and Staff - Important Information Midwest College of Engineering - Midwest College of Engineering - Coursera - Policies and Procedures Compressed Term Courses Contact and Credit Hours Course Cancellation Policy Physical or Financial Hardship Withdrawal Policy Preferred First Name Policy Withdrawing from vs. Dropping a Course - Compressed Term Courses - Contact and Credit Hours - Course Cancellation Policy - Physical or Financial Hardship Withdrawal Policy - Preferred First Name Policy - Withdrawing from vs. Dropping a Course"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec2::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Records Services",
+      "text": "For more information on the records services provided by the Office of the Registrar, please select a link below. For graduation ceremony information, please visit the Commencement website . Law students should contact the Conviser Law Center Registrar's Office for services at REGQ@kentlaw.iit.edu . - Apostille Certifications - Diplomas Diploma Replacement Request Form Diploma Shipping Request Form - Diploma Replacement Request Form - Diploma Shipping Request Form - Enrollment and Degree Verifications - FERPA—Family Educational Rights and Privacy Act - Transcripts - Update Personal Information"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec3::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Class Schedules Search",
+      "text": "The Class Schedules search provides the courses that are available for a selected term. This tool should be used when scheduling for next semester. The Class Schedules search can be accessed by clicking here ."
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec4::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Other Services and Information",
+      "text": "- Grade Legend - Registrar Archives - ROTC Crosstown Contact"
+    },
+    {
+      "chunk_id": "https://www.iit.edu/registrar/students-and-alumni::sec5::off0",
+      "source_url": "https://www.iit.edu/registrar/students-and-alumni",
+      "title": "Students and Alumni | Illinois Institute of Technology",
+      "page_h1": "Students and Alumni",
+      "section_heading": "Course Catalogs",
+      "text": "For further information regarding undergraduate catalogs, please contact the Office of Undergraduate Academic Affairs . Learn More For further information regarding graduate catalogs, please contact the Office of Graduate Academic Affairs . Learn More"
+    }
+  ]
+}
