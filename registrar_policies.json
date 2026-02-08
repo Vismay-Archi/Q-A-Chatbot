@@ -1,0 +1,37 @@
+{
+  "source": "Illinois Institute of Technology – Office of the Registrar",
+  "page_title": "Policies and Procedures",
+  "url": "https://www.iit.edu/registrar/policies-and-procedures",
+  "scraped_at": "2026-02-08T15:25:29.304614",
+  "description": "Official registrar policies and procedures available to Illinois Tech students, faculty, and staff.",
+  "policies": [
+    {
+      "title": "registrar@illinoistech.edu",
+      "url": "mailto:registrar@illinoistech.edu"
+    },
+    {
+      "title": "Compressed Term Courses",
+      "url": "https://www.iit.edu/registrar/policies-and-procedures/compressed-term-courses"
+    },
+    {
+      "title": "Contact and Credit Hours",
+      "url": "https://www.iit.edu/registrar/policies-and-procedures/contact-and-credit-hours"
+    },
+    {
+      "title": "Course Cancellation Policy",
+      "url": "https://www.iit.edu/registrar/policies-and-procedures/course-cancellation-policy"
+    },
+    {
+      "title": "Physical or Financial Hardship Withdrawal Policy",
+      "url": "https://www.iit.edu/registrar/policies-and-procedures/physical-or-financial-hardship-withdrawal-policy"
+    },
+    {
+      "title": "Preferred First Name Policy",
+      "url": "https://www.iit.edu/registrar/students-and-alumni/preferred-first-name-policy"
+    },
+    {
+      "title": "Withdrawing from vs. Dropping a Course",
+      "url": "https://www.iit.edu/registrar/policies-and-procedures/withdrawing-vs-dropping-course"
+    }
+  ]
+}

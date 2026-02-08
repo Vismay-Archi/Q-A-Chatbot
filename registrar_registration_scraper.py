@@ -4,95 +4,51 @@ import json
 from datetime import datetime
 from urllib.parse import urljoin
 
+URL = "https://www.iit.edu/registrar/policies-and-procedures"
 
-class RegistrationScraper:
-    def __init__(self):
-        self.url = "https://www.iit.edu/registrar/registration"
+def scrape_registrar_policies():
+    response = requests.get(URL, timeout=30)
+    response.raise_for_status()
 
-    def fetch_page(self):
-        """Fetch webpage HTML"""
-        response = requests.get(self.url)
-        response.raise_for_status()
-        return response.text
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    def parse_page(self, html):
-        """Extract needed information from webpage"""
-        soup = BeautifulSoup(html, "html.parser")
+    # Locate the main content area ONLY
+    content = soup.select_one("article.basic-page article.full-wysiwyg")
 
-        # -------- PAGE TITLE --------
-        page_title = soup.find("h1").get_text(strip=True)
+    if not content:
+        raise ValueError("Main content not found")
 
-        # -------- BREADCRUMBS --------
-        breadcrumbs = []
-        breadcrumb_items = soup.select(".breadcrumbs li")
+    policies = []
 
-        for item in breadcrumb_items:
-            breadcrumbs.append(item.get_text(strip=True))
+    for p in content.find_all("p"):
+        link = p.find("a")
 
-        # -------- MAIN CONTENT --------
-        main_content = soup.select(".main-content p")
-        paragraphs = [p.get_text(strip=True) for p in main_content]
+        # Policy links
+        if link and link.get("href"):
+            policies.append({
+                "title": link.get_text(strip=True),
+                "url": urljoin(URL, link["href"])
+            })
 
-        # -------- SIDEBAR LINKS --------
-        sidebar_links = []
-        sidebar = soup.select(".sidebar-menu a")
+    data = {
+        "source": "Illinois Institute of Technology – Office of the Registrar",
+        "page_title": "Policies and Procedures",
+        "url": URL,
+        "scraped_at": datetime.utcnow().isoformat(),
+        "description": (
+            "Official registrar policies and procedures available to "
+            "Illinois Tech students, faculty, and staff."
+        ),
+        "policies": policies
+    }
 
-        for link in sidebar:
-            text = link.get_text(strip=True)
-            href = link.get("href")
-
-            if text and href:
-                sidebar_links.append({
-                    "title": text,
-                    "url": urljoin(self.url, href)
-                })
-
-        # -------- RESOURCE LINKS IN CONTENT --------
-        resource_links = []
-        content_links = soup.select(".main-content a")
-
-        for link in content_links:
-            text = link.get_text(strip=True)
-            href = link.get("href")
-
-            if text and href:
-                resource_links.append({
-                    "title": text,
-                    "url": urljoin(self.url, href)
-                })
-
-        # -------- BUILD JSON STRUCTURE --------
-        data = {
-            "url": self.url,
-            "scrape_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "title": page_title,
-            "breadcrumbs": breadcrumbs,
-            "sections": [
-                {
-                    "section_id": "registration_overview",
-                    "title": page_title,
-                    "paragraphs": paragraphs,
-                    "resource_links": resource_links,
-                    "sidebar_links": sidebar_links
-                }
-            ]
-        }
-
-        return data
-
-    def save_json(self, data, filename="registration.json"):
-        """Save data to JSON file"""
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-
-        print(f"✅ Data saved to {filename}")
-
-    def run(self):
-        html = self.fetch_page()
-        parsed_data = self.parse_page(html)
-        self.save_json(parsed_data)
+    return data
 
 
 if __name__ == "__main__":
-    scraper = RegistrationScraper()
-    scraper.run()
+    scraped_data = scrape_registrar_policies()
+
+    with open("registrar_policies.json", "w", encoding="utf-8") as f:
+        json.dump(scraped_data, f, indent=2, ensure_ascii=False)
+
+    print("Scraping complete. Data saved to registrar_policies.json")

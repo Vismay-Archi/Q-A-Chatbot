@@ -2,120 +2,61 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
-from urllib.parse import urljoin
 
+URL = "https://www.iit.edu/registrar/important-information"
 
-class ImportantInformationScraper:
-    def __init__(self):
-        self.url = "https://www.iit.edu/registrar/important-information"
+def scrape_important_information():
+    response = requests.get(URL, timeout=30)
+    response.raise_for_status()
 
-    # -------------------------------
-    # FETCH PAGE
-    # -------------------------------
-    def fetch_page(self):
-        response = requests.get(self.url)
-        response.raise_for_status()
-        return response.text
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    # -------------------------------
-    # PARSE PAGE CONTENT
-    # -------------------------------
-    def parse_page(self, html):
+    content = soup.select_one("article.basic-page article.full-wysiwyg")
+    if not content:
+        raise ValueError("Main content not found")
 
-        soup = BeautifulSoup(html, "html.parser")
+    sections = []
 
-        # -------- PAGE TITLE --------
-        title_tag = soup.find("h1")
-        page_title = title_tag.get_text(strip=True) if title_tag else ""
-
-        # -------- META DESCRIPTION --------
-        meta_desc = ""
-        meta_tag = soup.find("meta", attrs={"name": "description"})
-        if meta_tag:
-            meta_desc = meta_tag.get("content", "")
-
-        # -------- BREADCRUMBS --------
-        breadcrumbs = []
-        breadcrumb_items = soup.select(".breadcrumbs li")
-
-        for item in breadcrumb_items:
-            breadcrumbs.append(item.get_text(strip=True))
-
-        # -------- MAIN PARAGRAPHS --------
-        paragraphs = []
-        main_content = soup.select(".main-content p")
-
-        for p in main_content:
-            text = p.get_text(strip=True)
-            if text:
-                paragraphs.append(text)
-
-        # -------- CONTENT RESOURCE LINKS --------
-        resource_links = []
-        content_links = soup.select(".main-content a")
-
-        for link in content_links:
-            text = link.get_text(strip=True)
-            href = link.get("href")
-
-            if text and href:
-                resource_links.append({
-                    "title": text,
-                    "url": urljoin(self.url, href)
-                })
-
-        # -------- SIDEBAR LINKS --------
-        sidebar_links = []
-        sidebar = soup.select(".sidebar-menu a")
-
-        for link in sidebar:
-            text = link.get_text(strip=True)
-            href = link.get("href")
-
-            if text and href:
-                sidebar_links.append({
-                    "title": text,
-                    "url": urljoin(self.url, href)
-                })
-
-        # -------- BUILD JSON --------
-        data = {
-            "url": self.url,
-            "scrape_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "title": page_title,
-            "meta_description": meta_desc,
-            "breadcrumbs": breadcrumbs,
-            "sections": [
-                {
-                    "section_id": "important_information_overview",
-                    "title": page_title,
-                    "paragraphs": paragraphs,
-                    "resource_links": resource_links,
-                    "sidebar_links": sidebar_links
-                }
-            ]
+    # Each major topic is marked by an <h2>
+    for h2 in content.find_all("h2"):
+        section = {
+            "id": h2.get("id"),
+            "title": h2.get_text(strip=True),
+            "paragraphs": [],
+            "steps": []
         }
 
-        return data
+        # Walk through siblings until the next <h2>
+        for sibling in h2.find_next_siblings():
+            if sibling.name == "h2":
+                break
 
-    # -------------------------------
-    # SAVE JSON
-    # -------------------------------
-    def save_json(self, data, filename="important_information.json"):
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+            if sibling.name == "p":
+                text = sibling.get_text(strip=True)
+                if text:
+                    section["paragraphs"].append(text)
 
-        print(f"✅ Data saved to {filename}")
+            if sibling.name == "ol":
+                for li in sibling.find_all("li"):
+                    section["steps"].append(li.get_text(strip=True))
 
-    # -------------------------------
-    # RUN SCRAPER
-    # -------------------------------
-    def run(self):
-        html = self.fetch_page()
-        parsed_data = self.parse_page(html)
-        self.save_json(parsed_data)
+        sections.append(section)
+
+    data = {
+        "source": "Illinois Institute of Technology – Office of the Registrar",
+        "page_title": "Important Information",
+        "url": URL,
+        "scraped_at": datetime.utcnow().isoformat(),
+        "sections": sections
+    }
+
+    return data
 
 
 if __name__ == "__main__":
-    scraper = ImportantInformationScraper()
-    scraper.run()
+    scraped_data = scrape_important_information()
+
+    with open("important_information.json", "w", encoding="utf-8") as f:
+        json.dump(scraped_data, f, indent=2, ensure_ascii=False)
+
+    print("Scraping complete. Data saved to important_information.json")
