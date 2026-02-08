@@ -1,0 +1,1786 @@
+{
+  "source": "Illinois Tech Registrar – Registration pages",
+  "retrieved_at": "2026-02-08T23:02:56Z",
+  "cleaned_at": "2026-02-08T23:06:33Z",
+  "pages": [
+    {
+      "url": "https://www.iit.edu/registrar/registration/requirements",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:02:56Z",
+      "title": "Requirements | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Requirements"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        },
+        {
+          "level": "h2",
+          "text": "Continuing Students"
+        }
+      ],
+      "paragraphs": [
+        "Please note that all students requesting registration for courses must first be admitted to the university. Visit the Admission and Aid section of the university’s website for information on both graduate and undergraduate admissions.",
+        "Priority registration is followed for students beginning each registration period, and it is based on a student’s successfully completed earned credit hours as follows:",
+        "Continuing students who wish to register for the current term, but were not enrolled in the previous term, must be reinstated before registering. This can be done through the Office of Undergraduate Academic Affairs for undergraduate students and the Office of Graduate Academic Affairs for graduate students."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "Classification",
+              "Number of Hours",
+              "Registration Day"
+            ],
+            [
+              "Athletes, Joint Program, ROTC (degree-seeking), and Students with Disabilities",
+              "Any",
+              "First day of registration"
+            ],
+            [
+              "Continuing Education",
+              "Any",
+              "Second day of registration"
+            ],
+            [
+              "Graduate",
+              "Any",
+              "Second day of registration"
+            ],
+            [
+              "U5 (Fifth-year undergrad)",
+              "Greater than 131 earned hours",
+              "Second day of registration"
+            ],
+            [
+              "U4 (Fourth-year undergrad)",
+              "Greater than 90 earned hours",
+              "Second day of registration"
+            ],
+            [
+              "U3 (Third-year undergrad)",
+              "60 or more earned hours",
+              "Third day of registration"
+            ],
+            [
+              "U2 (Second-year undergrad)",
+              "30 or more earned hours",
+              "Fourth day of registration"
+            ],
+            [
+              "U1 (First-year undergrad)",
+              "Less than 30 earned hours",
+              "Fifth day of registration"
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Admission and Aid",
+          "href": "https://www.iit.edu/admissions-aid"
+        },
+        {
+          "text": "Office of Undergraduate Academic Affairs",
+          "href": "https://www.iit.edu/ugaa"
+        },
+        {
+          "text": "Office of Graduate Academic Affairs",
+          "href": "https://www.iit.edu/gaa"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/pin",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:02:57Z",
+      "title": "PIN | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "PIN"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "Before registration, each student must obtain the current semester's registration PIN (also referred to as an alternate PIN).",
+        "Please note that a PIN is only valid for a single semester. At the beginning of each term, a new PIN must be obtained in order to register for that semester."
+      ],
+      "lists": [
+        {
+          "type": "ul",
+          "items": [
+            "For undergraduate students, the PIN must be provided by their faculty adviser.",
+            "Most graduate students can view their PIN in their registration dashboard, accessible through the portal, or may acquire the PIN from a faculty adviser or their respective department. Newly admitted graduate students must get their PIN from their faculty advisers."
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/how-register",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:02:58Z",
+      "title": "How to Register | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "How to Register"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "Registration must be done online through the Illinois Tech Portal system. The schedule of courses can be accessed through the portal.",
+        "The following is the procedure for registering for courses:",
+        "Courses can be dropped in this manner as well. After entering the PIN, your “Summary” will display all currently registered courses. To drop a listed course, select the \"Drop Course\" action from the drop-down menu for the course and click on the “Submit” button. For more information on dropping courses, please refer to our Registration Changes page.",
+        "If you have any questions, feel free to contact the Office of the Registrar at registrar@illinoistech.edu . Please remember to use your Illinois Tech email address and include your student number and full name when contacting our office."
+      ],
+      "lists": [
+        {
+          "type": "ol",
+          "items": [
+            "Log into Illinois Tech Portal",
+            "Enter “Register for Classes” in the search bar",
+            "Click on the “Register for Class” Tool",
+            "Click on the “Register for Classes” link and select the term from the drop-down menu",
+            "Enter the appropriate PIN and click on the “Continue” button",
+            "For the course that you wish to register, choose the “Find Classes, Enter CRNs, or Plans” tab",
+            "Once you have located the course or entered the CRN, add the course to your “Summary”",
+            "In your “Summary,” select the \"Student Registered\" action",
+            "Click on the “Submit” button to add the course"
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "href": "https://portal.iit.edu/"
+        },
+        {
+          "text": "Registration Changes",
+          "href": "https://www.iit.edu/registrar/registration/registration-changes-add-drop-w-grades"
+        },
+        {
+          "text": "registrar@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:registrar@illinoistech.edu"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/resources",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:02:59Z",
+      "title": "Resources | Office of the Registrar",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Resources"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "The following tools are helpful in planning and registering for the upcoming semester:"
+      ],
+      "lists": [
+        {
+          "type": "ul",
+          "items": [
+            "The PDF below is the Introduction to the Student Dashboard and Student Profile applications in the Illinois Tech Portal"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "The PDF below is the Introduction to the Registration Dashboard and instructions for the Prepare for Registration and Register for Classes applications."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Class Schedule Search : Search all courses offered during the current semester",
+            "Course Catalog Search : View all courses on record by semester",
+            "Course Repeat Students who wish to repeat a course must review the applicable Course Repeat Policy and complete the appropriate form"
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Student Dashboard",
+          "href": "https://bnrappsprd.iit.edu/StudentSelfService/ssb/studentCommonDashboard"
+        },
+        {
+          "text": "Student Profile",
+          "href": "https://bnrappsprd.iit.edu/StudentSelfService/ssb/studentProfile"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "href": "https://portal.iit.edu/"
+        },
+        {
+          "text": "Banner Student Self-Service Guide",
+          "href": "https://www.iit.edu/sites/default/files/2024-09/student-self-service-guide.pdf"
+        },
+        {
+          "text": "Registration Dashboard",
+          "href": "https://bnrapiprd.iit.edu/StudentRegistrationSsb/ssb/registration"
+        },
+        {
+          "text": "Banner Student Registration Guide",
+          "href": "https://www.iit.edu/sites/default/files/2024-09/student-registration-guide.pdf"
+        },
+        {
+          "text": "Class Schedule Search",
+          "href": "https://ssb.iit.edu/bnrprd/bwckschd.p_disp_dyn_sched"
+        },
+        {
+          "text": "Course Catalog Search",
+          "href": "https://ssb.iit.edu/bnrprd/bwckctlg.p_disp_dyn_ctlg"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/registration-errors-and-descriptions",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:02:59Z",
+      "title": "Registration Errors and Descriptions | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Registration Errors and Descriptions"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "Below are descriptions of the possible add errors that may be given when trying to register and their resolution options. Law students must contact the Conviser Law Center Registrar's Office ."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "Error Message",
+              "Description",
+              "Resolution"
+            ],
+            [
+              "Academic College Restriction",
+              "Registration for the course section is prohibited for your academic college (Armour, Architecture, Design, etc.).",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "An error has occurred during the processing of your registration.",
+              "There's a general problem.",
+              "Clear your browser's cache and try again."
+            ],
+            [
+              "CAPP or Degree Works is down and processing cannot be completed.",
+              "There is a problem with the system's setup.",
+              "Contact the Office of the Registrar."
+            ],
+            [
+              "Classification Restriction",
+              "Registration for the course section is prohibited for your class (first-year undergraduate, graduate non-doctoral, etc.).",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Closed Section",
+              "Registration for the course section is closed as it is full.",
+              "Contact the department for further instructions. Department permit approvers can be found on this list of approvers ."
+            ],
+            [
+              "Cohort Restriction",
+              "Registration for the course section is prohibited for your cohort (first-year 20xx fall, transfer 20xx spring, etc.).",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Corequisite Required",
+              "You do not meet all of the corequisites required to register for the course.",
+              "Register for the corequisite, or contact the instructor or the department for a permit."
+            ],
+            [
+              "Degree Restriction",
+              "Registration for the course section is prohibited for your degree (Bachelor of Science, Master of Engineering, etc.).",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Department Permit Required",
+              "You need the department's permission to register for the course section.",
+              "Contact the department for a permit. Department permit approvers can be found on this list of approvers ."
+            ],
+            [
+              "Department Restriction",
+              "Registration for the course section is prohibited for your department (Business Administration, Electrical and Computer Engineering, etc.).",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Duplicate Course",
+              "You are attempting to register for a course section with the same course number as a course for which you have already registered.",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Duplicate Equivalent",
+              "You are attempting to register for a course section deemed equivalent to a course for which you have already registered.",
+              "Contact the department for a permit. Department permit approvers can be found on this list of approvers ."
+            ],
+            [
+              "Field of Study Restriction",
+              "Registration for the course section is prohibited for your field of study/major.",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Instructor Permit Required",
+              "You need the instructor's permission to register for the course section.",
+              "Contact the instructor for a permit."
+            ],
+            [
+              "Level Restriction",
+              "Registration for the course section is prohibited for your student level (undergraduate or graduate).",
+              "Contact the department for a permit. For internet sections, please contact your advisor and the department offering the course for permission."
+            ],
+            [
+              "Linked Course Required",
+              "You are attempting to register for a course section that requires registration of another course section concurrently. For example, registration for a lecture and its lab may be required to occur concurrently.",
+              "Register for both course sections at the same time."
+            ],
+            [
+              "Maximum Hours Exceeded",
+              "Registering for the course section will cause you to exceed the maximum hours allowed.",
+              "Undergraduate Students: Make adjustments to your course schedule or request a credit hour increase from the Office of the Registrar. Graduate Students: Make adjustments to your course schedule or submit Form G701 (Graduate Student Petition) to the Graduate College to request an increase in maximum hours."
+            ],
+            [
+              "Mutual Exclusion",
+              "You are attempting to register for a course that is similar to a course that you have already completed or a course for which you are currently registered.",
+              "Contact the department for a permit."
+            ],
+            [
+              "Prerequisite and/or Test Score Required",
+              "You do not meet all of the prerequisite and/or test scores required to register for the course.",
+              "Contact the instructor or department for a permit."
+            ],
+            [
+              "Prerequisite Communication Error",
+              "There is a problem with the setup of the course section.",
+              "Contact the Office of the Registrar"
+            ],
+            [
+              "Program Restriction",
+              "Registration for the course section is prohibited for your academic program (B.S. CS, M.S. AMAT, etc.).",
+              "Contact the department for a permit. Department permit approvers can be found on this list of approvers ."
+            ],
+            [
+              "Reserve Closed",
+              "Registration for the course section is closed for your major.",
+              "Contact the waitlist manager for further instructions. Waitlist managers can be found on this list of approvers ."
+            ],
+            [
+              "Student Attribute Restriction",
+              "Registration for the course section is restricted to students with a specific attribute.",
+              "Contact the department for a permit. Department permit approvers can be found on this list of approvers ."
+            ],
+            [
+              "Time Conflict",
+              "There is a time conflict between this course section and another course section on your student schedule.",
+              "Make adjustments to your course schedule, or contact the instructor or department for a Time Conflict Override permit."
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Conviser Law Center Registrar's Office",
+          "href": "https://www.kentlaw.iit.edu/current-students/academic-affairs/registration-and-grades"
+        },
+        {
+          "text": "Contact the Office of the Registrar.",
+          "href": "https://www.iit.edu/registrar/registration/mailto:registrar@illinoistech.edu"
+        },
+        {
+          "text": "this list of approvers",
+          "href": "https://www.iit.edu/registrar/registration/department-permit-and-time-conflict-permit-approvers"
+        },
+        {
+          "text": "request a credit hour increase",
+          "href": "https://www.iit.edu/registrar/registration/credit-hour-limits"
+        },
+        {
+          "text": "Form G701",
+          "href": "https://www.iit.edu/gaa/students/student-forms"
+        },
+        {
+          "text": "Contact the Office of the Registrar",
+          "href": "https://www.iit.edu/registrar/registration/mailto:registrar@illinoistech.edu"
+        },
+        {
+          "text": "this list of approvers",
+          "href": "https://www.iit.edu/registrar/registration/waitlist-managers"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/waitlisting-overview",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:00Z",
+      "title": "Waitlisting Overview | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Waitlisting Overview"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        },
+        {
+          "level": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "level": "h3",
+          "text": "I received a waitlist notification. How do I register?"
+        },
+        {
+          "level": "h3",
+          "text": "I have been on the waitlist for a long time, and I have not received a waitlist notification. What should I do? I received a waitlist notification. How do I register?"
+        },
+        {
+          "level": "h2",
+          "text": "Important Facts about Waitlisting"
+        },
+        {
+          "level": "h2",
+          "text": "How to Waitlist"
+        },
+        {
+          "level": "h2",
+          "text": "Waitlist Notification"
+        },
+        {
+          "level": "h2",
+          "text": "Last Day to Waitlist"
+        }
+      ],
+      "paragraphs": [
+        "After receiving a waitlist notification, you must move yourself from the waitlist to the class roster by following the instructions below:",
+        "You have two options:",
+        "Review the PDF below, specifically page 13, for instructions on how to waitlist.",
+        "You will NOT be automatically registered after waitlisting for a course. A waitlist notification will be emailed to your Illinois Tech email account when a seat becomes available for you. The seat is reserved for you until the expiration date and time listed in the email or until you complete the registration, whichever comes first. The expiration date and time is viewable on your “Student Detail Schedule” in Banner Self-Service through the Illinois Tech Portal.",
+        "Check your Illinois Tech email account daily! You will be notified via email when a seat has become available for you. Once you add yourself to a waitlist, it is your responsibility to check your email daily to see if you receive a waitlist notification for an available seat.",
+        "Waitlist notifications DO EXPIRE! Waitlist notifications are emailed to your Illinois Tech email account when seats become available and will remain on your account for 72 hours (or for 24 hours beginning the Monday before the first day of courses). Please check the waitlist notification for the expiration date and time. If you do not complete the registration by the deadline given in the notification, then you will be removed from the waitlist and the seat will become available to the next student on the waitlist. If there is no other student on the waitlist, then the seat becomes an open seat and is available to any student who registers.",
+        "You can waitlist up to the last day of add/drop—see the Academic Calendar . All waitlists will be purged of any remaining students on the following day."
+      ],
+      "lists": [
+        {
+          "type": "ol",
+          "items": [
+            "Log in to Illinois Tech Portal",
+            "Type “Registration Dashboard” in the search tab",
+            "Click on “Registration Dashboard” Tool",
+            "Click on the “Register for Classes” link",
+            "Choose the term, enter your PIN, and click on the “Continue” button",
+            "In your “Summary,” for the waitlisted course, choose \"Student Registered\" from the “Action” drop-down menu",
+            "Click on the “Submit” button"
+          ]
+        },
+        {
+          "type": "ol",
+          "items": [
+            "You may register for a different section of the same course that is open.",
+            "Or you may contact the department to see if you can be moved up higher on the waitlist or see if more seats can be added to the section. View our Waitlist Managers page for department contact information."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Your order on the waitlist is on a first-come, first-served basis",
+            "You must meet all course requirements before being allowed to waitlist. Course requirements include: Prerequisites All restrictions such as level, class, field of study, college, department, degree, program, and student attribute",
+            "You can only waitlist for one section of a course . You cannot waitlist for multiple sections of the same course",
+            "You CANNOT waitlist for a different section of a course that you are already registered. For example, if you are registered for MATH 151-01, you cannot waitlist for MATH 151-02 or any other section of MATH 151. You must drop MATH 151-01 first, then waitlist for the section of MATH 151 that you would like to register for",
+            "Waitlisted courses do not satisfy prerequisites, corequisites, or links for other courses",
+            "You can waitlist for a course that is in time conflict with a registered course",
+            "You can waitlist for a course that is a corequisite to another course",
+            "You can waitlist for a course section that is linked to another course section . For example, CHEM 124 lectures are linked to CHEM 124 labs, which require registration for both a lecture and a lab concurrently. You can waitlist for a CHEM 124 lab without having waitlisted for a CHEM 124 lecture. However, once a seat becomes available in the CHEM 124 lab, you must register for the CHEM 124 lecture and the lab concurrently."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Prerequisites",
+            "All restrictions such as level, class, field of study, college, department, degree, program, and student attribute"
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "href": "https://portal.iit.edu/"
+        },
+        {
+          "text": "Banner Student Registration Guide",
+          "href": "https://www.iit.edu/sites/default/files/2021-03/registrar-student_registration_guide.pdf"
+        },
+        {
+          "text": "Academic Calendar",
+          "href": "https://www.iit.edu/registrar/academic-calendar"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/waitlist-managers",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:01Z",
+      "title": "Waitlist Managers | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Waitlist Managers"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "The following faculty/staff have been approved to manage their department's waitlist:"
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "Department/Unit",
+              "Contact",
+              "Office",
+              "Email Address",
+              "Phone"
+            ],
+            [
+              "Air Force ROTC",
+              "Kyle Hees",
+              "IT 15E3-1",
+              "khees@illinoistech.edu",
+              "312.567.3801"
+            ],
+            [
+              "Anna Olsen",
+              "IT 15D3-2",
+              "aolsen3@illinoistech.edu",
+              "312.567.3807"
+            ],
+            [
+              "Applied Mathematics",
+              "Kiah Wah Ong",
+              "RE 206",
+              "kong2@illinoistech.edu",
+              "312.567.3630"
+            ],
+            [
+              "Architecture",
+              "Cynthia Torres",
+              "CR UC4",
+              "ctorres2@illinoistech.edu",
+              "312.567.8835"
+            ],
+            [
+              "Armour College of Engineering (ENGR Courses)",
+              "Catherine Gerhard",
+              "PH 224",
+              "cgerhard@illinoistech.edu",
+              "312.567.5806"
+            ],
+            [
+              "Biology",
+              "Tanya Bekyarova",
+              "PS 182D",
+              "bekytan@illinoistech.edu",
+              "312.567.3428"
+            ],
+            [
+              "Biomedical Engineering",
+              "Jennifer Kang-Mieler",
+              "WH 204",
+              "kang-mieler@illinoistech.edu",
+              "312.567.3860"
+            ],
+            [
+              "Georgia Papavasiliou",
+              "WH 222",
+              "papavasiliou@illinoistech.edu",
+              "312.567.5959"
+            ],
+            [
+              "Chemical and Biological Engineering",
+              "Victor Perez-Luna",
+              "PH 127",
+              "perezluna@illinoistech.edu",
+              "312.567.3963"
+            ],
+            [
+              "Beatrice Person",
+              "PH 127",
+              "person@illinoistech.edu",
+              "312.567.3533"
+            ],
+            [
+              "Chemistry",
+              "Benjamin Zion",
+              "PS 106C",
+              "bzion@illinoistech.edu",
+              "312.567.3229"
+            ],
+            [
+              "Civil, Architectural, and Environmental Engineering",
+              "Brent Stephens",
+              "AM 212",
+              "bstephe5@illinoistech.edu",
+              "312.567.3356"
+            ],
+            [
+              "College of Science (SCI Courses)",
+              "Elizabeth Friedman",
+              "RE 220",
+              "friedman@illinoistech.edu",
+              "312.567.7973"
+            ],
+            [
+              "Computer Science",
+              "Computer Science Registration",
+              "N/A",
+              "cs_registration@illinoistech.edu",
+              "N/A"
+            ],
+            [
+              "Electrical and Computer Engineering",
+              "Joanette Catino",
+              "SH 103",
+              "catino@illinoistech.edu",
+              "312.567.7977"
+            ],
+            [
+              "Jafar Saniie",
+              "SH 105",
+              "saniie@illinoistech.edu",
+              "312.567.3412"
+            ],
+            [
+              "English Language Services (IEP, PCA, and PESL Courses)",
+              "N/A",
+              "IT 4C9-1",
+              "els@illinoistech.edu",
+              "312.567.5220"
+            ],
+            [
+              "Food Science and Nutrition (FDSN, FPE, and FST Courses)",
+              "Todd Diel",
+              "IT 18C5-2",
+              "diel@illinoistech.edu",
+              "312.906.6584"
+            ],
+            [
+              "Humanities",
+              "Amber Moore",
+              "SH 116/216",
+              "amoore22@illinoistech.edu",
+              "312.567.5126"
+            ],
+            [
+              "Industrial Technology and Management (INTM)",
+              "Pamela Houser",
+              "TS 4004",
+              "houser@illinoistech.edu",
+              "312.567.3584"
+            ],
+            [
+              "Cynthia Spoor",
+              "TS 4001",
+              "spoor@illinoistech.edu",
+              "312.567.3652"
+            ],
+            [
+              "Information Technology and Management (ITM)",
+              "Raymond Trygstad",
+              "PH 223",
+              "trygstad@illinoistech.edu",
+              "630.447.9009"
+            ],
+            [
+              "Ryan Nelson",
+              "PH 223",
+              "nelsonr@illinoistech.edu",
+              "312.567.5192"
+            ],
+            [
+              "Institute of Design",
+              "Matthew Mayfield",
+              "KI 201",
+              "mayfield@id.iit.edu",
+              "312.567.6477"
+            ],
+            [
+              "Interprofessional Project (IPRO)",
+              "Casey Crail",
+              "KI 111",
+              "ipro@illinoistech.edu",
+              "312.567.3162"
+            ],
+            [
+              "Chicago-Kent College of Law",
+              "James Tierney",
+              "DT 707",
+              "jtierney1@illinoistech.edu",
+              "312.906.5125"
+            ],
+            [
+              "Mechanical, Materials, and Aerospace Engineering (MMAE)",
+              "Elena Magnus",
+              "RE 243",
+              "magnus@illinoistech.edu",
+              "312.567.3731"
+            ],
+            [
+              "Physics",
+              "Bhoopesh Mishra",
+              "PS 174B",
+              "bmishra3@illinoistech.edu",
+              ""
+            ],
+            [
+              "Psychology",
+              "Kristina Bauer",
+              "TC 212",
+              "kbauer1@illinoistech.edu",
+              "312.567.5349"
+            ],
+            [
+              "Social Sciences",
+              "Yuri Mansury",
+              "SH 116",
+              "ymansury@illinoistech.edu",
+              "312.567.5128"
+            ],
+            [
+              "Stuart School of Business (Undergraduate Students)",
+              "John Twombly",
+              "IT 18F4-1",
+              "twombly@stuart.iit.edu",
+              "312.567.3997"
+            ],
+            [
+              "Stuart School of Business (Graduate Students)",
+              "Stuart Graduate Advisors",
+              "IT 13th Floor",
+              "advising@stuart.iit.edu",
+              "N/A"
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "khees@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:khees@illinoistech.edu"
+        },
+        {
+          "text": "aolsen3@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:aolsen3@illinoistech.edu"
+        },
+        {
+          "text": "kong2@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kong2@illinoistech.edu"
+        },
+        {
+          "text": "ctorres2@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ctorres2@illinoistech.edu"
+        },
+        {
+          "text": "cgerhard@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cgerhard@illinoistech.edu"
+        },
+        {
+          "text": "bekytan@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bekytan@illinoistech.edu"
+        },
+        {
+          "text": "kang-mieler@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kang-mieler@illinoistech.edu"
+        },
+        {
+          "text": "papavasiliou@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:papavasiliou@illinoistech.edu"
+        },
+        {
+          "text": "perezluna@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:perezluna@illinoistech.edu"
+        },
+        {
+          "text": "person@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:person@illinoistech.edu"
+        },
+        {
+          "text": "bzion@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bzion@illinoistech.edu"
+        },
+        {
+          "text": "bstephe5@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bstephe5@illinoistech.edu"
+        },
+        {
+          "text": "friedman@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:friedman@illinoistech.edu"
+        },
+        {
+          "text": "cs_registration@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cs_registration@illinoistech.edu"
+        },
+        {
+          "text": "catino@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:catino@illinoistech.edu"
+        },
+        {
+          "text": "saniie@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:saniie@illinoistech.edu"
+        },
+        {
+          "text": "els@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:els@illinoistech.edu"
+        },
+        {
+          "text": "diel@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:diel@illinoistech.edu"
+        },
+        {
+          "text": "amoore22@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:amoore22@illinoistech.edu"
+        },
+        {
+          "text": "houser@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:houser@illinoistech.edu"
+        },
+        {
+          "text": "spoor@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:spoor@illinoistech.edu"
+        },
+        {
+          "text": "trygstad@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:trygstad@illinoistech.edu"
+        },
+        {
+          "text": "nelsonr@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:nelsonr@illinoistech.edu"
+        },
+        {
+          "text": "mayfield@id.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:mayfield@id.iit.edu"
+        },
+        {
+          "text": "ipro@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ipro@illinoistech.edu"
+        },
+        {
+          "text": "jtierney1@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:jtierney1@illinoistech.edu"
+        },
+        {
+          "text": "magnus@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:magnus@illinoistech.edu"
+        },
+        {
+          "text": "bmishra3@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bmishra3@illinoistech.edu"
+        },
+        {
+          "text": "kbauer1@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kbauer1@illinoistech.edu"
+        },
+        {
+          "text": "ymansury@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ymansury@illinoistech.edu"
+        },
+        {
+          "text": "twombly@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:twombly@stuart.iit.edu"
+        },
+        {
+          "text": "advising@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:advising@stuart.iit.edu"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/department-permit-and-time-conflict-permit-approvers",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:02Z",
+      "title": "Department Permit and Time-Conflict Permit Approvers | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Department Permit and Time-Conflict Permit Approvers"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "An electronic permit is required to register for some courses. Additionally, students may need to request a permit to override a registration add error—see Registration Errors and Descriptions . Please note that an electronic permit differs from a faculty or staff member giving verbal permission to register for a course.",
+        "The following faculty/staff have been approved to manage their department's electronic permit process:"
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "Department/Unit",
+              "Contact",
+              "Office",
+              "Email Address",
+              "Phone"
+            ],
+            [
+              "Air Force ROTC",
+              "Kyle Hees",
+              "IT 15E3-1",
+              "khees@illinoistech.edu",
+              "312.567.3801"
+            ],
+            [
+              "Anna Olsen",
+              "IT 15D3-2",
+              "aolsen3@illinoistech.edu",
+              "312.567.3807"
+            ],
+            [
+              "Applied Mathematics (Undergraduate Students Only)",
+              "Kiah Wah Ong",
+              "RE 206",
+              "kong2@illinoistech.edu",
+              "312.567.3630"
+            ],
+            [
+              "Applied Mathematics (Graduate Students Only)",
+              "Michael Pelsmajer",
+              "RE 220",
+              "pelsmajer@illinoistech.edu",
+              "312.567.5344"
+            ],
+            [
+              "Architecture",
+              "Cynthia Torres",
+              "CR UC4",
+              "ctorres2@illinoistech.edu",
+              "312.567.8835"
+            ],
+            [
+              "Kathleen S. Nagle",
+              "CR UC4",
+              "nagle@illinoistech.edu",
+              "312.567.3230"
+            ],
+            [
+              "Armour College of Engineering (ENGR Courses Only)",
+              "Catherine Gerhard",
+              "PH 224",
+              "cgerhard@illinoistech.edu",
+              "312.567.5806"
+            ],
+            [
+              "Biology",
+              "Tanya Bekyarova",
+              "PS 182D",
+              "bekytan@illinoistech.edu",
+              "312.567.3428"
+            ],
+            [
+              "Jialing Xiang",
+              "PS 294",
+              "xiang@illinoistech.edu",
+              "312.567.3491"
+            ],
+            [
+              "Biomedical Engineering",
+              "John Georgiadis",
+              "WH 314",
+              "jgeorgia@illinoistech.edu",
+              "312.567.5790"
+            ],
+            [
+              "Catherine D'Amico",
+              "WH 314",
+              "damico@illinoistech.edu",
+              "312.567.5324"
+            ],
+            [
+              "Promila Dhar",
+              "WH 301B",
+              "dhar@illinoistech.edu",
+              "312.567.5096"
+            ],
+            [
+              "Career Management Center (All Students Except Stuart)",
+              "CMC Advisors",
+              "HH 113",
+              "cmc@illinoistech.edu",
+              "312.567.6800"
+            ],
+            [
+              "Career Management Center (Stuart Students Only)",
+              "CMC Advisors",
+              "IT 18th Floor",
+              "careers@stuart.iit.edu",
+              "312.906.6500"
+            ],
+            [
+              "Chemical and Biological Engineering (Undergraduate Students Only)",
+              "Victor Perez-Luna",
+              "PH 127",
+              "perezluna@illinoistech.edu",
+              "312.567.3963"
+            ],
+            [
+              "Chemical and Biological Engineering",
+              "Beatrice Person",
+              "PH 127",
+              "person@illinoistech.edu",
+              "312.567.3533"
+            ],
+            [
+              "Chemical and Biological Engineering (Graduate Students Only)",
+              "Javad Abbasian",
+              "PH 143",
+              "abbasian@illinoistech.edu",
+              "312.567.3047"
+            ],
+            [
+              "Chemistry",
+              "Katherine Leight",
+              "PS 136A",
+              "kleight1@illinoistech.edu",
+              "312.567.8672"
+            ],
+            [
+              "Yuanbing Mao",
+              "PS 136",
+              "ymao17@illinoistech.edu",
+              "312.567.3815"
+            ],
+            [
+              "Civil, Architectural, and Environmental Engineering",
+              "Charlotte Jackson",
+              "AM 228C",
+              "cjackson6@illinoistech.edu",
+              "312.567.3541"
+            ],
+            [
+              "Computer Science",
+              "Computer Science Registration",
+              "N/A",
+              "cs_registration@illinoistech.edu",
+              "N/A"
+            ],
+            [
+              "Electrical and Computer Engineering",
+              "Joanette Catino",
+              "SH 103",
+              "catino@illinoistech.edu",
+              "312.567.7977"
+            ],
+            [
+              "Jafar Saniie",
+              "SH 105",
+              "saniie@illinoistech.edu",
+              "312.567.3412"
+            ],
+            [
+              "English Language Services (IEP, PCA, and PESL Courses)",
+              "N/A",
+              "IT 4C9-1",
+              "els@illinoistech.edu",
+              "312.567.5220"
+            ],
+            [
+              "Food Science and Nutrition (FDSN, FPE, and FST Courses)",
+              "Todd Diel",
+              "MF 91-215",
+              "diel@illinoistech.edu",
+              "312.906.6584"
+            ],
+            [
+              "Graduate Academic Affairs (GCS Courses Only)",
+              "N/A",
+              "IT 7D7-1",
+              "gradcoll@illinoistech.edu",
+              "312.567.3024"
+            ],
+            [
+              "Humanities",
+              "Amber Moore",
+              "SH 116/216",
+              "amoore22@illinoistech.edu",
+              "312.567.5126"
+            ],
+            [
+              "Industrial Technology and Management (INTM)",
+              "Pamela Houser",
+              "TS 4004",
+              "houser@illinoistech.edu",
+              "312.567.3584"
+            ],
+            [
+              "Cynthia Spoor",
+              "TS 4001",
+              "spoor@illinoistech.edu",
+              "312.567.3652"
+            ],
+            [
+              "Information Technology and Management (ITM)",
+              "Jeremy Hajek",
+              "RC 209",
+              "hajek@illinoistech.edu",
+              "630.682.6075"
+            ],
+            [
+              "Ryan Nelson",
+              "PH 223",
+              "nelsonr@illinoistech.edu",
+              "312.567.5192"
+            ],
+            [
+              "Raymond Trygstad",
+              "PH 223",
+              "trygstad@illinoistech.edu",
+              "630.447.9009"
+            ],
+            [
+              "Institute of Design",
+              "Shari Jones",
+              "KI",
+              "sjones35@id.iit.edu",
+              "312.567.3342"
+            ],
+            [
+              "Matthew Mayfield",
+              "KI 201",
+              "mayfield@id.iit.edu",
+              "312.567.6477"
+            ],
+            [
+              "Interprofessional Project (IPRO) Program",
+              "Casey Crail",
+              "KI 111",
+              "ipro@illinoistech.edu",
+              "312.567.3162"
+            ],
+            [
+              "Chicago-Kent College of Law",
+              "James Tierney",
+              "DT 707",
+              "jtierney1@illinoistech.edu",
+              "312.906.5125"
+            ],
+            [
+              "Mechanical, Materials, and Aerospace Engineering (MMAE)",
+              "Elena Magnus",
+              "RE 243",
+              "magnus@illinoistech.edu",
+              "312.567.3731"
+            ],
+            [
+              "Murat Vural",
+              "RE 253D",
+              "vural@illinoistech.edu",
+              "312.567.3181"
+            ],
+            [
+              "Navy ROTC",
+              "Darwin Chen",
+              "IT 15E8-1",
+              "dchen51@illinoistech.edu",
+              "312.567.8963"
+            ],
+            [
+              "Physics",
+              "Bhoopesh Mishra",
+              "PS 174B",
+              "bmishra3@illinoistech.edu",
+              ""
+            ],
+            [
+              "Professional Development (Domestic and International Certificate Courses)",
+              "Scott F. Pfeiffer",
+              "IT 14C3-1",
+              "pfeiffer@illinoistech.edu",
+              "312.567.5922"
+            ],
+            [
+              "Psychology",
+              "Kristina Bauer",
+              "TC 212",
+              "kbauer1@illinoistech.edu",
+              "312.567.5349"
+            ],
+            [
+              "Social Sciences",
+              "Saran Ghatak",
+              "SH 116",
+              "sghatak@illinoistech.edu",
+              "312.567.3464"
+            ],
+            [
+              "Stuart School of Business (Undergraduate Students)",
+              "John Twombly",
+              "IT 18F4-1",
+              "twombly@stuart.iit.edu",
+              "312.567.3997"
+            ],
+            [
+              "Stuart School of Business (ACE Courses)",
+              "ACE Program Manager",
+              "N/A",
+              "aceprogram@stuart.iit.edu",
+              "312.906.6586"
+            ],
+            [
+              "Stuart School of Business (Master Courses)",
+              "Stuart Graduate Advisors",
+              "IT 13th Floor",
+              "advising@stuart.iit.edu",
+              "N/A"
+            ],
+            [
+              "Roland Calia",
+              "IT 18C9-2",
+              "rcalia@stuart.iit.edu",
+              "312.906.6505"
+            ],
+            [
+              "M Krishna Erramilli",
+              "IT 18F6-1",
+              "merramil@stuart.iit.edu",
+              "312.906.6573"
+            ],
+            [
+              "Stuart School of Business (Ph.D. Students)",
+              "Siva Balasubramanian",
+              "IT 18C3-1",
+              "sivakbalas@stuart.iit.edu",
+              "312.567.6516"
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "khees@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:khees@illinoistech.edu"
+        },
+        {
+          "text": "aolsen3@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:aolsen3@illinoistech.edu"
+        },
+        {
+          "text": "kong2@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kong2@illinoistech.edu"
+        },
+        {
+          "text": "pelsmajer@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:pelsmajer@illinoistech.edu"
+        },
+        {
+          "text": "ctorres2@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ctorres2@illinoistech.edu"
+        },
+        {
+          "text": "nagle@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:nagle@illinoistech.edu"
+        },
+        {
+          "text": "cgerhard@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cgerhard@illinoistech.edu"
+        },
+        {
+          "text": "bekytan@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bekytan@illinoistech.edu"
+        },
+        {
+          "text": "xiang@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:xiang@illinoistech.edu"
+        },
+        {
+          "text": "jgeorgia@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:jgeorgia@illinoistech.edu"
+        },
+        {
+          "text": "damico@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:damico@illinoistech.edu"
+        },
+        {
+          "text": "dhar@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:dhar@illinoistech.edu"
+        },
+        {
+          "text": "cmc@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cmc@illinoistech.edu"
+        },
+        {
+          "text": "careers@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:careers@stuart.iit.edu"
+        },
+        {
+          "text": "perezluna@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:perezluna@illinoistech.edu"
+        },
+        {
+          "text": "person@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:person@illinoistech.edu"
+        },
+        {
+          "text": "abbasian@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:abbasian@illinoistech.edu"
+        },
+        {
+          "text": "kleight1@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kleight1@illinoistech.edu"
+        },
+        {
+          "text": "ymao17@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ymao17@illinoistech.edu"
+        },
+        {
+          "text": "cjackson6@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cjackson6@illinoistech.edu"
+        },
+        {
+          "text": "cs_registration@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:cs_registration@illinoistech.edu"
+        },
+        {
+          "text": "catino@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:catino@illinoistech.edu"
+        },
+        {
+          "text": "saniie@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:saniie@illinoistech.edu"
+        },
+        {
+          "text": "els@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:els@illinoistech.edu"
+        },
+        {
+          "text": "diel@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:diel@illinoistech.edu"
+        },
+        {
+          "text": "gradcoll@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:gradcoll@illinoistech.edu"
+        },
+        {
+          "text": "amoore22@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:amoore22@illinoistech.edu"
+        },
+        {
+          "text": "houser@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:houser@illinoistech.edu"
+        },
+        {
+          "text": "spoor@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:spoor@illinoistech.edu"
+        },
+        {
+          "text": "hajek@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:hajek@illinoistech.edu"
+        },
+        {
+          "text": "nelsonr@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:nelsonr@illinoistech.edu"
+        },
+        {
+          "text": "trygstad@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:trygstad@illinoistech.edu"
+        },
+        {
+          "text": "sjones35@id.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:sjones35@id.iit.edu"
+        },
+        {
+          "text": "mayfield@id.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:mayfield@id.iit.edu"
+        },
+        {
+          "text": "ipro@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:ipro@illinoistech.edu"
+        },
+        {
+          "text": "jtierney1@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:jtierney1@illinoistech.edu"
+        },
+        {
+          "text": "magnus@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:magnus@illinoistech.edu"
+        },
+        {
+          "text": "vural@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:vural@illinoistech.edu"
+        },
+        {
+          "text": "dchen51@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:dchen51@illinoistech.edu"
+        },
+        {
+          "text": "bmishra3@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:bmishra3@illinoistech.edu"
+        },
+        {
+          "text": "pfeiffer@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:pfeiffer@illinoistech.edu"
+        },
+        {
+          "text": "kbauer1@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:kbauer1@illinoistech.edu"
+        },
+        {
+          "text": "sghatak@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:sghatak@illinoistech.edu"
+        },
+        {
+          "text": "twombly@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:twombly@stuart.iit.edu"
+        },
+        {
+          "text": "aceprogram@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:aceprogram@stuart.iit.edu"
+        },
+        {
+          "text": "advising@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:advising@stuart.iit.edu"
+        },
+        {
+          "text": "rcalia@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:rcalia@stuart.iit.edu"
+        },
+        {
+          "text": "merramil@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:merramil@stuart.iit.edu"
+        },
+        {
+          "text": "sivakbalas@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:sivakbalas@stuart.iit.edu"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/registration-changes-add-drop-w-grades",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:03Z",
+      "title": "Registration Changes: Add/Drop, W Grades | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Registration Changes: Add/Drop, W Grades"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "Adding or dropping courses is done using the same procedure as initial registration. This is described on the How to Register page. Before the last day to add or drop, courses can be added or removed to a schedule.",
+        "The changes made at this point will not be displayed on an official transcript, but will affect the total number of credit hours enrolled. This could affect the full- or part-time status of a student, and should be duly noted. Please refer to the Full-Time Status page for more details.",
+        "Courses cannot be added after the last day to add or drop. Any courses that are removed from a schedule after this date are considered to be withdrawn. In such cases, the course will appear on official transcripts with a grade of 'W.' This grade indicates that a student withdrew from a course, but it does not affect the student's grade-point average.",
+        "Learn More"
+      ],
+      "lists": [],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Full-Time Status",
+          "href": "https://www.iit.edu/registrar/registration/full-time-status"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.iit.edu/registrar/policies-and-procedures/withdrawing-vs-dropping-course"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/withdrawal-course",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:04Z",
+      "title": "Withdrawal from a Course | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Withdrawal from a Course"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        },
+        {
+          "level": "h2",
+          "text": "Late Withdrawal"
+        },
+        {
+          "level": "h2",
+          "text": "Hardship Withdrawal"
+        }
+      ],
+      "paragraphs": [
+        "Non-attendance or expressing the intent to the instructor of a course does not constitute withdrawal from the course. Withdrawals are performed through the Illinois Tech Portal in the same way as adding or dropping a course. Students may withdraw from one or more courses by the published withdrawal deadline, which is approximately the 60 percent point of the term—see the Academic Calendar .",
+        "Students who do not attend or participate in a course and fail to withdraw officially are assigned a midterm grade of 'NA,' indicating an apparent withdrawal due to non-attendance. There is no credit or tuition refund associated with this grade.",
+        "Students who withdraw from all of their courses are seeking a leave of absence or withdrawal from the university. The procedure for requesting a leave of absence or withdrawal from the university (see the Leave of Absence or Withdrawal from the University page ) must be followed when a student attempts to drop or withdraw from their last—or only—registered course.",
+        "Learn More",
+        "Withdrawals from courses after the published deadline are only permitted in extraordinary circumstances beyond a student's control, such as medical or personal emergencies, and must be accompanied with documentation related to the appeal. Appeals must be submitted after the withdrawal deadline noted in the Academic Calendar and before the final exam for the current term. Students are required to continue attending the course while the appeal is being reviewed.",
+        "In the rare event that a student has experienced circumstances beyond their control that might permit an exception to the university policy on course withdrawals, the student may submit the Late Withdrawal Appeal Form to the Office of the Registrar. Any documentation supporting the appeal should be included. Please note that requests for an exception will not be accepted more than one semester after the course in question. If you have any questions, please feel free to email registrar@illinoistech.edu .",
+        "The Illinois Student Debt Assistance Act (the \"Act\") was signed into law on May 27, 2022. Section 20(a) of the Act requires that, beginning with the 2022-2023 school year, institutions of higher education have a policy instituting a physical or financial hardship withdrawal process. According to the Act, the process must work to limit debt owed by students who have to withdraw from the institution due to a significant physical or financial hardship and to assist those students if and when they choose to re-enroll.",
+        "A hardship withdrawal is an unforeseeable circumstance that occurred after the semester began (often after the midpoint) which had a significant impact on the student's ability to continue in the course(s) and be successful. A hardship may be due to a physical, mental, emotional, or psychological condition."
+      ],
+      "lists": [],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Academic Calendar",
+          "href": "https://www.iit.edu/registrar/academic-calendar"
+        },
+        {
+          "text": "Leave of Absence or Withdrawal from the University page",
+          "href": "https://www.iit.edu/registrar/registration/leave-absence-or-withdrawal-university"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.iit.edu/registrar/policies-and-procedures/withdrawing-vs-dropping-course"
+        },
+        {
+          "text": "Late Withdrawal Appeal Form",
+          "href": "https://my105.iit.edu/registrar/forms/view.php?id=41399"
+        },
+        {
+          "text": "registrar@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:registrar@illinoistech.edu"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.iit.edu/registrar/policies-and-procedures/physical-or-financial-hardship-withdrawal-policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/leave-absence-or-withdrawal-university",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:05Z",
+      "title": "Leave of Absence or Withdrawal from the University | Illinois Institute of Technology",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Leave of Absence or Withdrawal from the University"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        }
+      ],
+      "paragraphs": [
+        "Undergraduate students should refer to the Office of Undergraduate Academic Affairs’s Withdrawal or Leave of Absence page for instructions.",
+        "Graduate students wishing to request a leave of absence from their course of study or complete an official withdrawal from the university should initiate the process online. To begin the process, log into the Illinois Tech Portal and search for \"Graduate Leave of Absence and Withdrawal\". Questions regarding the leave of absence or withdrawal process should be directed to the Office of Graduate Academic Affairs at gradcoll@illinoistech.edu or 312.567.3024."
+      ],
+      "lists": [],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "Withdrawal or Leave of Absence",
+          "href": "https://www.iit.edu/ugaa/services/withdrawal-or-leave-absence"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "href": "https://portal.iit.edu/"
+        },
+        {
+          "text": "gradcoll@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:gradcoll@illinoistech.edu"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iit.edu/registrar/registration/faqs",
+      "status_code": 200,
+      "retrieved_at": "2026-02-08T23:03:06Z",
+      "title": "FAQs | Office of the Registrar",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "FAQs"
+        },
+        {
+          "level": "h3",
+          "text": "Registration"
+        },
+        {
+          "level": "h3",
+          "text": "What is a permit, and how do I get one?"
+        },
+        {
+          "level": "h3",
+          "text": "Who do I contact for issues with the Illinois Tech Portal?"
+        },
+        {
+          "level": "h3",
+          "text": "How do I change the number of credit hours for my course?"
+        },
+        {
+          "level": "h3",
+          "text": "How do I get my credit hours limit/study load increased?"
+        },
+        {
+          "level": "h3",
+          "text": "Why can't I register for an internet/online course?"
+        }
+      ],
+      "paragraphs": [
+        "A permit refers to an instructor or department electronic permit. E-permits are placed in the system by an instructor or department permit approver—the list of approvers can found on this website—in order to allow for registration into courses with restricted guidelines. A permit will override some registration add errors. Learn more on the Registration Errors and Descriptions page .",
+        "You can view your e-permits in the portal—detailed instructions can be found in the PDF below.",
+        "Note: Being provided a permit does not automatically register you for the course.",
+        "If you are having issues with your portal account such as a disabled account or password problems, please contact the Office of Technology Services Support Desk at 312.567.3375 or supportdesk@illinoistech.edu .",
+        "If you are registered for a variable credit-hour course such as an independent study, you can change the number of credit hours for which you are registered via your Registration Dashboard —instructions can also be found on page 12 of the PDF below.",
+        "Please adjust the credit hours by the last day to add/drop—see the Academic Calendar .",
+        "If you wish to register for more than your allowed credit-hours load, you must receive the appropriate approval.",
+        "Learn more on the Credit Hour Limits page .",
+        "For international students, immigration regulations specify that no more than one course per term may be counted toward the full course of study requirement if the course is taken online. Additionally, your last and only course cannot be online. Students are allowed to take additional internet courses over and above their full-time enrollment, e.g. students on full-time co-op."
+      ],
+      "lists": [
+        {
+          "type": "ol",
+          "items": [
+            "In the Illinois Tech Portal .",
+            "Search for the \"Registration Dashboard\" and click on the link in the results.",
+            "Click on the Register for Classes link.",
+            "Select the Schedule and Options tab."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Undergraduate students must contact their academic adviser to initiate the approval process for an increase in hours",
+            "Graduate students (excluding Stuart School of Business and Law) must complete the Graduate Student Petition (Form G701) and submit it to the Office of Graduate Academic Affairs for approval",
+            "Stuart School master graduate students must contact Stuart Academic Advising at advising@stuart.iit.edu for approval",
+            "Stuart School Ph.D. students must contact the director of the Ph.D. program for approval",
+            "Law students must contact the Conviser Law Center Registrar's Office at regq@kentlaw.iit.edu for approval"
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [
+        {
+          "text": "Taking a Course for Pass/Fail",
+          "href": "https://web.iit.edu/ugaa/taking-course-passfail"
+        },
+        {
+          "text": "list of approvers",
+          "href": "https://www.iit.edu/registrar/registration/department-permit-and-time-conflict-permit-approvers"
+        },
+        {
+          "text": "Registration Errors and Descriptions page",
+          "href": "https://www.iit.edu/registrar/registration/registration-errors-and-descriptions"
+        },
+        {
+          "text": "Banner Student Registration Guide",
+          "href": "https://www.iit.edu/sites/default/files/2021-03/registrar-student_registration_guide.pdf"
+        },
+        {
+          "text": "supportdesk@illinoistech.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:supportdesk@illinoistech.edu"
+        },
+        {
+          "text": "Registration Dashboard",
+          "href": "https://bnrapiprd.iit.edu/StudentRegistrationSsb/ssb/registration"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "href": "https://portal.iit.edu/"
+        },
+        {
+          "text": "Academic Calendar",
+          "href": "https://www.iit.edu/registrar/academic-calendar"
+        },
+        {
+          "text": "Graduate Student Petition",
+          "href": "https://www.iit.edu/gaa/students/student-forms"
+        },
+        {
+          "text": "advising@stuart.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:advising@stuart.iit.edu"
+        },
+        {
+          "text": "regq@kentlaw.iit.edu",
+          "href": "https://www.iit.edu/registrar/registration/mailto:regq@kentlaw.iit.edu"
+        },
+        {
+          "text": "Credit Hour Limits page",
+          "href": "https://www.iit.edu/registrar/registration/credit-hour-limits"
+        }
+      ]
+    }
+  ]
+}

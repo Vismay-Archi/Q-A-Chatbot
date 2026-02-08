@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.iit.edu/registrar/registration/credit-hour-limits",
+  "page_title": "Credit Hour Limits",
+  "fall_spring_limits": [
+    {
+      "group": "Undergraduate Students",
+      "max_hours": 18,
+      "qualifier": null
+    },
+    {
+      "group": "New Graduate Students (except for Institute of Design)",
+      "max_hours": 15,
+      "qualifier": "their first semester"
+    },
+    {
+      "group": "New ID Graduate Students",
+      "max_hours": 18,
+      "qualifier": null
+    },
+    {
+      "group": "New Stuart Graduate Students",
+      "max_hours": 15,
+      "qualifier": null
+    },
+    {
+      "group": "Continuing Graduate Students",
+      "max_hours": 18,
+      "qualifier": null
+    },
+    {
+      "group": "Continuing ID Graduate Students",
+      "max_hours": 18,
+      "qualifier": null
+    },
+    {
+      "group": "Continuing Stuart Graduate Students",
+      "max_hours": 18,
+      "qualifier": null
+    },
+    {
+      "group": "Students on Probation",
+      "max_hours": 15,
+      "qualifier": null
+    },
+    {
+      "group": "Certificate Students",
+      "max_hours": 12,
+      "qualifier": null
+    },
+    {
+      "group": "Non-Degree Students",
+      "max_hours": 9,
+      "qualifier": null
+    }
+  ],
+  "summer_limits": [
+    {
+      "group": "New Undergraduate Students (summer is their first semester)",
+      "max_hours": 5,
+      "qualifier": null
+    },
+    {
+      "group": "Continuing Undergraduate Students",
+      "max_hours": 8,
+      "qualifier": null
+    },
+    {
+      "group": "Graduate Students",
+      "max_hours": 9,
+      "qualifier": null
+    },
+    {
+      "group": "Non-Degree Students",
+      "max_hours": 8,
+      "qualifier": null
+    }
+  ],
+  "overload_links": [
+    {
+      "text": "Credit Overload Request",
+      "url": "https://www.iit.edu/sites/default/files/2025-04/credit_overload_request.pdf"
+    },
+    {
+      "text": "Form G701",
+      "url": "https://www.iit.edu/gaa/students/student-forms"
+    }
+  ]
+}

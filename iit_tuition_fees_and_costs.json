@@ -1,0 +1,145 @@
+{
+  "source": "https://www.iit.edu/financial-aid/tuition-fees-and-costs",
+  "undergraduate_new": [
+    {
+      "item": "Tuition (billable expense)",
+      "living_on_campus": 51648,
+      "living_off_campus": 51648,
+      "living_at_home": 51648
+    },
+    {
+      "item": "Fees (billable expense)",
+      "living_on_campus": 1750,
+      "living_off_campus": 1750,
+      "living_at_home": 1750
+    },
+    {
+      "item": "Housing (on campus\u2014billable expense)",
+      "living_on_campus": 9776,
+      "living_off_campus": 11700,
+      "living_at_home": null
+    },
+    {
+      "item": "Food (meal plan\u2014billable expense)",
+      "living_on_campus": 8354,
+      "living_off_campus": 4700,
+      "living_at_home": 4700
+    },
+    {
+      "item": "Books/Supplies (non-billable estimate)",
+      "living_on_campus": 1240,
+      "living_off_campus": 1240,
+      "living_at_home": 1240
+    },
+    {
+      "item": "Transportation (non-billable estimate)",
+      "living_on_campus": 1300,
+      "living_off_campus": 2000,
+      "living_at_home": 2000
+    },
+    {
+      "item": "Personal and Miscellaneous (non-billable estimate)",
+      "living_on_campus": 3500,
+      "living_off_campus": 3500,
+      "living_at_home": 3500
+    },
+    {
+      "item": "Loan fees (non-billable estimate)",
+      "living_on_campus": 56,
+      "living_off_campus": 56,
+      "living_at_home": 56
+    },
+    {
+      "item": "Total",
+      "living_on_campus": 77624,
+      "living_off_campus": 76594,
+      "living_at_home": 64894
+    }
+  ],
+  "graduate_new_mies": [
+    {
+      "item": "Tuition $33,318 Fees $1,750 Housing $11,700 Food $4,700 Books/Supplies $930 Transportation $2,000 Personal and Miscellaneous $3,500 Loan Fees $216 Total",
+      "amount": 58114
+    },
+    {
+      "item": "Tuition $33,318 Fees $1,750 Housing $11,700 Food $4,700 Books/Supplies $930 Transportation $2,000 Personal and Miscellaneous $3,500 Loan Fees $216 Total",
+      "amount": 58114
+    },
+    {
+      "item": "Tuition",
+      "amount": 33318
+    },
+    {
+      "item": "",
+      "amount": 33318
+    },
+    {
+      "item": "Fees",
+      "amount": 1750
+    },
+    {
+      "item": "",
+      "amount": 1750
+    },
+    {
+      "item": "Housing",
+      "amount": 11700
+    },
+    {
+      "item": "",
+      "amount": 11700
+    },
+    {
+      "item": "Food",
+      "amount": 4700
+    },
+    {
+      "item": "",
+      "amount": 4700
+    },
+    {
+      "item": "Books/Supplies",
+      "amount": 930
+    },
+    {
+      "item": "",
+      "amount": 930
+    },
+    {
+      "item": "Transportation",
+      "amount": 2000
+    },
+    {
+      "item": "",
+      "amount": 2000
+    },
+    {
+      "item": "Personal and Miscellaneous",
+      "amount": 3500
+    },
+    {
+      "item": "",
+      "amount": 3500
+    },
+    {
+      "item": "Loan Fees",
+      "amount": 216
+    },
+    {
+      "item": "",
+      "amount": 216
+    },
+    {
+      "item": "Total",
+      "amount": 58114
+    },
+    {
+      "item": "",
+      "amount": 58114
+    },
+    {
+      "item": "",
+      "amount": 58114
+    }
+  ]
+}
