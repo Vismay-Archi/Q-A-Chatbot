@@ -1,0 +1,103 @@
+{
+  "terms": {
+    "Spring 2026": {
+      "calendar_events": [
+        { "date": "2026-01-12", "description": "Courses Begin for Spring and Online A Session" },
+        { "date": "2026-01-19", "description": "Martin Luther King Jr. Day — No Classes" },
+        { "date": "2026-01-20", "description": "Last Day to Add/Drop (Full Semester & Online A); ID Courses Begin" },
+        { "date": "2026-01-23", "description": "Monday Classes Meet (Dr. King's Birthday Makeup)" },
+        { "date": "2026-01-27", "description": "Late Registration Deadline; ID Add/Drop Deadline" },
+        { "date": "2026-02-02", "description": "Spring Degree Conferral Applications Due" },
+        { "date": "2026-02-20", "description": "Withdrawal Deadline — ID & Online A" },
+        { "date": "2026-02-23", "description": "Fall Incomplete Grades Due" },
+        { "date": "2026-03-04", "description": "Midterm Grading Begins" },
+        { "date": "2026-03-07", "description": "Last Day — ID & Online A" },
+        { "date": "2026-03-09", "description": "Online B Session Begins" },
+        { "date": "2026-03-11", "description": "Online A Final Grades Due; Final Exam Schedule Published" },
+        { "date": "2026-03-13", "description": "Midterm Grades Due" },
+        { "date": "2026-03-16", "end_date": "2026-03-21", "description": "Spring Break — No Classes" },
+        { "date": "2026-03-17", "description": "Online B Add/Drop Deadline" },
+        { "date": "2026-03-23", "description": "Fall Schedule Published; ID B Session Begins" },
+        { "date": "2026-03-30", "description": "Full Semester Withdrawal Deadline; ID B Add/Drop Deadline" },
+        { "date": "2026-04-06", "description": "Fall Registration Begins" },
+        { "date": "2026-04-15", "description": "Summer Reinstatement Applications Due (UG)" },
+        { "date": "2026-04-17", "description": "Withdrawal Deadline — ID & Online B; ID Full Semester" },
+        { "date": "2026-05-02", "description": "Last Day of Spring Courses" },
+        { "date": "2026-05-03", "description": "Incomplete Grade Request Deadline" },
+        { "date": "2026-05-04", "end_date": "2026-05-09", "description": "Final Exams & Final Grading" },
+        { "date": "2026-05-09", "description": "Last Day — ID Full Semester & B Sessions" },
+        { "date": "2026-05-13", "description": "Final Grades Due (Noon CST)" },
+        { "date": "2026-05-16", "description": "Commencement & Degree Conferral" }
+      ],
+
+      "course_deadlines": [
+        {
+          "session": "A",
+          "add_drop": "2026-01-18",
+          "withdraw": "2026-02-20",
+          "courses": [
+            "BUS 510-01","BUS 510-05","MAX 506-01","MAX 506-02",
+            "MBA 501-01","MBA 513-05","PA 501-01","PA 522-01",
+            "PA 542-01","PM 501-01","PM 508-01","PSYC 723-01",
+            "PSYC 723-02","SAM 505-01","SCI 511-01"
+          ]
+        },
+        {
+          "session": "B",
+          "add_drop": "2026-03-15",
+          "withdraw": "2026-04-17",
+          "courses": [
+            "BUS 550-01","MAX 504-01","MBA 505-01","MBA 505-05",
+            "MBA 506-01","MBA 511-01","MBA 523-01","MSF 506-01",
+            "PA 523-01","PA 568-01","PA 581-01","PM 501-05",
+            "PM 505-01","PSYC 722-01","SAM 503-01"
+          ]
+        },
+        {
+          "session": "Winter",
+          "add_drop": "2025-12-27",
+          "withdraw": "2025-12-30",
+          "courses": [
+            "HIST 352-J01","HUM 200-J01","PS 338-J01",
+            "PSYC 301-J02","PSYC 363-J01","PS 380-J01"
+          ]
+        }
+      ]
+    },
+
+    "Summer 2026": {
+      "sessions": {
+        "Summer 1": {
+          "events": [
+            { "date": "2026-05-18", "description": "Courses Begin" },
+            { "date": "2026-05-22", "description": "Add/Drop Deadline" },
+            { "date": "2026-05-25", "description": "Memorial Day — No Classes" },
+            { "date": "2026-05-29", "description": "Late Registration Deadline" },
+            { "date": "2026-06-05", "description": "Degree Application Deadline" },
+            { "date": "2026-06-19", "description": "Juneteenth — No Classes" },
+            { "date": "2026-06-23", "description": "Withdrawal Deadline" },
+            { "date": "2026-07-03", "description": "Independence Day Observed — No Classes" },
+            { "date": "2026-07-11", "description": "Last Day of Courses" },
+            { "date": "2026-07-15", "description": "Final Grades Due (Noon CST)" }
+          ]
+        },
+
+        "Summer 2": {
+          "events": [
+            { "date": "2026-06-15", "description": "Courses Begin" },
+            { "date": "2026-06-19", "description": "Add/Drop Deadline" },
+            { "date": "2026-06-26", "description": "Late Registration Deadline" },
+            { "date": "2026-07-21", "description": "Withdrawal Deadline; MOOC Credit Conversion Deadline" },
+            { "date": "2026-08-08", "description": "Last Day of Courses" },
+            { "date": "2026-08-11", "description": "Final Grades Due (Noon CST)" }
+          ]
+        }
+      },
+
+      "degree_conferral": {
+        "date": "2026-08-15",
+        "description": "Summer Degree Conferral"
+      }
+    }
+  }
+}
