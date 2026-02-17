@@ -1,0 +1,20 @@
+{
+  "source_file": "coterminal_handbook",
+  "original_file": "C:\\Users\\visma\\Downloads\\coterminal_handbook.json",
+  "chunk_count": 12,
+  "chunking_strategy": "CoterminalHandbookChunker",
+  "chunk_files": [
+    "chunk_0000.json",
+    "chunk_0001.json",
+    "chunk_0002.json",
+    "chunk_0003.json",
+    "chunk_0004.json",
+    "chunk_0005.json",
+    "chunk_0006.json",
+    "chunk_0007.json",
+    "chunk_0008.json",
+    "chunk_0009.json",
+    "chunk_0010.json",
+    "chunk_0011.json"
+  ]
+}

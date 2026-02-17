@@ -1,0 +1,643 @@
+{
+  "chunk_id": "Directory_chunk_0000",
+  "source_file": "Directory",
+  "chunk_type": "directory_people",
+  "category": "Faculty",
+  "text": "Naser Abas - Adjunct Faculty - nabas@illinoistech.edu\nNarjes Abbasabadi - Adjunct Professor - nabbasab@illinoistech.edu\nJavad Abbasian - Professor of Chemical Engineering, Director of Graduate Affairs in the Department of Chemical and Biological Engineering - abbasian@illinoistech.edu\nMohammadjavad Abdollahzadeh - Senior Research Associate - mabdollahzadeh@illinoistech.edu\nSumanta Acharya - Professor, Mechanical Engineering - sacharya1@illinoistech.edu\nValeria Acquarone - Adjunct Industry Professor - vacquarone@illinoistech.edu\nBernhard Adams - Research Professor of Physics - \nDavid Adams - Commanding Officer (CO) - dadams20@illinoistech.edu\nNader Aderangi - Teaching Professor of Chemical Engineering, Director of the Undergraduate Laboratory - aderangi@illinoistech.edu\nGady Agam - Associate Professor of Computer Science - agam@illinoistech.edu\nKatelyn L. Aldridge - Adjunct Faculty - kaldridge@illinoistech.edu\nJeremy Alexis - Vice Provost for Academic Strategy, Associate Professor of Innovation - alexis@illinoistech.edu\nKawkab Alhejoj - Adjunct Faculty of Applied Mathematics - kalhejoj@illinoistech.edu\nOmar Ali - Adjunct Professor - \nCurt E. Allee - Assistant Dean of Academic Enrichment, Career Management, and Student Engagement - callee@illinoistech.edu\nJoseph A. Altshuler - Adjunct Professor - jaltshuler@illinoistech.edu\nSachin Anand - Adjunct Professor - sanand11@illinoistech.edu\nSmriti Anand - Assistant Director of the Master of Business Administration Program Assessment, James B. Finkl Endowed Professor, Professor of Management - sanand12@illinoistech.edu\nJohn L. Anderson - Distinguished Professor Emeritus of Chemical Engineering, Former Illinois Institute of Technology President - johna@illinoistech.edu\nPaul R. Anderson - Adjunct Professor, Environmental Engineering - andersonp@illinoistech.edu\nRobert F. Anderson - Adjunct Faculty - anderson@illinoistech.edu\nLori B. Andrews - University Distinguished Professor Emerita, Professor of Law Emerita, Director of the Institute for Science, Law and Technology - landrews@illinoistech.edu\nSmiljana Antonijevic - Adjunct Professor - santonij@illinoistech.edu\nHamid Arastoopour - Henry R. Linden Endowed Chair in Engineering, Director of the Wanger Institute for Sustainable Energy Research (WISER), Affiliate Professor, Stuart School of Business - arastoopour@illinoistech.edu\nDavid Arditi - Professor Emeritus of Civil and Architectural Engineering - arditi@illinoistech.edu\nWiel Arets - Professor - warets@illinoistech.edu\nKonstantinos Arfanakis - Professor of Biomedical Engineering, Director, Medical Imaging Research Center (MIRC), Director at the Pritzker Institute - arfanakis@illinoistech.edu\nAdarsh Arora - Industry Professor, Coleman Entrepreneur-in-Residence - aarora12@illinoistech.edu\nMohammad Asadi - Associate Professor of Chemical Engineering - masadi1@illinoistech.edu\nWeslynne Ashton - Professor of Environmental Management and Sustainability, Affiliate Professor to Armour College of Engineering - washton@illinoistech.edu\nGuillermo E. Atkin - Associate Professor Emeritus of Electrical and Computer Engineering - atkin@illinoistech.edu\nKapila Rohan Attele - Adjunct Faculty - attele@illinoistech.edu\nRohan Attele - Adjunct Faculty - attele@illinoistech.edu\nRoya Ayman - Professor of Psychology - ayman@illinoistech.edu\nAtef Bader - Adjunct Faculty, Computer Science - abader@illinoistech.edu\nCharlie Baggs - Adjunct Instructor - cbaggs@illinoistech.edu\nShaghayegh Bahramirad - Adjunct Faculty - sbahram2@illinoistech.edu\nBrian Bailey - Adjunct Industry Associate Professor, Information Technology and Management - bbailey4@illinoistech.edu\nSiva K. Balasubramanian - Associate Dean of Accreditation and Research, Director of Graduate Management Science and Analytics Programs, Harold L. Stuart Endowed Chair in Business, Professor of Marketing - sivakbalas@illinoistech.edu\nGerald Balekaki - Assistant Teaching Professor of Computer Science - gbalekaki@illinoistech.edu\nBrett Balogh - Adjunct Professor - bbalogh@illinoistech.edu\nSomdev Banerjee - Associate Teaching Professor, Undergraduate Adviser and Accelerated Masters Program (AMP) Adviser, Illinois Tech Pre-Medicine Advisory Committee Member - sbanerjee2@illinoistech.edu\nMartin L. Bariff - Associate Professor Emeritus of Information Management - bariff@illinoistech.edu\nAnna Barnett - Department Chair of Electrical and Computer Engineering, Motorola Endowed Chair in Engineering, Professor of Electrical and Computer Engineering - abarnett4@illinoistech.edu\nKimberly Barreto - Sawyier Predoctoral Fellow - \nSteven Barrett - Adjunct Faculty - sbarrett1@illinoistech.edu\nMark Barry - Adjunct Industry Professor - mbarry3@illinoistech.edu\nMichael P. Barry - Associate Director for Translational Research, Pritzker Institute of Biomedical Science and Engineering, Senior Research Associate, Pritzker Institute of Biomedical Science and Engineering - mbarry1@illinoistech.edu\nSantosh Basapur - Lecturer - basapur@illinoistech.edu\nFelice Batlan - Professor of Law, Director of the Institute for Compliance, Co-Director of the Institute for Law and the Humanities - fbatlan@illinoistech.edu",
+  "people": [
+    {
+      "name": "Naser Abas",
+      "profile_url": "https://www.iit.edu/directory/people/naser-abas",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "nabas@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Narjes Abbasabadi",
+      "profile_url": "https://www.iit.edu/directory/people/narjes-abbasabadi",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "nabbasab@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Javad Abbasian",
+      "profile_url": "https://www.iit.edu/directory/people/javad-abbasian",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor of Chemical Engineering",
+        "Director of Graduate Affairs in the Department of Chemical and Biological Engineering"
+      ],
+      "email": "abbasian@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Mohammadjavad Abdollahzadeh",
+      "profile_url": "https://www.iit.edu/directory/people/mohammadjavad-abdollahzadeh",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Senior Research Associate"
+      ],
+      "email": "mabdollahzadeh@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Sumanta Acharya",
+      "profile_url": "https://www.iit.edu/directory/people/sumanta-acharya",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor, Mechanical Engineering"
+      ],
+      "email": "sacharya1@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Valeria Acquarone",
+      "profile_url": "https://www.iit.edu/directory/people/valeria-acquarone",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Industry Professor"
+      ],
+      "email": "vacquarone@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Bernhard Adams",
+      "profile_url": "https://www.iit.edu/directory/people/bernhard-adams",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Research Professor of Physics"
+      ],
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "David Adams",
+      "profile_url": "https://www.iit.edu/directory/people/david-adams",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Commanding Officer (CO)"
+      ],
+      "email": "dadams20@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Nader Aderangi",
+      "profile_url": "https://www.iit.edu/directory/people/nader-aderangi",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Teaching Professor of Chemical Engineering",
+        "Director of the Undergraduate Laboratory"
+      ],
+      "email": "aderangi@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Gady Agam",
+      "profile_url": "https://www.iit.edu/directory/people/gady-agam",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Professor of Computer Science"
+      ],
+      "email": "agam@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Katelyn L. Aldridge",
+      "profile_url": "https://www.iit.edu/directory/people/katelyn-aldridge",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "kaldridge@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Jeremy Alexis",
+      "profile_url": "https://www.iit.edu/directory/people/jeremy-alexis",
+      "tags": [
+        "Faculty",
+        "Media Expert"
+      ],
+      "positions": [
+        "Vice Provost for Academic Strategy",
+        "Associate Professor of Innovation"
+      ],
+      "email": "alexis@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Kawkab Alhejoj",
+      "profile_url": "https://www.iit.edu/directory/people/kawkab-alhejoj",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty of Applied Mathematics"
+      ],
+      "email": "kalhejoj@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Omar Ali",
+      "profile_url": "https://www.iit.edu/directory/people/omar-ali",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "Curt E. Allee",
+      "profile_url": "https://www.iit.edu/directory/people/curt-allee",
+      "tags": [
+        "Faculty",
+        "Staff"
+      ],
+      "positions": [
+        "Assistant Dean of Academic Enrichment, Career Management, and Student Engagement"
+      ],
+      "email": "callee@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Joseph A. Altshuler",
+      "profile_url": "https://www.iit.edu/directory/people/joseph-altshuler",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "jaltshuler@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Sachin Anand",
+      "profile_url": "https://www.iit.edu/directory/people/sachin-anand",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "sanand11@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Smriti Anand",
+      "profile_url": "https://www.iit.edu/directory/people/smriti-anand",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Assistant Director of the Master of Business Administration Program Assessment",
+        "James B. Finkl Endowed Professor",
+        "Professor of Management"
+      ],
+      "email": "sanand12@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "John L. Anderson",
+      "profile_url": "https://www.iit.edu/directory/people/john-anderson",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Distinguished Professor Emeritus of Chemical Engineering",
+        "Former Illinois Institute of Technology President"
+      ],
+      "email": "johna@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Paul R. Anderson",
+      "profile_url": "https://www.iit.edu/directory/people/paul-anderson",
+      "tags": [
+        "Faculty",
+        "Media Expert"
+      ],
+      "positions": [
+        "Adjunct Professor, Environmental Engineering"
+      ],
+      "email": "andersonp@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Robert F. Anderson",
+      "profile_url": "https://www.iit.edu/directory/people/robert-anderson",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "anderson@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Lori B. Andrews",
+      "profile_url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/lori-b-andrews",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "University Distinguished Professor Emerita",
+        "Professor of Law Emerita",
+        "Director of the Institute for Science, Law and Technology"
+      ],
+      "email": "landrews@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Smiljana Antonijevic",
+      "profile_url": "https://www.iit.edu/directory/people/smiljana-antonijevic",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "santonij@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Hamid Arastoopour",
+      "profile_url": "https://www.iit.edu/directory/people/hamid-arastoopour",
+      "tags": [
+        "Faculty",
+        "Media Expert"
+      ],
+      "positions": [
+        "Henry R. Linden Endowed Chair in Engineering",
+        "Director of the Wanger Institute for Sustainable Energy Research (WISER)",
+        "Affiliate Professor, Stuart School of Business"
+      ],
+      "email": "arastoopour@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "David Arditi",
+      "profile_url": "https://www.iit.edu/directory/people/david-arditi",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor Emeritus of Civil and Architectural Engineering"
+      ],
+      "email": "arditi@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Wiel Arets",
+      "profile_url": "https://www.iit.edu/directory/people/wiel-arets",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor"
+      ],
+      "email": "warets@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Konstantinos Arfanakis",
+      "profile_url": "https://www.iit.edu/directory/people/konstantinos-arfanakis",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor of Biomedical Engineering",
+        "Director, Medical Imaging Research Center (MIRC)",
+        "Director at the Pritzker Institute"
+      ],
+      "email": "arfanakis@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Adarsh Arora",
+      "profile_url": "https://www.iit.edu/directory/people/adarsh-arora",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Industry Professor",
+        "Coleman Entrepreneur-in-Residence"
+      ],
+      "email": "aarora12@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Mohammad Asadi",
+      "profile_url": "https://www.iit.edu/directory/people/mohammad-asadi",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Professor of Chemical Engineering"
+      ],
+      "email": "masadi1@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Weslynne Ashton",
+      "profile_url": "https://www.iit.edu/directory/people/weslynne-ashton",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor of Environmental Management and Sustainability",
+        "Affiliate Professor to Armour College of Engineering"
+      ],
+      "email": "washton@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Guillermo E. Atkin",
+      "profile_url": "https://www.iit.edu/directory/people/guillermo-atkin",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Professor Emeritus of Electrical and Computer Engineering"
+      ],
+      "email": "atkin@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Kapila Rohan Attele",
+      "profile_url": "https://www.iit.edu/directory/people/kapila-attele",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "attele@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Rohan Attele",
+      "profile_url": "https://www.iit.edu/directory/people/rohan-attele",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "attele@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Roya Ayman",
+      "profile_url": "https://www.iit.edu/directory/people/roya-ayman",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor of Psychology"
+      ],
+      "email": "ayman@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Atef Bader",
+      "profile_url": "https://www.iit.edu/directory/people/atef-bader",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty, Computer Science"
+      ],
+      "email": "abader@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Charlie Baggs",
+      "profile_url": "https://www.iit.edu/directory/people/charlie-baggs",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Instructor"
+      ],
+      "email": "cbaggs@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Shaghayegh Bahramirad",
+      "profile_url": "https://www.iit.edu/directory/people/shaghayegh-bahramirad",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "sbahram2@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Brian Bailey",
+      "profile_url": "https://www.iit.edu/directory/people/brian-bailey",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Industry Associate Professor, Information Technology and Management"
+      ],
+      "email": "bbailey4@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Siva K. Balasubramanian",
+      "profile_url": "https://www.iit.edu/directory/people/siva-balasubramanian",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Dean of Accreditation and Research",
+        "Director of Graduate Management Science and Analytics Programs",
+        "Harold L. Stuart Endowed Chair in Business",
+        "Professor of Marketing"
+      ],
+      "email": "sivakbalas@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Gerald Balekaki",
+      "profile_url": "https://www.iit.edu/directory/people/gerald-balekaki",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Assistant Teaching Professor of Computer Science"
+      ],
+      "email": "gbalekaki@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Brett Balogh",
+      "profile_url": "https://www.iit.edu/directory/people/brett-balogh",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Professor"
+      ],
+      "email": "bbalogh@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Somdev Banerjee",
+      "profile_url": "https://www.iit.edu/directory/people/somdev-banerjee",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Teaching Professor",
+        "Undergraduate Adviser and Accelerated Masters Program (AMP) Adviser",
+        "Illinois Tech Pre-Medicine Advisory Committee Member"
+      ],
+      "email": "sbanerjee2@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Martin L. Bariff",
+      "profile_url": "https://www.iit.edu/directory/people/martin-bariff",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Professor Emeritus of Information Management"
+      ],
+      "email": "bariff@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Anna Barnett",
+      "profile_url": "https://www.iit.edu/directory/people/anna-barnett",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Department Chair of Electrical and Computer Engineering",
+        "Motorola Endowed Chair in Engineering",
+        "Professor of Electrical and Computer Engineering"
+      ],
+      "email": "abarnett4@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Kimberly Barreto",
+      "profile_url": "https://www.iit.edu/directory/people/kimberly-barreto",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Sawyier Predoctoral Fellow"
+      ],
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "Steven Barrett",
+      "profile_url": "https://www.iit.edu/directory/people/steven-barrett",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Faculty"
+      ],
+      "email": "sbarrett1@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Mark Barry",
+      "profile_url": "https://www.iit.edu/directory/people/mark-barry",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Adjunct Industry Professor"
+      ],
+      "email": "mbarry3@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Michael P. Barry",
+      "profile_url": "https://www.iit.edu/directory/people/michael-barry",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Associate Director for Translational Research, Pritzker Institute of Biomedical Science and Engineering",
+        "Senior Research Associate, Pritzker Institute of Biomedical Science and Engineering"
+      ],
+      "email": "mbarry1@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Santosh Basapur",
+      "profile_url": "https://www.iit.edu/directory/people/santosh-basapur",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Lecturer"
+      ],
+      "email": "basapur@illinoistech.edu",
+      "phone": ""
+    },
+    {
+      "name": "Felice Batlan",
+      "profile_url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/felice-batlan",
+      "tags": [
+        "Faculty"
+      ],
+      "positions": [
+        "Professor of Law",
+        "Director of the Institute for Compliance",
+        "Co-Director of the Institute for Law and the Humanities"
+      ],
+      "email": "fbatlan@illinoistech.edu",
+      "phone": ""
+    }
+  ],
+  "metadata": {
+    "tag": "Faculty",
+    "person_count": 50,
+    "entry_range": "0-50",
+    "word_count": 618
+  }
+}
