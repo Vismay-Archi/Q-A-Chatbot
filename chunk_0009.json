@@ -1,14 +1,12 @@
 {
-  "chunk_id": "coterminal_handbook_chunk_0009",
-  "source_file": "coterminal_handbook",
-  "chunk_type": "coterminal_handbook_section",
-  "section_id": "IX",
-  "title": "IX. Withdrawing from the Co-Terminal Program",
-  "text": "Students may request to withdraw from the co-terminal program before the completion of the degree requirements. To place a withdrawal request, students may complete the Co-Terminal Withdrawal Form (G218) available at the Graduate Academic Affairs website (http://web.iit.edu/gaa/students/student-forms). Students who choose to withdraw from the co-terminal program will be converted to an undergraduate student status only and will be able to complete their undergraduate degree pursuant to Undergraduate Academic Affairs policies. These students may apply for Accelerated Master’s Program admission consideration in the future. 11 Updated September 2020",
+  "chunk_id": "iit_registrar_students_alumni_chunk_0009",
+  "source_file": "iit_registrar_students_alumni",
+  "chunk_type": "registrar_section",
+  "text": "To check the status of your order, please click here and log in to your Parchment account. You will need your order or student ID number.",
   "metadata": {
-    "section_id": "IX",
-    "section_title": "IX. Withdrawing from the Co-Terminal Program",
-    "start_page": 11,
-    "word_count": 87
+    "section_heading": "Where Is My Order?",
+    "source_url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+    "page_h1": "Transcripts",
+    "word_count": 26
   }
 }
