@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.iit.edu/student-accounting/payments/payment-policy/credits-and-refunds",
+  "page_title": "Credits and Refunds",
+  "sections": {
+    "Financial Aid Refunds": {
+      "paragraphs": [
+        "Refunds of credit balances resulting from financial aid credits will be processed once the credit balance is reflected on the student account. Students receiving federal loans, state loans and/or grants should be aware that credit for such aid may not be available until some time after the add/drop deadline.",
+        "In order to receive your refund, you must be enrolled in direct deposit. You may enroll through the Manage My Account (TouchNet) Tool, available through the Illinois Tech Portal."
+      ],
+      "bullets": [],
+      "links": [
+        {
+          "text": "Direct Deposit Refund Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/user_guide_refunds.pdf"
+        },
+        {
+          "text": "Title IV Refund Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/federal_regulations_refund_policies_title_iv-08-12-24_0.pdf"
+        }
+      ]
+    },
+    "Refunds from Dropped Courses": {
+      "paragraphs": [
+        "Courses are 100% refundable prior to the official add/drop date .",
+        "To request a refund from an credit balance, submit a Refund Request Form . Requests will take 7-10 business days to review and process.",
+        "Refunds must be issued back to the method of payment.",
+        "Under exceptional circumstances, such as withdrawal for involuntary military service, serious illness or action by the university, consideration may be given for a refund or credit for unused tuition upon written request to the Dean."
+      ],
+      "bullets": [],
+      "links": [
+        {
+          "text": "add/drop date",
+          "url": "https://www.iit.edu/registrar/academic-calendar"
+        },
+        {
+          "text": "Refund Request Form",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-policy/personal-payment-refund-request-form"
+        },
+        {
+          "text": "Electronic Refund User Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/electronic_refund_user_guide-08-12-2024.pdf"
+        }
+      ]
+    }
+  }
+}

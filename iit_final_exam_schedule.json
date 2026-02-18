@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.iit.edu/registrar/academic-calendar/final-exam-schedule",
+  "page_title": "Final Exam Schedule",
+  "exam_week": "May 4-9, 2026",
+  "exam_blocks": [
+    {
+      "block": 1,
+      "time": "8–10 a.m."
+    },
+    {
+      "block": 2,
+      "time": "10:30 a.m.–12:30 p.m."
+    },
+    {
+      "block": 3,
+      "time": "2–4 p.m."
+    },
+    {
+      "block": 4,
+      "time": "5–7 p.m."
+    },
+    {
+      "block": 5,
+      "time": "7:30–9:30 p.m."
+    }
+  ],
+  "content_lines": [
+    "Subsequent Academic Years",
+    "May 4-9, 2026",
+    "The Office of the Registrar determines the Final Exam Schedule based on final student registration data and therefore begins scheduling final exams after the add/drop courses deadline for the semester. The Office of the Registrar schedules final exams with the goal of minimizing the number of student exam conflicts and the number of students with three or more exams on the same day.",
+    "Faculty Note: Faculty who wish to have a common final exam meeting day and time for multiple courses, would like a final exam room assigned for an online course, or will not be administering a final exam should email registrar@illinoistech.edu by Friday, February 20.",
+    "Exams at Mies Campus and Rice Campus",
+    "Exams are two hours long and are scheduled in one of the following exam blocks:",
+    "These are the only exam blocks in which final exams will be scheduled.",
+    "Exams for daytime courses (courses that end before 5 p.m.) are scheduled in the exam week on Monday, Tuesday, Wednesday, Thursday, or Friday in exam block 1, 2, or 3.",
+    "Exams for evening courses (courses that begin at 5 p.m. or later) are scheduled in the exam week on the same day that the class began meeting in exam block 4 (for courses that begin at 5 p.m.) or exam block 5 (for courses that begin at 6:25 p.m. or 7:50 p.m.).",
+    "Generally, labs, seminars, independent studies, and research courses do not have a final exam.",
+    "Final Exam Conflicts",
+    "Online Exam Conflict: Students who are taking online courses may elect to take the final exam on campus with the on-campus section. Students who have exam conflicts between the online exam and an on-campus exam must contact Charles Scott, student service manager for the Center for Learning Innovation, at scott@illinoistech.edu to arrange to take the online final exam with a proctor at another time.",
+    "On-Campus Exam Conflict: Students who have an exam conflict between two or more on-campus sections are to contact the instructors of the courses to arrange to take one of the final exams at another time. If the exam conflict is not resolved, then students may contact registrar@illinoistech.edu , where a staff member will assist you and your instructors in resolving the exam conflict.",
+    "Three or More Exams on Same Day: Students who have three or more exams on the same day may request relief by contacting the instructors of the courses to request that one of the exams be rescheduled to a different day. If the issue is not resolved, then students may contact registrar@illinoistech.edu , where a staff member will assist you and your instructors in making special arrangements for you to take one of the exams on a different day.",
+    "Exams at Conviser Law Center",
+    "This information does not apply for exams for IPMM and LAW courses.",
+    "Final exams for courses taught at Conviser Law Center will be held on the same day and time as the regular class during finals week.",
+    "Instructors: If you need to change the day/time of a final exam or need another classroom at Conviser Law Center, please email registrar@illinoistech.edu with your request."
+  ],
+  "final_exam_conflicts": [
+    "Online Exam Conflict: Students who are taking online courses may elect to take the final exam on campus with the on-campus section. Students who have exam conflicts between the online exam and an on-campus exam must contact Charles Scott, student service manager for the Center for Learning Innovation, at scott@illinoistech.edu to arrange to take the online final exam with a proctor at another time.",
+    "On-Campus Exam Conflict: Students who have an exam conflict between two or more on-campus sections are to contact the instructors of the courses to arrange to take one of the final exams at another time. If the exam conflict is not resolved, then students may contact registrar@illinoistech.edu , where a staff member will assist you and your instructors in resolving the exam conflict.",
+    "Three or More Exams on Same Day: Students who have three or more exams on the same day may request relief by contacting the instructors of the courses to request that one of the exams be rescheduled to a different day. If the issue is not resolved, then students may contact registrar@illinoistech.edu , where a staff member will assist you and your instructors in making special arrangements for you to take one of the exams on a different day."
+  ]
+}

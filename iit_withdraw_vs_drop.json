@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.iit.edu/registrar/policies-and-procedures/withdrawing-vs-dropping-course",
+  "page_title": "Withdrawing from vs. Dropping a Course",
+  "policy_summary": [
+    "The deadlines to add/drop and withdraw from courses are posted on the Academic Calendar . Please note that non-full term courses such as short courses have special deadlines (also noted on the Academic Calendar).",
+    "10 West 35th Street Chicago, IL 60616",
+    "312.567.3000",
+    "Contact Us"
+  ],
+  "comparison_table": {
+    "columns": [
+      "Withdrawing from a Course",
+      "Dropping a Course"
+    ],
+    "rows": [
+      {
+        "Withdrawing from a Course": "The action of withdrawing from a course is taken after the add/drop courses deadline.",
+        "Dropping a Course": "Dropping a course refers to having the course removed from the student's schedule before the add/drop deadline."
+      },
+      {
+        "Withdrawing from a Course": "The student is responsible for any tuition and/or fees associated with the course.",
+        "Dropping a Course": "The student will not be charged any tuition and/or fees associated with the course."
+      },
+      {
+        "Withdrawing from a Course": "Withdrawn credits count toward the student's total maximum credit hours.",
+        "Dropping a Course": "The removed credits do not count toward the student's maximum credit hours."
+      },
+      {
+        "Withdrawing from a Course": "A letter grade of 'W' is assigned to the withdrawn course and is visible on the transcript.",
+        "Dropping a Course": "Since the course is entirely removed, the course will not show up on the student's transcript."
+      },
+      {
+        "Withdrawing from a Course": "The student's GPA is not affected.",
+        "Dropping a Course": "The student's GPA is not affected."
+      }
+    ]
+  }
+}
