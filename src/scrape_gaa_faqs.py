@@ -1,7 +1,3 @@
-# scrape_gaa_faqs.py
-# Purpose: Extract graduate academic affairs FAQs for Q/A education chatbot
-# Output: iit_gaa_faqs.json
-
 import requests
 from bs4 import BeautifulSoup
 import json
