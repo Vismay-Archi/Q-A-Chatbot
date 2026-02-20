@@ -1,7 +1,4 @@
-# scrape_student_accounting_faqs.py
-# Purpose: Extract all content from Student Accounting FAQs webpage
-# Output: iit_student_accounting_faqs.json
-
+# Student Accounting
 import requests
 from bs4 import BeautifulSoup
 import json
