@@ -13,18 +13,20 @@ def clean_text(s: str) -> str:
         return ""
     s = re.sub(r"\s+", " ", str(s)).strip()
     s = s.replace("\xa0", " ")
+    s = s.replace("\u200b", "")  # Zero-width space
     return s
 
-def extract_links_from_content(content_div) -> List[Dict[str, str]]:
-    """Extract links from content"""
+def extract_links_from_element(element) -> List[Dict[str, str]]:
+    """Extract all links from an element"""
     links = []
-    if not content_div:
+    if not element:
         return links
     
-    for a in content_div.find_all('a', href=True):
+    for a in element.find_all('a', href=True):
         href = a.get('href', '')
         text = clean_text(a.get_text())
         if text and href and not href.startswith('#'):
+            # Make relative URLs absolute
             if href.startswith('/'):
                 href = f"https://www.iit.edu{href}"
             links.append({
@@ -34,13 +36,13 @@ def extract_links_from_content(content_div) -> List[Dict[str, str]]:
             })
     return links
 
-def extract_images_from_content(content_div) -> List[Dict[str, str]]:
-    """Extract images from content"""
+def extract_images_from_element(element) -> List[Dict[str, str]]:
+    """Extract all images from an element"""
     images = []
-    if not content_div:
+    if not element:
         return images
     
-    for img in content_div.find_all('img'):
+    for img in element.find_all('img'):
         src = img.get('src', '')
         alt = img.get('alt', '')
         if src:
@@ -52,22 +54,21 @@ def extract_images_from_content(content_div) -> List[Dict[str, str]]:
             })
     return images
 
-def extract_advisers(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """Extract adviser information from the main content"""
+def extract_adviser_info(soup: BeautifulSoup) -> List[Dict[str, Any]]:
+    """Extract information about advisers from the main content"""
     advisers = []
     
-    # Find the main content article
     main_content = soup.find('article', class_='full-wysiwyg')
     if not main_content:
         return advisers
     
-    # Look for adviser sections (h3 followed by paragraphs)
+    # Find all h3 headings (adviser titles)
     h3_tags = main_content.find_all('h3')
+    
     for h3 in h3_tags:
         title = clean_text(h3.get_text())
         if 'Adviser' in title or 'Program Manager' in title:
-            # Get the next elements until next h3
-            adviser_info = {
+            adviser = {
                 "title": title,
                 "name": "",
                 "profile_url": "",
@@ -75,139 +76,105 @@ def extract_advisers(soup: BeautifulSoup) -> List[Dict[str, Any]]:
                 "image": None
             }
             
-            # Check for link in the next element (usually a paragraph with a link)
+            # Get the next element (usually a paragraph with a link)
             next_elem = h3.find_next_sibling()
             if next_elem and next_elem.name == 'p':
                 link = next_elem.find('a')
                 if link:
-                    adviser_info["name"] = clean_text(link.get_text())
+                    adviser["name"] = clean_text(link.get_text())
                     href = link.get('href', '')
                     if href.startswith('/'):
-                        adviser_info["profile_url"] = f"https://www.iit.edu{href}"
+                        adviser["profile_url"] = f"https://www.iit.edu{href}"
                     else:
-                        adviser_info["profile_url"] = href
+                        adviser["profile_url"] = href
                     
                     # Get bio paragraphs after this
                     bio_paragraphs = []
                     current = next_elem.find_next_sibling()
-                    while current and current.name == 'p':
+                    while current and current.name == 'p' and not current.find('h3'):
                         text = clean_text(current.get_text())
-                        if text and not current.find('a'):  # Skip if it contains the link again
+                        if text and len(text) > 20:  # Avoid very short text
                             bio_paragraphs.append(text)
                         current = current.find_next_sibling()
-                    adviser_info["bio"] = bio_paragraphs
+                    
+                    adviser["bio"] = bio_paragraphs
+                    adviser["full_bio"] = " ".join(bio_paragraphs)
             
-            advisers.append(adviser_info)
+            advisers.append(adviser)
     
     return advisers
 
-def extract_resources(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """Extract course planning resources from accordions"""
-    resources = []
+def parse_accordion_content(accordion) -> Dict[str, Any]:
+    """Parse a single accordion item"""
+    # Get title from button
+    button = accordion.find('button', class_='accordion__button')
+    if not button:
+        return None
     
-    # Find the Course Planning Resources section
-    section_heading = soup.find('h2', string=re.compile("Course Planning Resources", re.I))
-    if not section_heading:
-        return resources
+    title_elem = button.find('h3', class_='accordion__button-text')
+    title = clean_text(title_elem.get_text() if title_elem else button.get_text())
     
-    # Find the section div
-    section = section_heading.find_next('div', class_='section--accordion')
-    if not section:
-        return resources
+    # Get content
+    content = accordion.find('div', class_='accordion__content')
+    if not content:
+        return None
     
-    # Find all accordions
-    accordions = section.find_all('div', class_='accordion')
+    # Extract paragraphs and list items
+    paragraphs = []
+    list_items = []
     
-    for accordion in accordions:
-        # Get title from button
-        button = accordion.find('button', class_='accordion__button')
-        if not button:
+    for elem in content.find_all(['p', 'li', 'div'], recursive=True):
+        if elem.name == 'div' and elem.find(['p', 'li']):
             continue
-        
-        title_elem = button.find('h3', class_='accordion__button-text')
-        title = clean_text(title_elem.get_text() if title_elem else button.get_text())
-        
-        # Get content
-        content = accordion.find('div', class_='accordion__content')
-        if not content:
-            continue
-        
-        # Extract paragraphs
-        paragraphs = []
-        for p in content.find_all(['p', 'li']):
-            text = clean_text(p.get_text())
-            if text:
+        text = clean_text(elem.get_text())
+        if text and len(text) > 3:
+            if elem.name == 'li':
+                list_items.append(text)
+            else:
                 paragraphs.append(text)
-        
-        # Extract links
-        links = extract_links_from_content(content)
-        
-        if title:
-            resources.append({
-                "category": title,
-                "description": paragraphs,
-                "links": links
+    
+    # If we have list items but no paragraphs, use list items
+    if not paragraphs and list_items:
+        paragraphs = list_items
+    
+    # If still no paragraphs, get all text
+    if not paragraphs:
+        full_text = clean_text(content.get_text())
+        if full_text:
+            paragraphs = [full_text]
+    
+    # Extract links and images
+    links = extract_links_from_element(content)
+    images = extract_images_from_element(content)
+    
+    # Check for file attachments (PDFs, docs)
+    files = []
+    for a in content.find_all('a', href=True):
+        href = a.get('href', '')
+        if href.endswith(('.pdf', '.docx', '.doc', '.xlsx')):
+            files.append({
+                "name": clean_text(a.get_text()),
+                "url": href if href.startswith('http') else f"https://www.iit.edu{href}",
+                "type": href.split('.')[-1] if '.' in href else "file"
             })
     
-    return resources
-
-def extract_advising_options(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """Extract advising session options"""
-    options = []
-    
-    # Find the Our advisers are here to help section
-    section_heading = soup.find('h2', string=re.compile("Our advisers are here to help", re.I))
-    if not section_heading:
-        return options
-    
-    # Find the section div
-    section = section_heading.find_next('div', class_='section--accordion')
-    if not section:
-        return options
-    
-    # Find all accordions
-    accordions = section.find_all('div', class_='accordion')
-    
-    for accordion in accordions:
-        # Get title from button
-        button = accordion.find('button', class_='accordion__button')
-        if not button:
-            continue
-        
-        title_elem = button.find('h3', class_='accordion__button-text')
-        title = clean_text(title_elem.get_text() if title_elem else button.get_text())
-        
-        # Get content
-        content = accordion.find('div', class_='accordion__content')
-        if not content:
-            continue
-        
-        # Extract paragraphs
-        paragraphs = []
-        for p in content.find_all(['p', 'li']):
-            text = clean_text(p.get_text())
-            if text:
-                paragraphs.append(text)
-        
-        # Extract links
-        links = extract_links_from_content(content)
-        
-        if title:
-            options.append({
-                "option_type": title,
-                "description": paragraphs,
-                "links": links
-            })
-    
-    return options
+    return {
+        "title": title,
+        "content_paragraphs": paragraphs,
+        "full_content": " ".join(paragraphs),
+        "list_items": list_items,
+        "links": links,
+        "files": files,
+        "images": images
+    }
 
 def scrape_coursera_advising():
     """Main scraper function"""
-    print("=" * 60)
-    print("Coursera Advising and Planning Scraper")
-    print("=" * 60)
+    print("=" * 70)
+    print("Coursera Advising and Planning Webpage Scraper")
+    print("=" * 70)
     print(f"URL: {URL}")
-    print("-" * 60)
+    print("-" * 70)
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -227,18 +194,23 @@ def scrape_coursera_advising():
     title_elem = soup.find('h1')
     page_title = clean_text(title_elem.get_text() if title_elem else "Coursera Advising and Planning")
     
-    # Extract main content (introduction and advisers)
-    main_content = soup.find('article', class_='full-wysiwyg')
-    intro_paragraphs = []
-    if main_content:
-        # Get all paragraphs before the first h3 (introduction)
-        for p in main_content.find_all('p', recursive=True):
-            # Stop if we hit an h3
-            if p.find_previous('h3'):
-                break
-            text = clean_text(p.get_text())
-            if text:
-                intro_paragraphs.append(text)
+    # Extract meta description
+    meta_desc = soup.find('meta', attrs={'name': 'description'})
+    page_description = meta_desc.get('content', '') if meta_desc else ""
+    
+    # Extract breadcrumbs
+    breadcrumbs = []
+    breadcrumb_list = soup.find('ol', class_='breadcrumbs')
+    if breadcrumb_list:
+        for li in breadcrumb_list.find_all('li'):
+            link = li.find('a')
+            if link:
+                breadcrumbs.append({
+                    "name": clean_text(link.get_text()),
+                    "url": f"https://www.iit.edu{link.get('href', '')}"
+                })
+            else:
+                breadcrumbs.append({"name": clean_text(li.get_text()), "url": None})
     
     # Extract main image
     main_image = None
@@ -253,21 +225,93 @@ def scrape_coursera_advising():
                 "alt": clean_text(img_tag.get('alt', ''))
             }
     
-    # Extract data sections
-    advisers = extract_advisers(soup)
-    resources = extract_resources(soup)
-    advising_options = extract_advising_options(soup)
+    # Extract introduction
+    introduction = []
+    intro_section = soup.find('h2', string=re.compile("Introduction", re.I))
+    if intro_section:
+        intro_content = intro_section.find_next('article', class_='full-wysiwyg')
+        if intro_content:
+            for p in intro_content.find_all('p'):
+                text = clean_text(p.get_text())
+                if text:
+                    introduction.append(text)
     
-    # Compile final data
+    # Extract adviser information
+    advisers = extract_adviser_info(soup)
+    
+    # Extract resource sections (accordions)
+    resource_sections = []
+    resource_headings = soup.find_all('h2', class_='section-heading__heading')
+    
+    for heading in resource_headings:
+        section_title = clean_text(heading.get_text())
+        if not section_title or section_title == "Introduction":
+            continue
+        
+        # Get the subheading if exists
+        subheading = None
+        parent_div = heading.find_parent('div', class_='section-heading')
+        if parent_div:
+            subheading_elem = parent_div.find('span', class_='section-heading__subheading')
+            if subheading_elem:
+                subheading = clean_text(subheading_elem.get_text())
+        
+        # Find the section div
+        section_div = heading.find_next('div', class_='section--accordion')
+        if section_div:
+            # Find all accordions in this section
+            accordions = section_div.find_all('div', class_='accordion')
+            
+            section_items = []
+            for accordion in accordions:
+                item = parse_accordion_content(accordion)
+                if item:
+                    section_items.append(item)
+            
+            if section_items:
+                resource_sections.append({
+                    "section_title": section_title,
+                    "section_subheading": subheading,
+                    "item_count": len(section_items),
+                    "items": section_items
+                })
+                print(f"  ✓ {section_title}: {len(section_items)} items")
+    
+    # Extract all links from the page for reference
+    all_links = []
+    for a in soup.find_all('a', href=True):
+        href = a.get('href', '')
+        text = clean_text(a.get_text())
+        if text and href and not href.startswith('#') and not href.startswith('javascript:'):
+            if href.startswith('/'):
+                href = f"https://www.iit.edu{href}"
+            all_links.append({
+                "text": text,
+                "url": href
+            })
+    
+    # Remove duplicate links
+    unique_links = []
+    seen_urls = set()
+    for link in all_links:
+        if link['url'] not in seen_urls:
+            seen_urls.add(link['url'])
+            unique_links.append(link)
+    
+    # Compile complete webpage data
     output_data = {
-        "source_url": URL,
+        "url": URL,
         "page_title": page_title,
+        "page_description": page_description,
         "scrape_date": time.strftime('%Y-%m-%d %H:%M:%S'),
+        "breadcrumbs": breadcrumbs,
         "main_image": main_image,
-        "introduction": intro_paragraphs,
+        "introduction": introduction,
         "advisers": advisers,
-        "planning_resources": resources,
-        "advising_options": advising_options
+        "resource_sections": resource_sections,
+        "total_sections": len(resource_sections),
+        "total_resources": sum(section['item_count'] for section in resource_sections),
+        "all_page_links": unique_links[:50]  # Limit to first 50 to keep file size reasonable
     }
     
     # Save to JSON following team naming convention
@@ -275,14 +319,14 @@ def scrape_coursera_advising():
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
     
-    print(f"\n{'=' * 60}")
+    print(f"\n{'=' * 70}")
     print("Scraping Complete!")
-    print(f"{'=' * 60}")
+    print(f"{'=' * 70}")
     print(f"✓ Data saved to: {filename}")
-    print(f"✓ Introduction paragraphs: {len(intro_paragraphs)}")
+    print(f"✓ Total resource sections: {len(resource_sections)}")
+    print(f"✓ Total resources: {output_data['total_resources']}")
     print(f"✓ Advisers found: {len(advisers)}")
-    print(f"✓ Resource categories: {len(resources)}")
-    print(f"✓ Advising options: {len(advising_options)}")
+    print(f"✓ File size: {len(json.dumps(output_data)) / 1024:.1f} KB")
     
     return output_data
 
@@ -291,48 +335,128 @@ def print_statistics(data):
     if not data:
         return
     
-    print(f"\nStatistics:")
-    print(f"  Source: {data['source_url']}")
-    print(f"  Scrape Date: {data['scrape_date']}")
-    print(f"  Introduction: {len(data['introduction'])} paragraphs")
-    print(f"  Advisers: {len(data['advisers'])}")
+    print(f"\n{'=' * 70}")
+    print("SCRAPING STATISTICS")
+    print(f"{'=' * 70}")
+    print(f"URL: {data['url']}")
+    print(f"Page Title: {data['page_title']}")
+    print(f"Scrape Date: {data['scrape_date']}")
+    print(f"Advisers: {len(data['advisers'])}")
+    print(f"Resource Sections: {data['total_sections']}")
+    print(f"Total Resources: {data['total_resources']}")
+    
+    print(f"\nAdvisers:")
     for adviser in data['advisers']:
-        print(f"    • {adviser['title']}: {adviser['name']}")
-    print(f"  Resource Categories: {len(data['planning_resources'])}")
-    for resource in data['planning_resources']:
-        print(f"    • {resource['category']}: {len(resource['links'])} resources")
-    print(f"  Advising Options: {len(data['advising_options'])}")
+        print(f"  • {adviser['title']}: {adviser['name']}")
+    
+    print(f"\nResource Sections:")
+    for section in data['resource_sections']:
+        print(f"  📁 {section['section_title']}")
+        print(f"     └─ {section['item_count']} resources")
+        # Show first few items as preview
+        for i, item in enumerate(section['items'][:2], 1):
+            print(f"        {i}. {item['title']}")
+        if section['item_count'] > 2:
+            print(f"        ... and {section['item_count'] - 2} more")
 
 def show_sample(data):
-    """Show sample entries"""
+    """Show a detailed sample of the first resource"""
     if not data:
         return
     
-    print(f"\nSample Entries:")
-    print("-" * 60)
+    print(f"\n{'=' * 70}")
+    print("SAMPLE RESOURCE (First item from first section)")
+    print(f"{'=' * 70}")
     
-    # Show first adviser
+    if data['resource_sections']:
+        first_section = data['resource_sections'][0]
+        if first_section['items']:
+            first_item = first_section['items'][0]
+            
+            print(f"Section: {first_section['section_title']}")
+            print(f"\nResource: {first_item['title']}")
+            print(f"\nContent: {first_item['full_content'][:300]}...")
+            
+            if first_item.get('links'):
+                print(f"\nLinks in this resource: {len(first_item['links'])}")
+                for link in first_item['links'][:3]:
+                    print(f"  • {link['text']} -> {link['url'][:50]}...")
+            
+            if first_item.get('files'):
+                print(f"\nFiles: {len(first_item['files'])}")
+                for file in first_item['files']:
+                    print(f"  • {file['name']} ({file['type']})")
+    
     if data['advisers']:
+        print(f"\n{'=' * 70}")
+        print("SAMPLE ADVISER")
+        print(f"{'=' * 70}")
         adviser = data['advisers'][0]
-        print(f"\nAdviser: {adviser['title']}")
-        print(f"  Name: {adviser['name']}")
+        print(f"{adviser['title']}: {adviser['name']}")
+        print(f"Profile: {adviser['profile_url']}")
         if adviser['bio']:
-            print(f"  Bio: {adviser['bio'][0][:150]}...")
+            print(f"\nBio: {adviser['bio'][0][:200]}...")
+
+def export_readable_text(data, filename="coursera_advising_readable.txt"):
+    """Export a human-readable text version of all content"""
+    if not data:
+        return
     
-    # Show first resource category
-    if data['planning_resources']:
-        resource = data['planning_resources'][0]
-        print(f"\nResource Category: {resource['category']}")
-        if resource['links']:
-            print(f"  Sample link: {resource['links'][0]['text']}")
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(f"{'=' * 80}\n")
+        f.write(f"{data['page_title']}\n")
+        f.write(f"{'=' * 80}\n\n")
+        f.write(f"Source: {data['url']}\n")
+        f.write(f"Scraped: {data['scrape_date']}\n\n")
+        
+        if data['advisers']:
+            f.write(f"\n{'─' * 80}\n")
+            f.write("ADVISERS\n")
+            f.write(f"{'─' * 80}\n\n")
+            for adviser in data['advisers']:
+                f.write(f"{adviser['title']}: {adviser['name']}\n")
+                f.write(f"Profile: {adviser['profile_url']}\n")
+                if adviser['bio']:
+                    f.write("\n".join(adviser['bio']))
+                f.write("\n\n")
+        
+        for section in data['resource_sections']:
+            f.write(f"\n{'─' * 80}\n")
+            f.write(f"{section['section_title']}\n")
+            if section.get('section_subheading'):
+                f.write(f"{section['section_subheading']}\n")
+            f.write(f"{'─' * 80}\n\n")
+            
+            for i, item in enumerate(section['items'], 1):
+                f.write(f"{i}. {item['title']}\n")
+                f.write(f"{'─' * 40}\n")
+                f.write(f"{item['full_content']}\n\n")
+                
+                if item.get('links'):
+                    f.write("Links:\n")
+                    for link in item['links']:
+                        f.write(f"  • {link['text']}: {link['url']}\n")
+                
+                if item.get('files'):
+                    f.write("\nFiles:\n")
+                    for file in item['files']:
+                        f.write(f"  • {file['name']} ({file['type']})\n")
+                f.write("\n")
+    
+    print(f"\n✓ Readable text exported to: {filename}")
 
 # Main execution
 if __name__ == "__main__":
-    print("\nStarting Coursera Advising and Planning scraper...")
+    print("\n🚀 Starting Coursera Advising and Planning webpage scraper...")
+    print("This will extract ALL content from the page and save it to JSON.\n")
+    
     result = scrape_coursera_advising()
     
     if result:
         print_statistics(result)
         show_sample(result)
+        
+        # Also export a readable text version for easy viewing
+        export_readable_text(result)
     
-    print("\n✓ Done!")
+    print("\n✅ Scraping process completed successfully!")
