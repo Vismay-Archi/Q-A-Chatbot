@@ -1,0 +1,226 @@
+{
+  "url": "https://www.iit.edu/coursera/coursera-faqs",
+  "page_title": "Coursera Frequently Asked Questions (FAQs)",
+  "page_description": "",
+  "scrape_date": "2026-02-20 12:48:52",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.iit.edu/"
+    },
+    {
+      "name": "Coursera",
+      "url": "https://www.iit.edu/coursera"
+    },
+    {
+      "name": "Coursera Frequently Asked Questions (FAQs)",
+      "url": null
+    }
+  ],
+  "total_sections": 0,
+  "total_faqs": 0,
+  "sections": [],
+  "communication": null,
+  "all_page_links": [
+    {
+      "text": "Request Info",
+      "url": "https://www.iit.edu/admissions-aid/request-information"
+    },
+    {
+      "text": "Visit",
+      "url": "https://www.iit.edu/admissions-aid/visit-and-tour"
+    },
+    {
+      "text": "Apply",
+      "url": "https://www.iit.edu/admissions-aid/apply"
+    },
+    {
+      "text": "Directory",
+      "url": "https://www.iit.edu/directory/people"
+    },
+    {
+      "text": "News",
+      "url": "https://www.iit.edu/university-news"
+    },
+    {
+      "text": "Alumni",
+      "url": "https://www.iit.edu/alumni"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.iit.edu/events"
+    },
+    {
+      "text": "Giving",
+      "url": "https://www.iit.edu/giving"
+    },
+    {
+      "text": "Illinois Tech Mumbai",
+      "url": "https://www.iit.edu/mumbai"
+    },
+    {
+      "text": "Academic Advising",
+      "url": "https://www.iit.edu/academic-advising"
+    },
+    {
+      "text": "Admitted Students",
+      "url": "https://www.iit.edu/resources-admitted-students"
+    },
+    {
+      "text": "Academic Calendar",
+      "url": "https://www.iit.edu/registrar/academic-calendar"
+    },
+    {
+      "text": "Community",
+      "url": "https://www.iit.edu/community-affairs"
+    },
+    {
+      "text": "Current Students",
+      "url": "https://www.iit.edu/resources-current-students"
+    },
+    {
+      "text": "Faculty and Staff",
+      "url": "https://www.iit.edu/resources-faculty-and-staff"
+    },
+    {
+      "text": "Parents and Families",
+      "url": "https://www.iit.edu/resources-parents-and-families"
+    },
+    {
+      "text": "School Counselors",
+      "url": "https://www.iit.edu/resources-school-counselors"
+    },
+    {
+      "text": "Title IX Compliance",
+      "url": "https://www.iit.edu/title-ix"
+    },
+    {
+      "text": "Academics",
+      "url": "https://www.iit.edu/academics"
+    },
+    {
+      "text": "Academic Programs",
+      "url": "https://www.iit.edu/academics/programs"
+    },
+    {
+      "text": "Experiential Learning",
+      "url": "https://www.iit.edu/academics/experiential-learning"
+    },
+    {
+      "text": "Undergraduate Programs",
+      "url": "https://www.iit.edu/academics/undergraduate-programs"
+    },
+    {
+      "text": "Graduate Programs",
+      "url": "https://www.iit.edu/academics/graduate-programs"
+    },
+    {
+      "text": "Lifelong Learners",
+      "url": "https://www.iit.edu/academics/lifelong-learners"
+    },
+    {
+      "text": "Elevate College Prep",
+      "url": "https://www.iit.edu/academics/elevate-college-prep"
+    },
+    {
+      "text": "Colleges and Institutes",
+      "url": "https://www.iit.edu/academics/colleges-and-institutes"
+    },
+    {
+      "text": "Course Catalog",
+      "url": "https://www.iit.edu/academics/course-catalog"
+    },
+    {
+      "text": "Admission and Aid",
+      "url": "https://www.iit.edu/admissions-aid"
+    },
+    {
+      "text": "Undergraduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/undergraduate-admission"
+    },
+    {
+      "text": "Graduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission"
+    },
+    {
+      "text": "Tuition and Aid",
+      "url": "https://www.iit.edu/admissions-aid/tuition-and-aid"
+    },
+    {
+      "text": "Student Experience",
+      "url": "https://www.iit.edu/student-experience"
+    },
+    {
+      "text": "Our Campus and Housing",
+      "url": "https://www.iit.edu/student-experience/campus-and-housing"
+    },
+    {
+      "text": "Life in Chicago",
+      "url": "https://www.iit.edu/student-experience/life-in-chicago"
+    },
+    {
+      "text": "Career Services and Internships",
+      "url": "https://www.iit.edu/student-experience/career-services-and-internships"
+    },
+    {
+      "text": "Student Outcomes",
+      "url": "https://www.iit.edu/student-experience/student-outcomes"
+    },
+    {
+      "text": "Athletics",
+      "url": "https://www.iit.edu/student-experience/athletics"
+    },
+    {
+      "text": "Student Organizations and Greek Life",
+      "url": "https://www.iit.edu/student-experience/student-organizations-and-greek-life"
+    },
+    {
+      "text": "Services and Resources",
+      "url": "https://www.iit.edu/student-experience/services-and-resources"
+    },
+    {
+      "text": "Student and Alumni Stories",
+      "url": "https://www.iit.edu/student-experience/student-and-alumni-stories"
+    },
+    {
+      "text": "New Student Transition",
+      "url": "https://www.iit.edu/student-experience/new-student-transition"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.iit.edu/research"
+    },
+    {
+      "text": "About Research",
+      "url": "https://www.iit.edu/research/about-research"
+    },
+    {
+      "text": "University Research Initiatives",
+      "url": "https://www.iit.edu/research/initiatives"
+    },
+    {
+      "text": "Conducting Research with Illinois Tech",
+      "url": "https://www.iit.edu/research/conducting-research-illinois-tech"
+    },
+    {
+      "text": "Featured Projects",
+      "url": "https://www.iit.edu/research/featured-projects"
+    },
+    {
+      "text": "Student Research",
+      "url": "https://www.iit.edu/research/student-research"
+    },
+    {
+      "text": "Institutes and Centers",
+      "url": "https://www.iit.edu/research/institutes-and-centers"
+    },
+    {
+      "text": "Libraries",
+      "url": "https://www.iit.edu/research/libraries"
+    },
+    {
+      "text": "About",
+      "url": "https://www.iit.edu/about"
+    }
+  ]
+}

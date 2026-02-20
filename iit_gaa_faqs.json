@@ -1,0 +1,1202 @@
+{
+  "url": "https://www.iit.edu/gaa/students/faqs",
+  "page_title": "FAQs",
+  "page_description": "",
+  "scrape_date": "2026-02-20 12:48:33",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.iit.edu/"
+    },
+    {
+      "name": "Graduate Academic Affairs",
+      "url": "https://www.iit.edu/gaa"
+    },
+    {
+      "name": "For Students",
+      "url": "https://www.iit.edu/gaa/students"
+    },
+    {
+      "name": "FAQs",
+      "url": null
+    }
+  ],
+  "sidebar_navigation": [
+    {
+      "text": "For Students",
+      "url": "https://www.iit.edu/gaa/students",
+      "is_active": false
+    },
+    {
+      "text": "Dates and Deadlines",
+      "url": "https://www.iit.edu/gaa/students/dates-and-deadlines",
+      "is_active": false
+    },
+    {
+      "text": "Student Forms",
+      "url": "https://www.iit.edu/gaa/students/student-forms",
+      "is_active": false
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.iit.edu/gaa/students/faqs",
+      "is_active": true
+    },
+    {
+      "text": "Illinois Tech Europe Partner School Information",
+      "url": "https://www.iit.edu/gaa/students/europe-partner-school-information",
+      "is_active": false
+    },
+    {
+      "text": "Transfer Credit",
+      "url": "https://www.iit.edu/gaa/students/transfer-credit",
+      "is_active": false
+    },
+    {
+      "text": "A Guide to Graduate Degree Works",
+      "url": "https://www.iit.edu/gaa/students/guide-graduate-degree-works",
+      "is_active": false
+    }
+  ],
+  "total_categories": 8,
+  "total_qa_pairs": 53,
+  "categories": [
+    {
+      "category": "Academic Procedures FAQs",
+      "qa_count": 15,
+      "qa_pairs": [
+        {
+          "question": "What academic policies should I be aware of as a graduate student at Illinois Tech?",
+          "answer_paragraphs": [
+            "Academic policies are published in the Graduate Catalog and in the Illinois Tech student handbook. It is the responsibility of all graduate students to make sure that all degree requirements set forth by the Graduate College and by their academic department are satisfied. The Graduate College provides guidance and information to students to assist them in complying with course of study requirements. However, the final responsibility to comply with academic regulations and to be familiar with the information contained in the graduate catalog rests with the student."
+          ],
+          "full_answer": "Academic policies are published in the Graduate Catalog and in the Illinois Tech student handbook. It is the responsibility of all graduate students to make sure that all degree requirements set forth by the Graduate College and by their academic department are satisfied. The Graduate College provides guidance and information to students to assist them in complying with course of study requirements. However, the final responsibility to comply with academic regulations and to be familiar with the information contained in the graduate catalog rests with the student.",
+          "links": []
+        },
+        {
+          "question": "How long do I have to finish a degree program?",
+          "answer_paragraphs": [
+            "Master's degree students must complete graduate degree programs within the twelve semesters immediately preceding graduation; Ph.D. students must complete their degrees within 12 semesters of the approval of a program of study. Please see the Academic Policies and Procedures section of the Graduate Catalog for additional details."
+          ],
+          "full_answer": "Master's degree students must complete graduate degree programs within the twelve semesters immediately preceding graduation; Ph.D. students must complete their degrees within 12 semesters of the approval of a program of study. Please see the Academic Policies and Procedures section of the Graduate Catalog for additional details.",
+          "links": []
+        },
+        {
+          "question": "Will you accept transfer credit?",
+          "answer_paragraphs": [
+            "For master’s degree programs, a maximum of nine applicable credit hours earned prior to matriculation into an Illinois Institute of Technology graduate degree program, subject to the graduate studies rules and restrictions, may be considered for:",
+            "Doctoral degree candidates may transfer previously completed graduate work not applied toward a prior earned degree up to a maximum of 42 credit hours beyond the baccalaureate degree (which may include up to 32 credit hours from a completed master’s degree) or 50 percent of their total Ph.D. program credit hour requirements, whichever is smaller.",
+            "Please see the Graduate Catalog section on Transfer of Credit for details."
+          ],
+          "full_answer": "For master’s degree programs, a maximum of nine applicable credit hours earned prior to matriculation into an Illinois Institute of Technology graduate degree program, subject to the graduate studies rules and restrictions, may be considered for: Doctoral degree candidates may transfer previously completed graduate work not applied toward a prior earned degree up to a maximum of 42 credit hours beyond the baccalaureate degree (which may include up to 32 credit hours from a completed master’s degree) or 50 percent of their total Ph.D. program credit hour requirements, whichever is smaller. Please see the Graduate Catalog section on Transfer of Credit for details.",
+          "links": []
+        },
+        {
+          "question": "Does Illinois Tech grant credit for work experience?",
+          "answer_paragraphs": [
+            "Illinois Tech does not grant academic credit based on work experience. However, some departments may consider work experience in determining whether the applicant has sufficient knowledge to be considered as a candidate for admission without additional course prerequisites. Illinois Tech does provide an option for gaining credit by exam. The rules and procedures for this option are outlined in the section on academic policies of the Graduate Catalog.How do I determine what courses I must take to complete my program?",
+            "For the most up-to-date information, consult your academic advisor. Visit the Graduate Catalog for complete graduate program descriptions, and be sure to note any updates."
+          ],
+          "full_answer": "Illinois Tech does not grant academic credit based on work experience. However, some departments may consider work experience in determining whether the applicant has sufficient knowledge to be considered as a candidate for admission without additional course prerequisites. Illinois Tech does provide an option for gaining credit by exam. The rules and procedures for this option are outlined in the section on academic policies of the Graduate Catalog.How do I determine what courses I must take to complete my program? For the most up-to-date information, consult your academic advisor. Visit the Graduate Catalog for complete graduate program descriptions, and be sure to note any updates.",
+          "links": []
+        },
+        {
+          "question": "Who is my adviser?",
+          "answer_paragraphs": [
+            "For non-degree or certificate students, there is no assigned adviser. You may contact the department of your program to ask academic questions. For degree-seeking students, your adviser's name is typed at the bottom of your admission letter. Please contact your adviser with any academic questions."
+          ],
+          "full_answer": "For non-degree or certificate students, there is no assigned adviser. You may contact the department of your program to ask academic questions. For degree-seeking students, your adviser's name is typed at the bottom of your admission letter. Please contact your adviser with any academic questions.",
+          "links": []
+        },
+        {
+          "question": "If I can't contact my adviser, what can I do?",
+          "answer_paragraphs": [
+            "Contact the academic department to which you have been admitted. Consult the Illinois Tech Directory to obtain contact information for your department."
+          ],
+          "full_answer": "Contact the academic department to which you have been admitted. Consult the Illinois Tech Directory to obtain contact information for your department.",
+          "links": []
+        },
+        {
+          "question": "Can I change or request an adviser?",
+          "answer_paragraphs": [
+            "Yes. Simply fill out the Change of Adviser form in eforms for Degree Works."
+          ],
+          "full_answer": "Yes. Simply fill out the Change of Adviser form in eforms for Degree Works.",
+          "links": []
+        },
+        {
+          "question": "How long does it take to complete a certificate program?",
+          "answer_paragraphs": [
+            "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Typically, graduate certificate programs require 9-12 credit hours to complete, and are often completed in 1-2 semesters."
+          ],
+          "full_answer": "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Typically, graduate certificate programs require 9-12 credit hours to complete, and are often completed in 1-2 semesters.",
+          "links": []
+        },
+        {
+          "question": "How long does it take to complete a master's program?",
+          "answer_paragraphs": [
+            "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Most professional master's degree programs at Illinois Tech require 30-32 credit hours. Master's degree programs must be completed within the 12 semesters immediately preceding graduation. Students typically complete their program in 2-3 years."
+          ],
+          "full_answer": "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Most professional master's degree programs at Illinois Tech require 30-32 credit hours. Master's degree programs must be completed within the 12 semesters immediately preceding graduation. Students typically complete their program in 2-3 years.",
+          "links": []
+        },
+        {
+          "question": "How long does it take to complete a Ph.D. program?",
+          "answer_paragraphs": [
+            "This depends entirely on the individual student's particular program of study and the pace of progress of their research, as well as the availability of courses and the number of credit hours the student enrolls in each semester. Most Ph.D. programs at Illinois Tech require a minimum of a total of 72 credit hours of combined study and research. Ph.D. programs must be completed within 12 semesters after approval of the program of study. Students who need an extension of time to complete their program must submit a petition for an extension, and outdated courses must be revalidated. The petition must include a detailed plan for completion of the degree and be endorsed by the academic adviser and the academic unit head."
+          ],
+          "full_answer": "This depends entirely on the individual student's particular program of study and the pace of progress of their research, as well as the availability of courses and the number of credit hours the student enrolls in each semester. Most Ph.D. programs at Illinois Tech require a minimum of a total of 72 credit hours of combined study and research. Ph.D. programs must be completed within 12 semesters after approval of the program of study. Students who need an extension of time to complete their program must submit a petition for an extension, and outdated courses must be revalidated. The petition must include a detailed plan for completion of the degree and be endorsed by the academic adviser and the academic unit head.",
+          "links": []
+        },
+        {
+          "question": "When is graduate advising required?",
+          "answer_paragraphs": [
+            "A graduate student will seek advising as follows:"
+          ],
+          "full_answer": "A graduate student will seek advising as follows:",
+          "links": []
+        },
+        {
+          "question": "How will I meet with my adviser?",
+          "answer_paragraphs": [
+            "Your academic unit has an “Advising Web Page” that explains your academic unit’s specific advising content, which includes:"
+          ],
+          "full_answer": "Your academic unit has an “Advising Web Page” that explains your academic unit’s specific advising content, which includes:",
+          "links": []
+        },
+        {
+          "question": "How do I request a change of degree program?",
+          "answer_paragraphs": [
+            "When a student desires to change degree, major, or declare a required or optional specialization/concentration, or a research project or thesis, this is requested using eForms for Graduate Degree Works. The requested change may only be considered without a new admission when the degree is of the same level or lower (PhD-MS, PhD-ME, PhD-MAS, MS-ME, MS-MAS, MS-MS, ME-ME, MAS-MAS within the same academic unit/discipline). A program of a higher level or in a different academic unit/discipline requires a new admission.",
+            "Changes in elective course selections do not need to be formally documented unless the new elective selection is from outside the major department. In this instance, students should file an internal transfer request through eForms for Degree Works. Changes in required courses must also be documented via a course substitution request in eForms for Degree Works. Both internal transfer requests and course substitution requests must be approved by your advisor, department chair, and the Office of Graduate Academic Affairs. For information on how to access eForms for Degree Works, click here."
+          ],
+          "full_answer": "When a student desires to change degree, major, or declare a required or optional specialization/concentration, or a research project or thesis, this is requested using eForms for Graduate Degree Works. The requested change may only be considered without a new admission when the degree is of the same level or lower (PhD-MS, PhD-ME, PhD-MAS, MS-ME, MS-MAS, MS-MS, ME-ME, MAS-MAS within the same academic unit/discipline). A program of a higher level or in a different academic unit/discipline requires a new admission. Changes in elective course selections do not need to be formally documented unless the new elective selection is from outside the major department. In this instance, students should file an internal transfer request through eForms for Degree Works. Changes in required courses must also be documented via a course substitution request in eForms for Degree Works. Both internal transfer requests and course substitution requests must be approved by your advisor, department chair, and the Office of Graduate Academic Affairs. For information on how to access eForms for Degree Works, click here.",
+          "links": []
+        },
+        {
+          "question": "How do I change programs?",
+          "answer_paragraphs": [
+            "Changes to a program that require a new admission application include: master's (MAS) to master's with a change of academic unit, master's to master of science (MS), master's to PhD, master of science to master of science with a change of academic unit, master of science to PhD, and PhD to PhD with a change of academic unit.",
+            "Changes within the same degree level and the same academic unit can be submitted through the change of program request in eForms for Degree Works. A regular student planning to transfer from one degree program to another should discuss the matter with academic advisors in both programs."
+          ],
+          "full_answer": "Changes to a program that require a new admission application include: master's (MAS) to master's with a change of academic unit, master's to master of science (MS), master's to PhD, master of science to master of science with a change of academic unit, master of science to PhD, and PhD to PhD with a change of academic unit. Changes within the same degree level and the same academic unit can be submitted through the change of program request in eForms for Degree Works. A regular student planning to transfer from one degree program to another should discuss the matter with academic advisors in both programs.",
+          "links": []
+        },
+        {
+          "question": "How do I officially withdraw from a program?",
+          "answer_paragraphs": [
+            "Students must complete a University Withdrawal or Leave of Absence Form online. Login to the Illinois Tech Portal and search for the \"Graduate Academic Affairs.\" This must be approved by the academic adviser, academic unit head and the Office of Graduate Academic Affairs. International students wishing to withdraw must also contact the Office of Global Services."
+          ],
+          "full_answer": "Students must complete a University Withdrawal or Leave of Absence Form online. Login to the Illinois Tech Portal and search for the \"Graduate Academic Affairs.\" This must be approved by the academic adviser, academic unit head and the Office of Graduate Academic Affairs. International students wishing to withdraw must also contact the Office of Global Services.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "What academic policies should I be aware of as a graduate student at Illinois Tech?",
+        "Academic policies are published in the Graduate Catalog and in the Illinois Tech student handbook. It is the responsibility of all graduate students to make sure that all degree requirements set forth by the Graduate College and by their academic department are satisfied. The Graduate College provides guidance and information to students to assist them in complying with course of study requirements. However, the final responsibility to comply with academic regulations and to be familiar with the information contained in the graduate catalog rests with the student.",
+        "How long do I have to finish a degree program?",
+        "Master's degree students must complete graduate degree programs within the twelve semesters immediately preceding graduation; Ph.D. students must complete their degrees within 12 semesters of the approval of a program of study. Please see the Academic Policies and Procedures section of the Graduate Catalog for additional details.",
+        "Will you accept transfer credit?",
+        "For master’s degree programs, a maximum of nine applicable credit hours earned prior to matriculation into an Illinois Institute of Technology graduate degree program, subject to the graduate studies rules and restrictions, may be considered for:",
+        "External transfer credit for graduate transfer credit use. Applicable course credit hours may not have been applied toward any earned degree.",
+        "Internal undergraduate transfer credit from Illinois Institute of Technology. Applicable course credit hours may not have been applied toward any previous degree program.",
+        "Shared co-terminal program credit.",
+        "Doctoral degree candidates may transfer previously completed graduate work not applied toward a prior earned degree up to a maximum of 42 credit hours beyond the baccalaureate degree (which may include up to 32 credit hours from a completed master’s degree) or 50 percent of their total Ph.D. program credit hour requirements, whichever is smaller.",
+        "Please see the Graduate Catalog section on Transfer of Credit for details.",
+        "Does Illinois Tech grant credit for work experience?",
+        "Illinois Tech does not grant academic credit based on work experience. However, some departments may consider work experience in determining whether the applicant has sufficient knowledge to be considered as a candidate for admission without additional course prerequisites. Illinois Tech does provide an option for gaining credit by exam. The rules and procedures for this option are outlined in the section on academic policies of the Graduate Catalog.How do I determine what courses I must take to complete my program?",
+        "For the most up-to-date information, consult your academic advisor. Visit the Graduate Catalog for complete graduate program descriptions, and be sure to note any updates.",
+        "Who is my adviser?",
+        "For non-degree or certificate students, there is no assigned adviser. You may contact the department of your program to ask academic questions. For degree-seeking students, your adviser's name is typed at the bottom of your admission letter. Please contact your adviser with any academic questions.",
+        "If I can't contact my adviser, what can I do?",
+        "Contact the academic department to which you have been admitted. Consult the Illinois Tech Directory to obtain contact information for your department.",
+        "Can I change or request an adviser?",
+        "Yes. Simply fill out the Change of Adviser form in eforms for Degree Works.",
+        "How long does it take to complete a certificate program?",
+        "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Typically, graduate certificate programs require 9-12 credit hours to complete, and are often completed in 1-2 semesters.",
+        "How long does it take to complete a master's program?",
+        "This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Most professional master's degree programs at Illinois Tech require 30-32 credit hours. Master's degree programs must be completed within the 12 semesters immediately preceding graduation. Students typically complete their program in 2-3 years.",
+        "How long does it take to complete a Ph.D. program?",
+        "This depends entirely on the individual student's particular program of study and the pace of progress of their research, as well as the availability of courses and the number of credit hours the student enrolls in each semester. Most Ph.D. programs at Illinois Tech require a minimum of a total of 72 credit hours of combined study and research. Ph.D. programs must be completed within 12 semesters after approval of the program of study. Students who need an extension of time to complete their program must submit a petition for an extension, and outdated courses must be revalidated. The petition must include a detailed plan for completion of the degree and be endorsed by the academic adviser and the academic unit head.",
+        "When is graduate advising required?",
+        "A graduate student will seek advising as follows:",
+        "Co-terminal student in the first semester of graduate co-terminal enrollment",
+        "Traditional masters student at 9 earned or enrolled credits",
+        "Doctoral student at 18 earned or enrolled credits",
+        "How will I meet with my adviser?",
+        "Your academic unit has an “Advising Web Page” that explains your academic unit’s specific advising content, which includes:",
+        "How to Obtain the Advising PIN in the first semester from the academic adviser (or unit).",
+        "How to Schedule Academic Advising, which is required before the advising hold will be lifted by the academic adviser.",
+        "Other helpful advising topics with hyperlinks to the Graduate Catalog.",
+        "How do I request a change of degree program?",
+        "When a student desires to change degree, major, or declare a required or optional specialization/concentration, or a research project or thesis, this is requested using eForms for Graduate Degree Works. The requested change may only be considered without a new admission when the degree is of the same level or lower (PhD-MS, PhD-ME, PhD-MAS, MS-ME, MS-MAS, MS-MS, ME-ME, MAS-MAS within the same academic unit/discipline). A program of a higher level or in a different academic unit/discipline requires a new admission.",
+        "Changes in elective course selections do not need to be formally documented unless the new elective selection is from outside the major department. In this instance, students should file an internal transfer request through eForms for Degree Works. Changes in required courses must also be documented via a course substitution request in eForms for Degree Works. Both internal transfer requests and course substitution requests must be approved by your advisor, department chair, and the Office of Graduate Academic Affairs. For information on how to access eForms for Degree Works, click here.",
+        "How do I change programs?",
+        "Changes to a program that require a new admission application include: master's (MAS) to master's with a change of academic unit, master's to master of science (MS), master's to PhD, master of science to master of science with a change of academic unit, master of science to PhD, and PhD to PhD with a change of academic unit.",
+        "Changes within the same degree level and the same academic unit can be submitted through the change of program request in eForms for Degree Works. A regular student planning to transfer from one degree program to another should discuss the matter with academic advisors in both programs.",
+        "How do I officially withdraw from a program?",
+        "Students must complete a University Withdrawal or Leave of Absence Form online. Login to the Illinois Tech Portal and search for the \"Graduate Academic Affairs.\" This must be approved by the academic adviser, academic unit head and the Office of Graduate Academic Affairs. International students wishing to withdraw must also contact the Office of Global Services."
+      ],
+      "full_content": "What academic policies should I be aware of as a graduate student at Illinois Tech? Academic policies are published in the Graduate Catalog and in the Illinois Tech student handbook. It is the responsibility of all graduate students to make sure that all degree requirements set forth by the Graduate College and by their academic department are satisfied. The Graduate College provides guidance and information to students to assist them in complying with course of study requirements. However, the final responsibility to comply with academic regulations and to be familiar with the information contained in the graduate catalog rests with the student. How long do I have to finish a degree program? Master's degree students must complete graduate degree programs within the twelve semesters immediately preceding graduation; Ph.D. students must complete their degrees within 12 semesters of the approval of a program of study. Please see the Academic Policies and Procedures section of the Graduate Catalog for additional details. Will you accept transfer credit? For master’s degree programs, a maximum of nine applicable credit hours earned prior to matriculation into an Illinois Institute of Technology graduate degree program, subject to the graduate studies rules and restrictions, may be considered for: External transfer credit for graduate transfer credit use. Applicable course credit hours may not have been applied toward any earned degree. Internal undergraduate transfer credit from Illinois Institute of Technology. Applicable course credit hours may not have been applied toward any previous degree program. Shared co-terminal program credit. Doctoral degree candidates may transfer previously completed graduate work not applied toward a prior earned degree up to a maximum of 42 credit hours beyond the baccalaureate degree (which may include up to 32 credit hours from a completed master’s degree) or 50 percent of their total Ph.D. program credit hour requirements, whichever is smaller. Please see the Graduate Catalog section on Transfer of Credit for details. Does Illinois Tech grant credit for work experience? Illinois Tech does not grant academic credit based on work experience. However, some departments may consider work experience in determining whether the applicant has sufficient knowledge to be considered as a candidate for admission without additional course prerequisites. Illinois Tech does provide an option for gaining credit by exam. The rules and procedures for this option are outlined in the section on academic policies of the Graduate Catalog.How do I determine what courses I must take to complete my program? For the most up-to-date information, consult your academic advisor. Visit the Graduate Catalog for complete graduate program descriptions, and be sure to note any updates. Who is my adviser? For non-degree or certificate students, there is no assigned adviser. You may contact the department of your program to ask academic questions. For degree-seeking students, your adviser's name is typed at the bottom of your admission letter. Please contact your adviser with any academic questions. If I can't contact my adviser, what can I do? Contact the academic department to which you have been admitted. Consult the Illinois Tech Directory to obtain contact information for your department. Can I change or request an adviser? Yes. Simply fill out the Change of Adviser form in eforms for Degree Works. How long does it take to complete a certificate program? This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Typically, graduate certificate programs require 9-12 credit hours to complete, and are often completed in 1-2 semesters. How long does it take to complete a master's program? This depends entirely on the particular program, the availability of courses, and the number of credit hours the student enrolls in each semester. Most professional master's degree programs at Illinois Tech require 30-32 credit hours. Master's degree programs must be completed within the 12 semesters immediately preceding graduation. Students typically complete their program in 2-3 years. How long does it take to complete a Ph.D. program? This depends entirely on the individual student's particular program of study and the pace of progress of their research, as well as the availability of courses and the number of credit hours the student enrolls in each semester. Most Ph.D. programs at Illinois Tech require a minimum of a total of 72 credit hours of combined study and research. Ph.D. programs must be completed within 12 semesters after approval of the program of study. Students who need an extension of time to complete their program must submit a petition for an extension, and outdated courses must be revalidated. The petition must include a detailed plan for completion of the degree and be endorsed by the academic adviser and the academic unit head. When is graduate advising required? A graduate student will seek advising as follows: Co-terminal student in the first semester of graduate co-terminal enrollment Traditional masters student at 9 earned or enrolled credits Doctoral student at 18 earned or enrolled credits How will I meet with my adviser? Your academic unit has an “Advising Web Page” that explains your academic unit’s specific advising content, which includes: How to Obtain the Advising PIN in the first semester from the academic adviser (or unit). How to Schedule Academic Advising, which is required before the advising hold will be lifted by the academic adviser. Other helpful advising topics with hyperlinks to the Graduate Catalog. How do I request a change of degree program? When a student desires to change degree, major, or declare a required or optional specialization/concentration, or a research project or thesis, this is requested using eForms for Graduate Degree Works. The requested change may only be considered without a new admission when the degree is of the same level or lower (PhD-MS, PhD-ME, PhD-MAS, MS-ME, MS-MAS, MS-MS, ME-ME, MAS-MAS within the same academic unit/discipline). A program of a higher level or in a different academic unit/discipline requires a new admission. Changes in elective course selections do not need to be formally documented unless the new elective selection is from outside the major department. In this instance, students should file an internal transfer request through eForms for Degree Works. Changes in required courses must also be documented via a course substitution request in eForms for Degree Works. Both internal transfer requests and course substitution requests must be approved by your advisor, department chair, and the Office of Graduate Academic Affairs. For information on how to access eForms for Degree Works, click here. How do I change programs? Changes to a program that require a new admission application include: master's (MAS) to master's with a change of academic unit, master's to master of science (MS), master's to PhD, master of science to master of science with a change of academic unit, master of science to PhD, and PhD to PhD with a change of academic unit. Changes within the same degree level and the same academic unit can be submitted through the change of program request in eForms for Degree Works. A regular student planning to transfer from one degree program to another should discuss the matter with academic advisors in both programs. How do I officially withdraw from a program? Students must complete a University Withdrawal or Leave of Absence Form online. Login to the Illinois Tech Portal and search for the \"Graduate Academic Affairs.\" This must be approved by the academic adviser, academic unit head and the Office of Graduate Academic Affairs. International students wishing to withdraw must also contact the Office of Global Services.",
+      "links": [
+        {
+          "text": "Graduate Catalog",
+          "url": "https://www.iit.edu/gaa/graduate-catalog",
+          "type": "internal"
+        },
+        {
+          "text": "Graduate Catalog",
+          "url": "https://www.iit.edu/gaa/graduate-catalog",
+          "type": "internal"
+        },
+        {
+          "text": "Graduate Catalog",
+          "url": "http://catalog.iit.edu/graduate/academic-policies-procedures/academic-advising/",
+          "type": "internal"
+        },
+        {
+          "text": "Graduate Catalog",
+          "url": "https://www.iit.edu/gaa/graduate-catalog",
+          "type": "internal"
+        },
+        {
+          "text": "Illinois Tech Directory",
+          "url": "https://www.iit.edu/directory/people",
+          "type": "internal"
+        },
+        {
+          "text": "Change of Adviser form",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "internal"
+        },
+        {
+          "text": "here",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "internal"
+        },
+        {
+          "text": "new admission application",
+          "url": "https://www.iit.edu/admissions-aid/apply",
+          "type": "internal"
+        },
+        {
+          "text": "change of program request in eForms for Degree Works",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "Change of Adviser form",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "here",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "change of program request in eForms for Degree Works",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/change-of-adviser.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "category": "Classes and Instructors FAQs",
+      "qa_count": 4,
+      "qa_pairs": [
+        {
+          "question": "How do I find out which classroom my class is in?",
+          "answer_paragraphs": [
+            "If you are properly registered for courses you can check your registration on the Illinois Tech Portal, which will show the classroom your courses are in."
+          ],
+          "full_answer": "If you are properly registered for courses you can check your registration on the Illinois Tech Portal, which will show the classroom your courses are in.",
+          "links": []
+        },
+        {
+          "question": "How do I get my books?",
+          "answer_paragraphs": [
+            "Review the course syllabus to ensure you have the correct list of required texts. Textbooks may be purchased online."
+          ],
+          "full_answer": "Review the course syllabus to ensure you have the correct list of required texts. Textbooks may be purchased online.",
+          "links": []
+        },
+        {
+          "question": "How do I obtain an email account?",
+          "answer_paragraphs": [
+            "Instructions may be located at the Office of Technology Services (OTS) website. Please direct any questions to OTS at:",
+            "OTS Support DeskTel: 312 567-3375Online: support.iit.eduE-mail: supportdesk@illinoistech.eduIllinois Tech Mies Campus, Galvin Library, Upper Level"
+          ],
+          "full_answer": "Instructions may be located at the Office of Technology Services (OTS) website. Please direct any questions to OTS at: OTS Support DeskTel: 312 567-3375Online: support.iit.eduE-mail: supportdesk@illinoistech.eduIllinois Tech Mies Campus, Galvin Library, Upper Level",
+          "links": []
+        },
+        {
+          "question": "How do I find my instructor?",
+          "answer_paragraphs": [
+            "The instructor's name is under the course listing on the registration page or can be found on the student's schedule. Phone numbers and email addresses are listed in the directory."
+          ],
+          "full_answer": "The instructor's name is under the course listing on the registration page or can be found on the student's schedule. Phone numbers and email addresses are listed in the directory.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "How do I find out which classroom my class is in?",
+        "If you are properly registered for courses you can check your registration on the Illinois Tech Portal, which will show the classroom your courses are in.",
+        "How do I get my books?",
+        "Review the course syllabus to ensure you have the correct list of required texts. Textbooks may be purchased online.",
+        "How do I obtain an email account?",
+        "Instructions may be located at the Office of Technology Services (OTS) website. Please direct any questions to OTS at:",
+        "OTS Support DeskTel: 312 567-3375Online: support.iit.eduE-mail: supportdesk@illinoistech.eduIllinois Tech Mies Campus, Galvin Library, Upper Level",
+        "How do I find my instructor?",
+        "The instructor's name is under the course listing on the registration page or can be found on the student's schedule. Phone numbers and email addresses are listed in the directory."
+      ],
+      "full_content": "How do I find out which classroom my class is in? If you are properly registered for courses you can check your registration on the Illinois Tech Portal, which will show the classroom your courses are in. How do I get my books? Review the course syllabus to ensure you have the correct list of required texts. Textbooks may be purchased online. How do I obtain an email account? Instructions may be located at the Office of Technology Services (OTS) website. Please direct any questions to OTS at: OTS Support DeskTel: 312 567-3375Online: support.iit.eduE-mail: supportdesk@illinoistech.eduIllinois Tech Mies Campus, Galvin Library, Upper Level How do I find my instructor? The instructor's name is under the course listing on the registration page or can be found on the student's schedule. Phone numbers and email addresses are listed in the directory.",
+      "links": [
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu/",
+          "type": "internal"
+        },
+        {
+          "text": "purchased online",
+          "url": "https://bncvirtual.com/illinoistech",
+          "type": "external"
+        },
+        {
+          "text": "Office of Technology Services (OTS) website",
+          "url": "https://www.iit.edu/ots",
+          "type": "internal"
+        },
+        {
+          "text": "support.iit.edu",
+          "url": "http://support.iit.edu",
+          "type": "internal"
+        },
+        {
+          "text": "supportdesk@illinoistech.edu",
+          "url": "http://support.iit.edu",
+          "type": "internal"
+        },
+        {
+          "text": "directory",
+          "url": "https://www.iit.edu/directory/people",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "category": "Deadlines FAQs",
+      "qa_count": 7,
+      "qa_pairs": [
+        {
+          "question": "When does enrollment start?",
+          "answer_paragraphs": [
+            "Registration for summer and fall begins the previous spring in April and continues through the add/drop period. Spring registration begins in November and continues through the add/drop period in January."
+          ],
+          "full_answer": "Registration for summer and fall begins the previous spring in April and continues through the add/drop period. Spring registration begins in November and continues through the add/drop period in January.",
+          "links": []
+        },
+        {
+          "question": "When does the semester start?",
+          "answer_paragraphs": [
+            "Fall courses typically begin the second-to-last week in August, Spring courses typically begin the second week in January, and Summer courses typically begin the third week of May and there are four sessions. Be sure to check the current academic calendar for the exact schedule for the year in which you are interested."
+          ],
+          "full_answer": "Fall courses typically begin the second-to-last week in August, Spring courses typically begin the second week in January, and Summer courses typically begin the third week of May and there are four sessions. Be sure to check the current academic calendar for the exact schedule for the year in which you are interested.",
+          "links": []
+        },
+        {
+          "question": "When is the last day to drop or add a class?",
+          "answer_paragraphs": [
+            "Consult the most recent enrollment guide and academic calendar for details, including the tuition refund schedule for dropped classes."
+          ],
+          "full_answer": "Consult the most recent enrollment guide and academic calendar for details, including the tuition refund schedule for dropped classes.",
+          "links": []
+        },
+        {
+          "question": "When is the last day to withdraw from a class?",
+          "answer_paragraphs": [
+            "Each semester a date is fixed as the last date for official withdrawal without academic penalty. Consult the current semester's academic calendar for the specific date."
+          ],
+          "full_answer": "Each semester a date is fixed as the last date for official withdrawal without academic penalty. Consult the current semester's academic calendar for the specific date.",
+          "links": []
+        },
+        {
+          "question": "When are midterm exams?",
+          "answer_paragraphs": [
+            "Midterm exams are at the discretion of the instructor. Consult your individual course syllabus for details."
+          ],
+          "full_answer": "Midterm exams are at the discretion of the instructor. Consult your individual course syllabus for details.",
+          "links": []
+        },
+        {
+          "question": "When are final exams?",
+          "answer_paragraphs": [
+            "See the final exam schedule."
+          ],
+          "full_answer": "See the final exam schedule.",
+          "links": []
+        },
+        {
+          "question": "When does the semester end?",
+          "answer_paragraphs": [
+            "Check the academic calendar."
+          ],
+          "full_answer": "Check the academic calendar.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "When does enrollment start?",
+        "Registration for summer and fall begins the previous spring in April and continues through the add/drop period. Spring registration begins in November and continues through the add/drop period in January.",
+        "When does the semester start?",
+        "Fall courses typically begin the second-to-last week in August, Spring courses typically begin the second week in January, and Summer courses typically begin the third week of May and there are four sessions. Be sure to check the current academic calendar for the exact schedule for the year in which you are interested.",
+        "When is the last day to drop or add a class?",
+        "Consult the most recent enrollment guide and academic calendar for details, including the tuition refund schedule for dropped classes.",
+        "When is the last day to withdraw from a class?",
+        "Each semester a date is fixed as the last date for official withdrawal without academic penalty. Consult the current semester's academic calendar for the specific date.",
+        "When are midterm exams?",
+        "Midterm exams are at the discretion of the instructor. Consult your individual course syllabus for details.",
+        "When are final exams?",
+        "See the final exam schedule.",
+        "When does the semester end?",
+        "Check the academic calendar."
+      ],
+      "full_content": "When does enrollment start? Registration for summer and fall begins the previous spring in April and continues through the add/drop period. Spring registration begins in November and continues through the add/drop period in January. When does the semester start? Fall courses typically begin the second-to-last week in August, Spring courses typically begin the second week in January, and Summer courses typically begin the third week of May and there are four sessions. Be sure to check the current academic calendar for the exact schedule for the year in which you are interested. When is the last day to drop or add a class? Consult the most recent enrollment guide and academic calendar for details, including the tuition refund schedule for dropped classes. When is the last day to withdraw from a class? Each semester a date is fixed as the last date for official withdrawal without academic penalty. Consult the current semester's academic calendar for the specific date. When are midterm exams? Midterm exams are at the discretion of the instructor. Consult your individual course syllabus for details. When are final exams? See the final exam schedule. When does the semester end? Check the academic calendar.",
+      "links": [
+        {
+          "text": "academic calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        },
+        {
+          "text": "academic calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        },
+        {
+          "text": "academic calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        },
+        {
+          "text": "final exam schedule",
+          "url": "https://www.iit.edu/registrar/academic-calendar/final-exam-schedule",
+          "type": "internal"
+        },
+        {
+          "text": "academic calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "category": "Grades FAQs",
+      "qa_count": 5,
+      "qa_pairs": [
+        {
+          "question": "What are Illinois Tech's policies on graduate grades?",
+          "answer_paragraphs": [
+            "See the appropriate section of the Graduate Catalog."
+          ],
+          "full_answer": "See the appropriate section of the Graduate Catalog.",
+          "links": []
+        },
+        {
+          "question": "When will I receive my grades?",
+          "answer_paragraphs": [
+            "You can check your transcript via your secure account at the Illinois Tech Portal."
+          ],
+          "full_answer": "You can check your transcript via your secure account at the Illinois Tech Portal.",
+          "links": []
+        },
+        {
+          "question": "I am unhappy with my grade, who do I contact?",
+          "answer_paragraphs": [
+            "Contact the course instructor."
+          ],
+          "full_answer": "Contact the course instructor.",
+          "links": []
+        },
+        {
+          "question": "What happens if I retake a course?",
+          "answer_paragraphs": [
+            "If you are retaking the course to improve your cumulative GPA, you must file a Graduate Course Repeat Request. A maximum of three course repeats for grade replacement are allowed during a graduate career."
+          ],
+          "full_answer": "If you are retaking the course to improve your cumulative GPA, you must file a Graduate Course Repeat Request. A maximum of three course repeats for grade replacement are allowed during a graduate career.",
+          "links": []
+        },
+        {
+          "question": "What is Academic Probation?",
+          "answer_paragraphs": [
+            "A student is considered to be on Academic Probation if their cumulative GPA is below 3.0. A student on Academic Probation is normally limited to 9 credits of registration and is eligible for academic dismissal after two consecutive semesters on Academic Probation.",
+            "Students with a cumulative GPA of 3.0 or better are considered to be in Good Academic Standing.",
+            "Please consult the Catalog for additional information."
+          ],
+          "full_answer": "A student is considered to be on Academic Probation if their cumulative GPA is below 3.0. A student on Academic Probation is normally limited to 9 credits of registration and is eligible for academic dismissal after two consecutive semesters on Academic Probation. Students with a cumulative GPA of 3.0 or better are considered to be in Good Academic Standing. Please consult the Catalog for additional information.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "What are Illinois Tech's policies on graduate grades?",
+        "See the appropriate section of the Graduate Catalog.",
+        "When will I receive my grades?",
+        "You can check your transcript via your secure account at the Illinois Tech Portal.",
+        "I am unhappy with my grade, who do I contact?",
+        "Contact the course instructor.",
+        "What happens if I retake a course?",
+        "If you are retaking the course to improve your cumulative GPA, you must file a Graduate Course Repeat Request. A maximum of three course repeats for grade replacement are allowed during a graduate career.",
+        "What is Academic Probation?",
+        "A student is considered to be on Academic Probation if their cumulative GPA is below 3.0. A student on Academic Probation is normally limited to 9 credits of registration and is eligible for academic dismissal after two consecutive semesters on Academic Probation.",
+        "Students with a cumulative GPA of 3.0 or better are considered to be in Good Academic Standing.",
+        "Please consult the Catalog for additional information."
+      ],
+      "full_content": "What are Illinois Tech's policies on graduate grades? See the appropriate section of the Graduate Catalog. When will I receive my grades? You can check your transcript via your secure account at the Illinois Tech Portal. I am unhappy with my grade, who do I contact? Contact the course instructor. What happens if I retake a course? If you are retaking the course to improve your cumulative GPA, you must file a Graduate Course Repeat Request. A maximum of three course repeats for grade replacement are allowed during a graduate career. What is Academic Probation? A student is considered to be on Academic Probation if their cumulative GPA is below 3.0. A student on Academic Probation is normally limited to 9 credits of registration and is eligible for academic dismissal after two consecutive semesters on Academic Probation. Students with a cumulative GPA of 3.0 or better are considered to be in Good Academic Standing. Please consult the Catalog for additional information.",
+      "links": [
+        {
+          "text": "Graduate Catalog",
+          "url": "https://www.iit.edu/gaa/graduate-catalog",
+          "type": "internal"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu/",
+          "type": "internal"
+        },
+        {
+          "text": "Graduate Course Repeat Request",
+          "url": "https://my105.iit.edu/registrar/forms/view.php?id=32834",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "category": "Graduation FAQs",
+      "qa_count": 6,
+      "qa_pairs": [
+        {
+          "question": "How do I apply for graduation?",
+          "answer_paragraphs": [
+            "Students who plan to finish all degree requirements must submit an online graduation application by the deadline for the semester of graduation, published on the Academic Calendar. To access the application, go to the Student Records link under the Academics tab in the Illinois Tech Portal (detailed instructions).",
+            "Please note, master’s level students must have earned a minimum of 15 credits, while Ph.D. students must have earned a minimum of 69 credits, in order to access the online application. Once the application is processed, the graduation application fee will be billed to your student account.",
+            "Graduate certificate students should use the Application for Graduate Certificate (Form G528) to apply for graduation.",
+            "If you intend to participate in commencement be sure to complete the Commencement Survey which will be sent to you after you apply to graduate."
+          ],
+          "full_answer": "Students who plan to finish all degree requirements must submit an online graduation application by the deadline for the semester of graduation, published on the Academic Calendar. To access the application, go to the Student Records link under the Academics tab in the Illinois Tech Portal (detailed instructions). Please note, master’s level students must have earned a minimum of 15 credits, while Ph.D. students must have earned a minimum of 69 credits, in order to access the online application. Once the application is processed, the graduation application fee will be billed to your student account. Graduate certificate students should use the Application for Graduate Certificate (Form G528) to apply for graduation. If you intend to participate in commencement be sure to complete the Commencement Survey which will be sent to you after you apply to graduate.",
+          "links": []
+        },
+        {
+          "question": "When do I apply for graduation?",
+          "answer_paragraphs": [
+            "The deadline is listed on the academic calendar."
+          ],
+          "full_answer": "The deadline is listed on the academic calendar.",
+          "links": []
+        },
+        {
+          "question": "What if I forget to apply for graduation?",
+          "answer_paragraphs": [
+            "The final deadline for any late applications is 30 days before the degree conferral date listed on the academic calendar. There are no exceptions and a late fee will be charged."
+          ],
+          "full_answer": "The final deadline for any late applications is 30 days before the degree conferral date listed on the academic calendar. There are no exceptions and a late fee will be charged.",
+          "links": []
+        },
+        {
+          "question": "When and how will I receive my diploma?",
+          "answer_paragraphs": [
+            "Please visit the website for the Office of the Registrar for information on how to access your diploma."
+          ],
+          "full_answer": "Please visit the website for the Office of the Registrar for information on how to access your diploma.",
+          "links": []
+        },
+        {
+          "question": "How do I obtain official copies of my transcripts from Illinois Tech?",
+          "answer_paragraphs": [
+            "Official transcripts may be requested online and a fee will be charged. Instructions are also available at that website to order a transcript through the mail or in person."
+          ],
+          "full_answer": "Official transcripts may be requested online and a fee will be charged. Instructions are also available at that website to order a transcript through the mail or in person.",
+          "links": []
+        },
+        {
+          "question": "Where can I get more information on graduation?",
+          "answer_paragraphs": [
+            "Visit the commencement website."
+          ],
+          "full_answer": "Visit the commencement website.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "How do I apply for graduation?",
+        "Students who plan to finish all degree requirements must submit an online graduation application by the deadline for the semester of graduation, published on the Academic Calendar. To access the application, go to the Student Records link under the Academics tab in the Illinois Tech Portal (detailed instructions).",
+        "Please note, master’s level students must have earned a minimum of 15 credits, while Ph.D. students must have earned a minimum of 69 credits, in order to access the online application. Once the application is processed, the graduation application fee will be billed to your student account.",
+        "Graduate certificate students should use the Application for Graduate Certificate (Form G528) to apply for graduation.",
+        "If you intend to participate in commencement be sure to complete the Commencement Survey which will be sent to you after you apply to graduate.",
+        "When do I apply for graduation?",
+        "The deadline is listed on the academic calendar.",
+        "What if I forget to apply for graduation?",
+        "The final deadline for any late applications is 30 days before the degree conferral date listed on the academic calendar. There are no exceptions and a late fee will be charged.",
+        "When and how will I receive my diploma?",
+        "Please visit the website for the Office of the Registrar for information on how to access your diploma.",
+        "How do I obtain official copies of my transcripts from Illinois Tech?",
+        "Official transcripts may be requested online and a fee will be charged. Instructions are also available at that website to order a transcript through the mail or in person.",
+        "Where can I get more information on graduation?",
+        "Visit the commencement website."
+      ],
+      "full_content": "How do I apply for graduation? Students who plan to finish all degree requirements must submit an online graduation application by the deadline for the semester of graduation, published on the Academic Calendar. To access the application, go to the Student Records link under the Academics tab in the Illinois Tech Portal (detailed instructions). Please note, master’s level students must have earned a minimum of 15 credits, while Ph.D. students must have earned a minimum of 69 credits, in order to access the online application. Once the application is processed, the graduation application fee will be billed to your student account. Graduate certificate students should use the Application for Graduate Certificate (Form G528) to apply for graduation. If you intend to participate in commencement be sure to complete the Commencement Survey which will be sent to you after you apply to graduate. When do I apply for graduation? The deadline is listed on the academic calendar. What if I forget to apply for graduation? The final deadline for any late applications is 30 days before the degree conferral date listed on the academic calendar. There are no exceptions and a late fee will be charged. When and how will I receive my diploma? Please visit the website for the Office of the Registrar for information on how to access your diploma. How do I obtain official copies of my transcripts from Illinois Tech? Official transcripts may be requested online and a fee will be charged. Instructions are also available at that website to order a transcript through the mail or in person. Where can I get more information on graduation? Visit the commencement website.",
+      "links": [
+        {
+          "text": "Academic Calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu/",
+          "type": "internal"
+        },
+        {
+          "text": "detailed instructions",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/g527-application-for-graduation.pdf",
+          "type": "internal"
+        },
+        {
+          "text": "graduation application fee",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-mies-campus-graduate",
+          "type": "internal"
+        },
+        {
+          "text": "Application for Graduate Certificate",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/g528-application-graduate-certificate.pdf",
+          "type": "internal"
+        },
+        {
+          "text": "academic calendar",
+          "url": "https://www.iit.edu/registrar/academic-calendar",
+          "type": "internal"
+        },
+        {
+          "text": "website",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/diplomas",
+          "type": "internal"
+        },
+        {
+          "text": "requested online",
+          "url": "https://www.iit.edu/registrar/students-and-alumni/transcripts",
+          "type": "internal"
+        },
+        {
+          "text": "commencement website",
+          "url": "https://www.iit.edu/commencement",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "detailed instructions",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/g527-application-for-graduation.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Application for Graduate Certificate",
+          "url": "https://webmaster.iit.edu/files/graduate-academic-affairs/g528-application-graduate-certificate.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "category": "Registration FAQs",
+      "qa_count": 1,
+      "qa_pairs": [
+        {
+          "question": "Access the Illinois Tech Portal",
+          "answer_paragraphs": [
+            "Illinois Tech Portal"
+          ],
+          "full_answer": "Illinois Tech Portal",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "I applied late but I still want to register for classes -- is it possible?",
+        "Yes, it is possible you could be conditionally admitted as a non-degree student in order to permit you to begin taking courses right away: you must be admitted in order to register. Your application materials must be complete not later than the fourth week of the semester and you will have a limit on your registration six credit hours; admission as a non-degree student does not guarantee subsequent admission as a degree-seeking student.",
+        "Please note: International students are not eligible for registration as non-degree, certificate or part-time students.",
+        "How do I register?",
+        "If you have received a letter of admission, you may login and register for classes online at the Illinois Tech Portal by selecting the Academics Tab and choosing the Add or Drop Classes link in the Registration Tools channel.",
+        "What is Illinois Tech Portal?",
+        "New Illinois Tech students receive a unique identifier (UID) that is also their Illinois Tech email username and login for Illinois Tech's networking and computing services. Anytime you need to use resources online that are restricted to Illinois Tech members (such as the Portal, computer labs, and the Illinois Tech network, etc.), the system will prompt you for your UID and password. Your UID will remain the same during your entire Illinois Tech experience. To access the Portal for the first time, each student must log in using his or her Illinois Tech-assigned UID (User ID) for the username and the Illinois Tech-assigned password. On subsequent visits to the Portal, you will continue to use your Illinois Tech-assigned UID as your username along with a password you create during the process outlined below.",
+        "Find your UID (User ID) onlineYour Unified ID is your username for technology services at Illinois Tech and is the first part of your IIT email address before the @ symbol.New students will receive their username and Illinois Tech email address from the Office of Admissions upon acceptance to the university.",
+        "Find your UID (User ID) online",
+        "Your Unified ID is your username for technology services at Illinois Tech and is the first part of your IIT email address before the @ symbol.",
+        "New students will receive their username and Illinois Tech email address from the Office of Admissions upon acceptance to the university.",
+        "Determine your initial Illinois Tech Portal passwordYour initial password to access the Illinois Tech Portal consists of the two-digit month and two-digit day of your birth date plus the last 4-digits of your CWID number (the ID number you received when you were admitted to Illinois Tech). For example, if your birth date is June 8 and the last 4-digits of your CWID are 1234, your initial password would be 06081234.When you log into the portal for the first time, you will be prompted to create a new password.",
+        "Access the Illinois Tech PortalOnce you have your UID and password, you can access the Illinois Tech Portal. Enter your Illinois Tech Portal username and password in the login area on the left side of the screen.",
+        "Who do I contact for registration advice?",
+        "For advice on the process of registration, contact the Office of the Registrar at registrar@illinoistech.edu. If you need advice on which courses are appropriate for you, contact your faculty advisor. If you are a new student, an academic advisor was assigned to you in your letter of admission. Continuing students should contact their faculty advisor of record for information on curricular requirements, program of study and proper sequencing of courses.",
+        "Who do I contact to lift a registration hold?",
+        "Determine the type of hold that you have by reviewing the Registration Hold Information on the web page of the of the Registrar's website, then call the appropriate office. Holds are imposed for a variety of reasons, and lifting them may require further action from you.",
+        "How do I change course registration, change sections, add or drop a course, etc.?",
+        "You may add and drop courses online at the Illinois Tech Portal. Contact the Student Services Center at 312.567.3100 or onestop@illinoistech.edu if you experience any difficulty in completing your course change online."
+      ],
+      "full_content": "I applied late but I still want to register for classes -- is it possible? Yes, it is possible you could be conditionally admitted as a non-degree student in order to permit you to begin taking courses right away: you must be admitted in order to register. Your application materials must be complete not later than the fourth week of the semester and you will have a limit on your registration six credit hours; admission as a non-degree student does not guarantee subsequent admission as a degree-seeking student. Please note: International students are not eligible for registration as non-degree, certificate or part-time students. How do I register? If you have received a letter of admission, you may login and register for classes online at the Illinois Tech Portal by selecting the Academics Tab and choosing the Add or Drop Classes link in the Registration Tools channel. What is Illinois Tech Portal? New Illinois Tech students receive a unique identifier (UID) that is also their Illinois Tech email username and login for Illinois Tech's networking and computing services. Anytime you need to use resources online that are restricted to Illinois Tech members (such as the Portal, computer labs, and the Illinois Tech network, etc.), the system will prompt you for your UID and password. Your UID will remain the same during your entire Illinois Tech experience. To access the Portal for the first time, each student must log in using his or her Illinois Tech-assigned UID (User ID) for the username and the Illinois Tech-assigned password. On subsequent visits to the Portal, you will continue to use your Illinois Tech-assigned UID as your username along with a password you create during the process outlined below. Find your UID (User ID) onlineYour Unified ID is your username for technology services at Illinois Tech and is the first part of your IIT email address before the @ symbol.New students will receive their username and Illinois Tech email address from the Office of Admissions upon acceptance to the university. Find your UID (User ID) online Your Unified ID is your username for technology services at Illinois Tech and is the first part of your IIT email address before the @ symbol. New students will receive their username and Illinois Tech email address from the Office of Admissions upon acceptance to the university. Determine your initial Illinois Tech Portal passwordYour initial password to access the Illinois Tech Portal consists of the two-digit month and two-digit day of your birth date plus the last 4-digits of your CWID number (the ID number you received when you were admitted to Illinois Tech). For example, if your birth date is June 8 and the last 4-digits of your CWID are 1234, your initial password would be 06081234.When you log into the portal for the first time, you will be prompted to create a new password. Access the Illinois Tech PortalOnce you have your UID and password, you can access the Illinois Tech Portal. Enter your Illinois Tech Portal username and password in the login area on the left side of the screen. Who do I contact for registration advice? For advice on the process of registration, contact the Office of the Registrar at registrar@illinoistech.edu. If you need advice on which courses are appropriate for you, contact your faculty advisor. If you are a new student, an academic advisor was assigned to you in your letter of admission. Continuing students should contact their faculty advisor of record for information on curricular requirements, program of study and proper sequencing of courses. Who do I contact to lift a registration hold? Determine the type of hold that you have by reviewing the Registration Hold Information on the web page of the of the Registrar's website, then call the appropriate office. Holds are imposed for a variety of reasons, and lifting them may require further action from you. How do I change course registration, change sections, add or drop a course, etc.? You may add and drop courses online at the Illinois Tech Portal. Contact the Student Services Center at 312.567.3100 or onestop@illinoistech.edu if you experience any difficulty in completing your course change online.",
+      "links": [
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu/",
+          "type": "internal"
+        },
+        {
+          "text": "Illinois Tech Portal",
+          "url": "https://portal.iit.edu/",
+          "type": "internal"
+        },
+        {
+          "text": "registrar@illinoistech.edu",
+          "url": "mailto:registrar@illinoistech.edu",
+          "type": "internal"
+        },
+        {
+          "text": "Registration Hold Information",
+          "url": "https://www.iit.edu/registrar/registration/hold-information",
+          "type": "internal"
+        },
+        {
+          "text": "onestop@illinoistech.edu",
+          "url": "mailto:onestop@illinoistech.edu",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "category": "Thesis Examination FAQs",
+      "qa_count": 9,
+      "qa_pairs": [
+        {
+          "question": "What is the role of the Thesis Examiner?",
+          "answer_paragraphs": [
+            "The Thesis Examiner enforces the thesis format (and other) guidelines established by Illinois Tech, by instructing students during an initial group thesis meeting, and then during prescheduled one-on-one thesis reviews."
+          ],
+          "full_answer": "The Thesis Examiner enforces the thesis format (and other) guidelines established by Illinois Tech, by instructing students during an initial group thesis meeting, and then during prescheduled one-on-one thesis reviews.",
+          "links": []
+        },
+        {
+          "question": "What takes place during the mandatory group thesis meeting?",
+          "answer_paragraphs": [
+            "In a group setting, the Thesis Examiner identifies and explains pertinent information regarding formatting and paperwork; provides resources specifically related to thesis layout and style; and answers questions. An overview of the required meetings and the schedule is provided."
+          ],
+          "full_answer": "In a group setting, the Thesis Examiner identifies and explains pertinent information regarding formatting and paperwork; provides resources specifically related to thesis layout and style; and answers questions. An overview of the required meetings and the schedule is provided.",
+          "links": []
+        },
+        {
+          "question": "What takes place at the one-on-one thesis review?",
+          "answer_paragraphs": [
+            "In an individual meeting, the Thesis Examiner explains the required format and provides resources and techniques to assist the student with formatting their individual document."
+          ],
+          "full_answer": "In an individual meeting, the Thesis Examiner explains the required format and provides resources and techniques to assist the student with formatting their individual document.",
+          "links": []
+        },
+        {
+          "question": "How many times must I meet with the Thesis Examiner?",
+          "answer_paragraphs": [
+            "You must meet with the Thesis Examiner at least three times before you upload your final thesis. This consists of two full document review meetings and a final review/instruction meeting."
+          ],
+          "full_answer": "You must meet with the Thesis Examiner at least three times before you upload your final thesis. This consists of two full document review meetings and a final review/instruction meeting.",
+          "links": []
+        },
+        {
+          "question": "Do I need an appointment to meet with the Thesis Examiner?",
+          "answer_paragraphs": [
+            "You must have an appointment.",
+            "The thesis examiner will share access to a page to book appointments.",
+            "Appointments can be for in-person meetings (on select days) or online (MS Teams is the default)."
+          ],
+          "full_answer": "You must have an appointment. The thesis examiner will share access to a page to book appointments. Appointments can be for in-person meetings (on select days) or online (MS Teams is the default).",
+          "links": []
+        },
+        {
+          "question": "How should I prepare for the first meeting?",
+          "answer_paragraphs": [
+            "Email the Thesis Examiner a PDF of your thesis draft, at least an hour before your meeting. The draft should be composed using the appropriate template.",
+            "If you attend in-person, it's best to bring a laptop so as to have access to the file during the meeting. Please avoid printing out the full document unless necessary.",
+            "A minimal draft may require additional meetings."
+          ],
+          "full_answer": "Email the Thesis Examiner a PDF of your thesis draft, at least an hour before your meeting. The draft should be composed using the appropriate template. If you attend in-person, it's best to bring a laptop so as to have access to the file during the meeting. Please avoid printing out the full document unless necessary. A minimal draft may require additional meetings.",
+          "links": []
+        },
+        {
+          "question": "Can I have more than three meetings?",
+          "answer_paragraphs": [
+            "More meetings are certainly available if needed.",
+            "The Thesis Examiner may also require you to have additional meetings to ensure proper formatting."
+          ],
+          "full_answer": "More meetings are certainly available if needed. The Thesis Examiner may also require you to have additional meetings to ensure proper formatting.",
+          "links": []
+        },
+        {
+          "question": "How long does a meeting last?",
+          "answer_paragraphs": [
+            "Most meeting slots are 30 minutes, although some may run longer. In some cases a longer meeting may be scheduled."
+          ],
+          "full_answer": "Most meeting slots are 30 minutes, although some may run longer. In some cases a longer meeting may be scheduled.",
+          "links": []
+        },
+        {
+          "question": "Where can I find useful resources to assist me with the thesis format?",
+          "answer_paragraphs": [
+            "Go to the Graduate Academic Affairs web page, and then click on Thesis Information. There you will find many resources you need to assist you with your thesis."
+          ],
+          "full_answer": "Go to the Graduate Academic Affairs web page, and then click on Thesis Information. There you will find many resources you need to assist you with your thesis.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "What is the role of the Thesis Examiner?",
+        "The Thesis Examiner enforces the thesis format (and other) guidelines established by Illinois Tech, by instructing students during an initial group thesis meeting, and then during prescheduled one-on-one thesis reviews.",
+        "What takes place during the mandatory group thesis meeting?",
+        "In a group setting, the Thesis Examiner identifies and explains pertinent information regarding formatting and paperwork; provides resources specifically related to thesis layout and style; and answers questions. An overview of the required meetings and the schedule is provided.",
+        "What takes place at the one-on-one thesis review?",
+        "In an individual meeting, the Thesis Examiner explains the required format and provides resources and techniques to assist the student with formatting their individual document.",
+        "How many times must I meet with the Thesis Examiner?",
+        "You must meet with the Thesis Examiner at least three times before you upload your final thesis. This consists of two full document review meetings and a final review/instruction meeting.",
+        "Do I need an appointment to meet with the Thesis Examiner?",
+        "You must have an appointment.",
+        "The thesis examiner will share access to a page to book appointments.",
+        "Appointments can be for in-person meetings (on select days) or online (MS Teams is the default).",
+        "How should I prepare for the first meeting?",
+        "Email the Thesis Examiner a PDF of your thesis draft, at least an hour before your meeting. The draft should be composed using the appropriate template.",
+        "If you attend in-person, it's best to bring a laptop so as to have access to the file during the meeting. Please avoid printing out the full document unless necessary.",
+        "A minimal draft may require additional meetings.",
+        "Can I have more than three meetings?",
+        "More meetings are certainly available if needed.",
+        "The Thesis Examiner may also require you to have additional meetings to ensure proper formatting.",
+        "How long does a meeting last?",
+        "Most meeting slots are 30 minutes, although some may run longer. In some cases a longer meeting may be scheduled.",
+        "Where can I find useful resources to assist me with the thesis format?",
+        "Go to the Graduate Academic Affairs web page, and then click on Thesis Information. There you will find many resources you need to assist you with your thesis."
+      ],
+      "full_content": "What is the role of the Thesis Examiner? The Thesis Examiner enforces the thesis format (and other) guidelines established by Illinois Tech, by instructing students during an initial group thesis meeting, and then during prescheduled one-on-one thesis reviews. What takes place during the mandatory group thesis meeting? In a group setting, the Thesis Examiner identifies and explains pertinent information regarding formatting and paperwork; provides resources specifically related to thesis layout and style; and answers questions. An overview of the required meetings and the schedule is provided. What takes place at the one-on-one thesis review? In an individual meeting, the Thesis Examiner explains the required format and provides resources and techniques to assist the student with formatting their individual document. How many times must I meet with the Thesis Examiner? You must meet with the Thesis Examiner at least three times before you upload your final thesis. This consists of two full document review meetings and a final review/instruction meeting. Do I need an appointment to meet with the Thesis Examiner? You must have an appointment. The thesis examiner will share access to a page to book appointments. Appointments can be for in-person meetings (on select days) or online (MS Teams is the default). How should I prepare for the first meeting? Email the Thesis Examiner a PDF of your thesis draft, at least an hour before your meeting. The draft should be composed using the appropriate template. If you attend in-person, it's best to bring a laptop so as to have access to the file during the meeting. Please avoid printing out the full document unless necessary. A minimal draft may require additional meetings. Can I have more than three meetings? More meetings are certainly available if needed. The Thesis Examiner may also require you to have additional meetings to ensure proper formatting. How long does a meeting last? Most meeting slots are 30 minutes, although some may run longer. In some cases a longer meeting may be scheduled. Where can I find useful resources to assist me with the thesis format? Go to the Graduate Academic Affairs web page, and then click on Thesis Information. There you will find many resources you need to assist you with your thesis.",
+      "links": [
+        {
+          "text": "Thesis Information",
+          "url": "https://www.iit.edu/gaa/thesis",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "category": "Tuition and Fees FAQs",
+      "qa_count": 6,
+      "qa_pairs": [
+        {
+          "question": "What is tuition for graduate studies?",
+          "answer_paragraphs": [
+            "All tuition, rates, and fees are posted on the Student Accounting website."
+          ],
+          "full_answer": "All tuition, rates, and fees are posted on the Student Accounting website.",
+          "links": []
+        },
+        {
+          "question": "What options do I have for paying my tuition?",
+          "answer_paragraphs": [
+            "Illinois Tech offers tuition deferral and installment payment plans. If your employer offers a tuition reimbursement plan, you may be able to apply for a deferred payment plan that will allow you to delay payment until you have received reimbursement from your employer. You must submit an application and fee, and a letter from your employer, in order to participate. Illinois Tech also offers installment payment plans for full and part-time students. Consult Student Accounting for more information about payment plans."
+          ],
+          "full_answer": "Illinois Tech offers tuition deferral and installment payment plans. If your employer offers a tuition reimbursement plan, you may be able to apply for a deferred payment plan that will allow you to delay payment until you have received reimbursement from your employer. You must submit an application and fee, and a letter from your employer, in order to participate. Illinois Tech also offers installment payment plans for full and part-time students. Consult Student Accounting for more information about payment plans.",
+          "links": []
+        },
+        {
+          "question": "Is financial aid available?",
+          "answer_paragraphs": [
+            "Yes. Graduate scholarships, fellowships, teaching assistantships, and graduate assistantships are awarded by departments to a very limited number of highly qualified students at the time of admission. U.S. citizens and permanent residents may be eligible for federal student loan programs. For information on student loans contact the Office of Financial Aid at 312.567.7219 or visit the Office of Financial Aid."
+          ],
+          "full_answer": "Yes. Graduate scholarships, fellowships, teaching assistantships, and graduate assistantships are awarded by departments to a very limited number of highly qualified students at the time of admission. U.S. citizens and permanent residents may be eligible for federal student loan programs. For information on student loans contact the Office of Financial Aid at 312.567.7219 or visit the Office of Financial Aid.",
+          "links": []
+        },
+        {
+          "question": "What is full-time status and how does it affect me?",
+          "answer_paragraphs": [
+            "Full-time status requires registration in at least nine hours for graduate students.",
+            "Graduate students are eligible for federal aid and continued deferment of existing loans if they are registered for half-time (4.5 hours) or greater. Graduate students taking less than half-time hours can file for a forbearance to extend their deferment. Continuing graduate students taking one or more credit hours of 591, 600, 691 or PSYC 599 are automatically forced to special full-time status due to thesis research or Ph.D. candidacy continuation.",
+            "International students taking less than full-time hours must apply for full-time equivalency with the Office of Global Services at to remain in compliance with SEVIS requirements. International students who meet the I-Center’s criteria for full-time equivalency are reported as such by the I-Center and do not have their actual student time status adjusted on their academic record."
+          ],
+          "full_answer": "Full-time status requires registration in at least nine hours for graduate students. Graduate students are eligible for federal aid and continued deferment of existing loans if they are registered for half-time (4.5 hours) or greater. Graduate students taking less than half-time hours can file for a forbearance to extend their deferment. Continuing graduate students taking one or more credit hours of 591, 600, 691 or PSYC 599 are automatically forced to special full-time status due to thesis research or Ph.D. candidacy continuation. International students taking less than full-time hours must apply for full-time equivalency with the Office of Global Services at to remain in compliance with SEVIS requirements. International students who meet the I-Center’s criteria for full-time equivalency are reported as such by the I-Center and do not have their actual student time status adjusted on their academic record.",
+          "links": []
+        },
+        {
+          "question": "Does Illinois Tech offer career placement and planning services?",
+          "answer_paragraphs": [
+            "The Career Services office offers resume writing assistance, mock interviews, job fairs and postings and many other career related services to Illinois Tech students. The office also provides services to business and industry seeking to recruit Illinois Tech students. If you have a job to post, please visit the office's website and follow the links for employers."
+          ],
+          "full_answer": "The Career Services office offers resume writing assistance, mock interviews, job fairs and postings and many other career related services to Illinois Tech students. The office also provides services to business and industry seeking to recruit Illinois Tech students. If you have a job to post, please visit the office's website and follow the links for employers.",
+          "links": []
+        },
+        {
+          "question": "How do I get a part-time on-campus job?",
+          "answer_paragraphs": [
+            "Illinois Tech's Career Services office maintains an online database of on-campus jobs. International students should be aware that there are strict restrictions on the type of employment they may accept while in the US on a student visa. Visit the Office of Global Services online or call 312.567.3680 for additional information."
+          ],
+          "full_answer": "Illinois Tech's Career Services office maintains an online database of on-campus jobs. International students should be aware that there are strict restrictions on the type of employment they may accept while in the US on a student visa. Visit the Office of Global Services online or call 312.567.3680 for additional information.",
+          "links": []
+        }
+      ],
+      "all_content_paragraphs": [
+        "What is tuition for graduate studies?",
+        "All tuition, rates, and fees are posted on the Student Accounting website.",
+        "What options do I have for paying my tuition?",
+        "Illinois Tech offers tuition deferral and installment payment plans. If your employer offers a tuition reimbursement plan, you may be able to apply for a deferred payment plan that will allow you to delay payment until you have received reimbursement from your employer. You must submit an application and fee, and a letter from your employer, in order to participate. Illinois Tech also offers installment payment plans for full and part-time students. Consult Student Accounting for more information about payment plans.",
+        "Is financial aid available?",
+        "Yes. Graduate scholarships, fellowships, teaching assistantships, and graduate assistantships are awarded by departments to a very limited number of highly qualified students at the time of admission. U.S. citizens and permanent residents may be eligible for federal student loan programs. For information on student loans contact the Office of Financial Aid at 312.567.7219 or visit the Office of Financial Aid.",
+        "What is full-time status and how does it affect me?",
+        "Full-time status requires registration in at least nine hours for graduate students.",
+        "Graduate students are eligible for federal aid and continued deferment of existing loans if they are registered for half-time (4.5 hours) or greater. Graduate students taking less than half-time hours can file for a forbearance to extend their deferment. Continuing graduate students taking one or more credit hours of 591, 600, 691 or PSYC 599 are automatically forced to special full-time status due to thesis research or Ph.D. candidacy continuation.",
+        "International students taking less than full-time hours must apply for full-time equivalency with the Office of Global Services at to remain in compliance with SEVIS requirements. International students who meet the I-Center’s criteria for full-time equivalency are reported as such by the I-Center and do not have their actual student time status adjusted on their academic record.",
+        "Does Illinois Tech offer career placement and planning services?",
+        "The Career Services office offers resume writing assistance, mock interviews, job fairs and postings and many other career related services to Illinois Tech students. The office also provides services to business and industry seeking to recruit Illinois Tech students. If you have a job to post, please visit the office's website and follow the links for employers.",
+        "How do I get a part-time on-campus job?",
+        "Illinois Tech's Career Services office maintains an online database of on-campus jobs. International students should be aware that there are strict restrictions on the type of employment they may accept while in the US on a student visa. Visit the Office of Global Services online or call 312.567.3680 for additional information."
+      ],
+      "full_content": "What is tuition for graduate studies? All tuition, rates, and fees are posted on the Student Accounting website. What options do I have for paying my tuition? Illinois Tech offers tuition deferral and installment payment plans. If your employer offers a tuition reimbursement plan, you may be able to apply for a deferred payment plan that will allow you to delay payment until you have received reimbursement from your employer. You must submit an application and fee, and a letter from your employer, in order to participate. Illinois Tech also offers installment payment plans for full and part-time students. Consult Student Accounting for more information about payment plans. Is financial aid available? Yes. Graduate scholarships, fellowships, teaching assistantships, and graduate assistantships are awarded by departments to a very limited number of highly qualified students at the time of admission. U.S. citizens and permanent residents may be eligible for federal student loan programs. For information on student loans contact the Office of Financial Aid at 312.567.7219 or visit the Office of Financial Aid. What is full-time status and how does it affect me? Full-time status requires registration in at least nine hours for graduate students. Graduate students are eligible for federal aid and continued deferment of existing loans if they are registered for half-time (4.5 hours) or greater. Graduate students taking less than half-time hours can file for a forbearance to extend their deferment. Continuing graduate students taking one or more credit hours of 591, 600, 691 or PSYC 599 are automatically forced to special full-time status due to thesis research or Ph.D. candidacy continuation. International students taking less than full-time hours must apply for full-time equivalency with the Office of Global Services at to remain in compliance with SEVIS requirements. International students who meet the I-Center’s criteria for full-time equivalency are reported as such by the I-Center and do not have their actual student time status adjusted on their academic record. Does Illinois Tech offer career placement and planning services? The Career Services office offers resume writing assistance, mock interviews, job fairs and postings and many other career related services to Illinois Tech students. The office also provides services to business and industry seeking to recruit Illinois Tech students. If you have a job to post, please visit the office's website and follow the links for employers. How do I get a part-time on-campus job? Illinois Tech's Career Services office maintains an online database of on-campus jobs. International students should be aware that there are strict restrictions on the type of employment they may accept while in the US on a student visa. Visit the Office of Global Services online or call 312.567.3680 for additional information.",
+      "links": [
+        {
+          "text": "Student Accounting website",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Student Accounting",
+          "url": "https://www.iit.edu/student-accounting",
+          "type": "internal"
+        },
+        {
+          "text": "Office of Financial Aid.",
+          "url": "https://www.iit.edu/financial-aid",
+          "type": "internal"
+        },
+        {
+          "text": "Career Services office",
+          "url": "https://www.iit.edu/career-services",
+          "type": "internal"
+        },
+        {
+          "text": "Career Services office",
+          "url": "https://www.iit.edu/career-services",
+          "type": "internal"
+        },
+        {
+          "text": "Office of Global Services",
+          "url": "https://www.iit.edu/global-services",
+          "type": "internal"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "all_page_links": [
+    {
+      "text": "Request Info",
+      "url": "https://www.iit.edu/admissions-aid/request-information"
+    },
+    {
+      "text": "Visit",
+      "url": "https://www.iit.edu/admissions-aid/visit-and-tour"
+    },
+    {
+      "text": "Apply",
+      "url": "https://www.iit.edu/admissions-aid/apply"
+    },
+    {
+      "text": "Directory",
+      "url": "https://www.iit.edu/directory/people"
+    },
+    {
+      "text": "News",
+      "url": "https://www.iit.edu/university-news"
+    },
+    {
+      "text": "Alumni",
+      "url": "https://www.iit.edu/alumni"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.iit.edu/events"
+    },
+    {
+      "text": "Giving",
+      "url": "https://www.iit.edu/giving"
+    },
+    {
+      "text": "Illinois Tech Mumbai",
+      "url": "https://www.iit.edu/mumbai"
+    },
+    {
+      "text": "Academic Advising",
+      "url": "https://www.iit.edu/academic-advising"
+    },
+    {
+      "text": "Admitted Students",
+      "url": "https://www.iit.edu/resources-admitted-students"
+    },
+    {
+      "text": "Academic Calendar",
+      "url": "https://www.iit.edu/registrar/academic-calendar"
+    },
+    {
+      "text": "Community",
+      "url": "https://www.iit.edu/community-affairs"
+    },
+    {
+      "text": "Current Students",
+      "url": "https://www.iit.edu/resources-current-students"
+    },
+    {
+      "text": "Faculty and Staff",
+      "url": "https://www.iit.edu/resources-faculty-and-staff"
+    },
+    {
+      "text": "Parents and Families",
+      "url": "https://www.iit.edu/resources-parents-and-families"
+    },
+    {
+      "text": "School Counselors",
+      "url": "https://www.iit.edu/resources-school-counselors"
+    },
+    {
+      "text": "Title IX Compliance",
+      "url": "https://www.iit.edu/title-ix"
+    },
+    {
+      "text": "Academics",
+      "url": "https://www.iit.edu/academics"
+    },
+    {
+      "text": "Academic Programs",
+      "url": "https://www.iit.edu/academics/programs"
+    },
+    {
+      "text": "Experiential Learning",
+      "url": "https://www.iit.edu/academics/experiential-learning"
+    },
+    {
+      "text": "Undergraduate Programs",
+      "url": "https://www.iit.edu/academics/undergraduate-programs"
+    },
+    {
+      "text": "Graduate Programs",
+      "url": "https://www.iit.edu/academics/graduate-programs"
+    },
+    {
+      "text": "Lifelong Learners",
+      "url": "https://www.iit.edu/academics/lifelong-learners"
+    },
+    {
+      "text": "Elevate College Prep",
+      "url": "https://www.iit.edu/academics/elevate-college-prep"
+    },
+    {
+      "text": "Colleges and Institutes",
+      "url": "https://www.iit.edu/academics/colleges-and-institutes"
+    },
+    {
+      "text": "Course Catalog",
+      "url": "https://www.iit.edu/academics/course-catalog"
+    },
+    {
+      "text": "Admission and Aid",
+      "url": "https://www.iit.edu/admissions-aid"
+    },
+    {
+      "text": "Undergraduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/undergraduate-admission"
+    },
+    {
+      "text": "Graduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission"
+    },
+    {
+      "text": "Tuition and Aid",
+      "url": "https://www.iit.edu/admissions-aid/tuition-and-aid"
+    },
+    {
+      "text": "Student Experience",
+      "url": "https://www.iit.edu/student-experience"
+    },
+    {
+      "text": "Our Campus and Housing",
+      "url": "https://www.iit.edu/student-experience/campus-and-housing"
+    },
+    {
+      "text": "Life in Chicago",
+      "url": "https://www.iit.edu/student-experience/life-in-chicago"
+    },
+    {
+      "text": "Career Services and Internships",
+      "url": "https://www.iit.edu/student-experience/career-services-and-internships"
+    },
+    {
+      "text": "Student Outcomes",
+      "url": "https://www.iit.edu/student-experience/student-outcomes"
+    },
+    {
+      "text": "Athletics",
+      "url": "https://www.iit.edu/student-experience/athletics"
+    },
+    {
+      "text": "Student Organizations and Greek Life",
+      "url": "https://www.iit.edu/student-experience/student-organizations-and-greek-life"
+    },
+    {
+      "text": "Services and Resources",
+      "url": "https://www.iit.edu/student-experience/services-and-resources"
+    },
+    {
+      "text": "Student and Alumni Stories",
+      "url": "https://www.iit.edu/student-experience/student-and-alumni-stories"
+    },
+    {
+      "text": "New Student Transition",
+      "url": "https://www.iit.edu/student-experience/new-student-transition"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.iit.edu/research"
+    },
+    {
+      "text": "About Research",
+      "url": "https://www.iit.edu/research/about-research"
+    },
+    {
+      "text": "University Research Initiatives",
+      "url": "https://www.iit.edu/research/initiatives"
+    },
+    {
+      "text": "Conducting Research with Illinois Tech",
+      "url": "https://www.iit.edu/research/conducting-research-illinois-tech"
+    },
+    {
+      "text": "Featured Projects",
+      "url": "https://www.iit.edu/research/featured-projects"
+    },
+    {
+      "text": "Student Research",
+      "url": "https://www.iit.edu/research/student-research"
+    },
+    {
+      "text": "Institutes and Centers",
+      "url": "https://www.iit.edu/research/institutes-and-centers"
+    },
+    {
+      "text": "Libraries",
+      "url": "https://www.iit.edu/research/libraries"
+    },
+    {
+      "text": "About",
+      "url": "https://www.iit.edu/about"
+    }
+  ]
+}

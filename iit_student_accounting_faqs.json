@@ -1,0 +1,1053 @@
+{
+  "url": "https://www.iit.edu/student-accounting/faqs",
+  "page_title": "FAQs",
+  "page_description": "Please contact the Student Accounting Office directly with any additional questions you may have. Email us at sa@illinoistech.edu.Withdrawing from VS. Dropping",
+  "scrape_date": "2026-02-20 12:47:46",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.iit.edu/"
+    },
+    {
+      "name": "Student Accounting",
+      "url": "https://www.iit.edu/student-accounting"
+    },
+    {
+      "name": "FAQs",
+      "url": null
+    }
+  ],
+  "sidebar_navigation": [
+    {
+      "text": "Student Accounting",
+      "url": "https://www.iit.edu/student-accounting",
+      "is_active": false
+    },
+    {
+      "text": "Tuition and Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Current Tuition and Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus UG",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-mies-campus-undergraduate",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus Grad",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-mies-campus-graduate",
+      "is_active": false
+    },
+    {
+      "text": "Stuart School of Business",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-stuart-school-business",
+      "is_active": false
+    },
+    {
+      "text": "Institute of Design",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-institute-design",
+      "is_active": false
+    },
+    {
+      "text": "Chicago-Kent College of Law",
+      "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Current Intensive English Program",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-intensive-english-program",
+      "is_active": false
+    },
+    {
+      "text": "Future Tuition and Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus UG",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-undergraduate",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus Grad",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-graduate",
+      "is_active": false
+    },
+    {
+      "text": "Stuart School of Business",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/stuart-school-business",
+      "is_active": false
+    },
+    {
+      "text": "Institute of Design",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/institute-design",
+      "is_active": false
+    },
+    {
+      "text": "Chicago-Kent College of Law",
+      "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Previous Tuition and Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus UG",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-mies-campus-ug",
+      "is_active": false
+    },
+    {
+      "text": "Mies Campus Grad",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-mies-campus-grad",
+      "is_active": false
+    },
+    {
+      "text": "Stuart School of Business",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-stuart-school-business",
+      "is_active": false
+    },
+    {
+      "text": "Institute of Design",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-institute-design",
+      "is_active": false
+    },
+    {
+      "text": "Chicago-Kent College of Law",
+      "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees/archives",
+      "is_active": false
+    },
+    {
+      "text": "Mandatory and Other Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees",
+      "is_active": false
+    },
+    {
+      "text": "Current Year Course Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/current-year-course-fees",
+      "is_active": false
+    },
+    {
+      "text": "Previous Years Course Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/previous-years-course-fees",
+      "is_active": false
+    },
+    {
+      "text": "Future Year Course Fees",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/future-course-fees",
+      "is_active": false
+    },
+    {
+      "text": "Health Insurance",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/health-insurance",
+      "is_active": false
+    },
+    {
+      "text": "2024 Winter Term Courses",
+      "url": "https://www.iit.edu/humanities/about/winter-term-courses",
+      "is_active": false
+    },
+    {
+      "text": "Billing",
+      "url": "https://www.iit.edu/student-accounting/billing",
+      "is_active": false
+    },
+    {
+      "text": "E-Bills",
+      "url": "https://www.iit.edu/student-accounting/billing/e-bills",
+      "is_active": false
+    },
+    {
+      "text": "Holds and Late Fees",
+      "url": "https://www.iit.edu/student-accounting/billing/holds-and-late-fees",
+      "is_active": false
+    },
+    {
+      "text": "Collection Process",
+      "url": "https://www.iit.edu/student-accounting/billing/collection-process",
+      "is_active": false
+    },
+    {
+      "text": "Billing Forms and Guides",
+      "url": "https://www.iit.edu/student-accounting/billing/billing-forms-and-guides",
+      "is_active": false
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.iit.edu/student-accounting/payments",
+      "is_active": false
+    },
+    {
+      "text": "Payment Methods",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods",
+      "is_active": false
+    },
+    {
+      "text": "Pay Online",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods/pay-online",
+      "is_active": false
+    },
+    {
+      "text": "International Wires",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods/international-wires",
+      "is_active": false
+    },
+    {
+      "text": "Sponsorship",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods/sponsorship-and-third-party-billing",
+      "is_active": false
+    },
+    {
+      "text": "College Illinois 529 Prepaid Tuition Program",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods/college-illinois-529-prepaid-tuition-program",
+      "is_active": false
+    },
+    {
+      "text": "Graduate Fellowships",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-methods/graduate-fellowships",
+      "is_active": false
+    },
+    {
+      "text": "Payment Plans",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-plans",
+      "is_active": false
+    },
+    {
+      "text": "Installment Plan",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-plans/installment-plan",
+      "is_active": false
+    },
+    {
+      "text": "Employer Deferment",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-plans/employer-deferment",
+      "is_active": false
+    },
+    {
+      "text": "CPD and CFD Tuition Deferment",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-plans/cpd-and-cfd-tuition-deferment",
+      "is_active": false
+    },
+    {
+      "text": "Tuition Remission",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-plans/tuition-remission",
+      "is_active": false
+    },
+    {
+      "text": "Payment Policy",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-policy",
+      "is_active": false
+    },
+    {
+      "text": "Credits and Refunds",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-policy/credits-and-refunds",
+      "is_active": false
+    },
+    {
+      "text": "Past Due Accounts",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-policy/past-due-accounts",
+      "is_active": false
+    },
+    {
+      "text": "Personal Payment Refund Request Form",
+      "url": "https://www.iit.edu/student-accounting/payments/payment-policy/personal-payment-refund-request-form",
+      "is_active": false
+    },
+    {
+      "text": "Payment Forms and Guides",
+      "url": "https://www.iit.edu/student-accounting/faqs/forms-and-guides",
+      "is_active": false
+    },
+    {
+      "text": "Add a User to your Account",
+      "url": "https://www.iit.edu/student-accounting/payments/adding-authorized-user-your-online-account",
+      "is_active": false
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.iit.edu/student-accounting/faqs",
+      "is_active": true
+    },
+    {
+      "text": "Policy and Procedures",
+      "url": "https://www.iit.edu/student-accounting/faqs/policy-and-procedures",
+      "is_active": false
+    },
+    {
+      "text": "Forms and Guides",
+      "url": "https://www.iit.edu/student-accounting/faqs/forms-and-guides",
+      "is_active": false
+    },
+    {
+      "text": "Important Links",
+      "url": "https://www.iit.edu/student-accounting/faqs/important-links",
+      "is_active": false
+    },
+    {
+      "text": "Latest News and Information",
+      "url": "https://www.iit.edu/student-accounting/faqs/latest-news-and-information",
+      "is_active": false
+    },
+    {
+      "text": "Tax Information",
+      "url": "https://www.iit.edu/student-accounting/faqs/tax-information",
+      "is_active": false
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.iit.edu/student-accounting/contact-us",
+      "is_active": false
+    },
+    {
+      "text": "1098T",
+      "url": "https://www.iit.edu/student-accounting/1098t",
+      "is_active": false
+    }
+  ],
+  "contact": {
+    "email": "sa@illinoistech.edu",
+    "phone": null,
+    "office": "Student Accounting Office"
+  },
+  "withdraw_vs_drop": {
+    "title": "Withdrawing vs. Dropping a Course",
+    "description": "The deadlines to add/drop and withdraw from courses are posted on the Academic Calendar. Please note that non-full term courses such as short courses have special deadlines (also noted on the Academic Calendar).",
+    "table": {
+      "headers": [
+        "Withdrawing from a Course",
+        "Dropping a Course"
+      ],
+      "rows": [
+        {
+          "Withdrawing from a Course": "The action of withdrawing from a course is taken after the add/drop courses deadline.",
+          "Dropping a Course": "Dropping a course refers to having the course removed from the student's schedule before the add/drop deadline."
+        },
+        {
+          "Withdrawing from a Course": "The student is responsible for any tuition and/or fees associated with the course.",
+          "Dropping a Course": "The student will not be charged any tuition and/or fees associated with the course."
+        },
+        {
+          "Withdrawing from a Course": "Withdrawn credits count toward the student's total maximum credit hours.",
+          "Dropping a Course": "The removed credits do not count toward the student's maximum credit hours."
+        },
+        {
+          "Withdrawing from a Course": "A letter grade of 'W' is assigned to the withdrawn course and is visible on the transcript.",
+          "Dropping a Course": "Since the course is entirely removed, the course will not show up on the student's transcript."
+        },
+        {
+          "Withdrawing from a Course": "The student's GPA is not affected."
+        }
+      ],
+      "row_count": 5
+    }
+  },
+  "total_faqs": 10,
+  "faqs": [
+    {
+      "question": "Student Accounting",
+      "answer_paragraphs": [
+        "Tuition and Fees Current Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Current Intensive English Program Future Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Previous Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Mandatory and Other Fees Current Year Course Fees Previous Years Course Fees Future Year Course Fees Health Insurance 2024 Winter Term Courses Billing E-Bills Holds and Late Fees Collection Process Billing Forms and Guides Payments Payment Methods Pay Online International Wires Sponsorship College Illinois 529 Prepaid Tuition Program Graduate Fellowships Payment Plans Installment Plan Employer Deferment CPD and CFD Tuition Deferment Tuition Remission Payment Policy Credits and Refunds Past Due Accounts Personal Payment Refund Request Form Payment Forms and Guides Add a User to your Account FAQs Policy and Procedures Forms and Guides Important Links Latest News and Information Tax Information Contact Us 1098T"
+      ],
+      "full_answer": "Tuition and Fees Current Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Current Intensive English Program Future Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Previous Tuition and Fees Mies Campus UG Mies Campus Grad Stuart School of Business Institute of Design Chicago-Kent College of Law Mandatory and Other Fees Current Year Course Fees Previous Years Course Fees Future Year Course Fees Health Insurance 2024 Winter Term Courses Billing E-Bills Holds and Late Fees Collection Process Billing Forms and Guides Payments Payment Methods Pay Online International Wires Sponsorship College Illinois 529 Prepaid Tuition Program Graduate Fellowships Payment Plans Installment Plan Employer Deferment CPD and CFD Tuition Deferment Tuition Remission Payment Policy Credits and Refunds Past Due Accounts Personal Payment Refund Request Form Payment Forms and Guides Add a User to your Account FAQs Policy and Procedures Forms and Guides Important Links Latest News and Information Tax Information Contact Us 1098T",
+      "links": [
+        {
+          "text": "Tuition and Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Current Tuition and Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus UG",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-mies-campus-undergraduate",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus Grad",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-mies-campus-graduate",
+          "type": "internal"
+        },
+        {
+          "text": "Stuart School of Business",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-stuart-school-business",
+          "type": "internal"
+        },
+        {
+          "text": "Institute of Design",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-institute-design",
+          "type": "internal"
+        },
+        {
+          "text": "Chicago-Kent College of Law",
+          "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Current Intensive English Program",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-intensive-english-program",
+          "type": "internal"
+        },
+        {
+          "text": "Future Tuition and Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus UG",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-undergraduate",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus Grad",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-graduate",
+          "type": "internal"
+        },
+        {
+          "text": "Stuart School of Business",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/stuart-school-business",
+          "type": "internal"
+        },
+        {
+          "text": "Institute of Design",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/institute-design",
+          "type": "internal"
+        },
+        {
+          "text": "Chicago-Kent College of Law",
+          "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Previous Tuition and Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus UG",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-mies-campus-ug",
+          "type": "internal"
+        },
+        {
+          "text": "Mies Campus Grad",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-mies-campus-grad",
+          "type": "internal"
+        },
+        {
+          "text": "Stuart School of Business",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-stuart-school-business",
+          "type": "internal"
+        },
+        {
+          "text": "Institute of Design",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/previous-tuition-and-fees/previous-institute-design",
+          "type": "internal"
+        },
+        {
+          "text": "Chicago-Kent College of Law",
+          "url": "https://www.kentlaw.iit.edu/current-students/tuition-and-financial-assistance/tuition-and-fees/archives",
+          "type": "internal"
+        },
+        {
+          "text": "Mandatory and Other Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Current Year Course Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/current-year-course-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Previous Years Course Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/previous-years-course-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Future Year Course Fees",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/future-course-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Health Insurance",
+          "url": "https://www.iit.edu/student-accounting/tuition-and-fees/mandatory-and-other-fees/health-insurance",
+          "type": "internal"
+        },
+        {
+          "text": "2024 Winter Term Courses",
+          "url": "https://www.iit.edu/humanities/about/winter-term-courses",
+          "type": "internal"
+        },
+        {
+          "text": "Billing",
+          "url": "https://www.iit.edu/student-accounting/billing",
+          "type": "internal"
+        },
+        {
+          "text": "E-Bills",
+          "url": "https://www.iit.edu/student-accounting/billing/e-bills",
+          "type": "internal"
+        },
+        {
+          "text": "Holds and Late Fees",
+          "url": "https://www.iit.edu/student-accounting/billing/holds-and-late-fees",
+          "type": "internal"
+        },
+        {
+          "text": "Collection Process",
+          "url": "https://www.iit.edu/student-accounting/billing/collection-process",
+          "type": "internal"
+        },
+        {
+          "text": "Billing Forms and Guides",
+          "url": "https://www.iit.edu/student-accounting/billing/billing-forms-and-guides",
+          "type": "internal"
+        },
+        {
+          "text": "Payments",
+          "url": "https://www.iit.edu/student-accounting/payments",
+          "type": "internal"
+        },
+        {
+          "text": "Payment Methods",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods",
+          "type": "internal"
+        },
+        {
+          "text": "Pay Online",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods/pay-online",
+          "type": "internal"
+        },
+        {
+          "text": "International Wires",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods/international-wires",
+          "type": "internal"
+        },
+        {
+          "text": "Sponsorship",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods/sponsorship-and-third-party-billing",
+          "type": "internal"
+        },
+        {
+          "text": "College Illinois 529 Prepaid Tuition Program",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods/college-illinois-529-prepaid-tuition-program",
+          "type": "internal"
+        },
+        {
+          "text": "Graduate Fellowships",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods/graduate-fellowships",
+          "type": "internal"
+        },
+        {
+          "text": "Payment Plans",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-plans",
+          "type": "internal"
+        },
+        {
+          "text": "Installment Plan",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-plans/installment-plan",
+          "type": "internal"
+        },
+        {
+          "text": "Employer Deferment",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-plans/employer-deferment",
+          "type": "internal"
+        },
+        {
+          "text": "CPD and CFD Tuition Deferment",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-plans/cpd-and-cfd-tuition-deferment",
+          "type": "internal"
+        },
+        {
+          "text": "Tuition Remission",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-plans/tuition-remission",
+          "type": "internal"
+        },
+        {
+          "text": "Payment Policy",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-policy",
+          "type": "internal"
+        },
+        {
+          "text": "Credits and Refunds",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-policy/credits-and-refunds",
+          "type": "internal"
+        },
+        {
+          "text": "Past Due Accounts",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-policy/past-due-accounts",
+          "type": "internal"
+        },
+        {
+          "text": "Personal Payment Refund Request Form",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-policy/personal-payment-refund-request-form",
+          "type": "internal"
+        },
+        {
+          "text": "Payment Forms and Guides",
+          "url": "https://www.iit.edu/student-accounting/faqs/forms-and-guides",
+          "type": "internal"
+        },
+        {
+          "text": "Add a User to your Account",
+          "url": "https://www.iit.edu/student-accounting/payments/adding-authorized-user-your-online-account",
+          "type": "internal"
+        },
+        {
+          "text": "FAQs",
+          "url": "https://www.iit.edu/student-accounting/faqs",
+          "type": "internal"
+        },
+        {
+          "text": "Policy and Procedures",
+          "url": "https://www.iit.edu/student-accounting/faqs/policy-and-procedures",
+          "type": "internal"
+        },
+        {
+          "text": "Forms and Guides",
+          "url": "https://www.iit.edu/student-accounting/faqs/forms-and-guides",
+          "type": "internal"
+        },
+        {
+          "text": "Important Links",
+          "url": "https://www.iit.edu/student-accounting/faqs/important-links",
+          "type": "internal"
+        },
+        {
+          "text": "Latest News and Information",
+          "url": "https://www.iit.edu/student-accounting/faqs/latest-news-and-information",
+          "type": "internal"
+        },
+        {
+          "text": "Tax Information",
+          "url": "https://www.iit.edu/student-accounting/faqs/tax-information",
+          "type": "internal"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.iit.edu/student-accounting/contact-us",
+          "type": "internal"
+        },
+        {
+          "text": "1098T",
+          "url": "https://www.iit.edu/student-accounting/1098t",
+          "type": "internal"
+        }
+      ],
+      "files": [],
+      "tables": []
+    },
+    {
+      "question": "I Have a Hold, How Can I Obtain Unofficial Transcripts?",
+      "answer_paragraphs": [
+        "If you have a Student Accounting hold on your account, you can still obtain unofficial transcripts through DegreeWorks. To get into DegreeWorks, log in to the Illinois Tech Portal and locate the DegreeWorks system under Tools (select either undergraduate or graduate, depending on your student type). Once you are in DegreeWorks, click on Class History. See PDF with instructions below.",
+        "Download Unofficial Transcript Guide (2.42 MB)"
+      ],
+      "full_answer": "If you have a Student Accounting hold on your account, you can still obtain unofficial transcripts through DegreeWorks. To get into DegreeWorks, log in to the Illinois Tech Portal and locate the DegreeWorks system under Tools (select either undergraduate or graduate, depending on your student type). Once you are in DegreeWorks, click on Class History. See PDF with instructions below. Download Unofficial Transcript Guide (2.42 MB)",
+      "links": [
+        {
+          "text": "Download Unofficial Transcript Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/accessing_loan_forms_in_financial_aid_dashboard_0.pdf",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "Download Unofficial Transcript Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/accessing_loan_forms_in_financial_aid_dashboard_0.pdf",
+          "size": null,
+          "type": "pdf"
+        },
+        {
+          "name": "Download Unofficial Transcript Guide",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/accessing_loan_forms_in_financial_aid_dashboard_0.pdf",
+          "size": null,
+          "type": "pdf"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "question": "I Have a Hold, How Can I Obtain Documentation I Completed My Degree?",
+      "answer_paragraphs": [
+        "If you have a Student Accounting hold on your account, you can still obtain a letter indicating you completed your degree at Illinois Tech. Here are the steps you can complete to obtain this official letter of completion:",
+        "Visit the National Student Clearinghouse website: mystudentcenter.org/. You can obtain the letter required for the visa by going to the alumnus picture, and selecting \"verify my degree/past attendance.\"You can also go to this link directly too: https://secure.studentclearinghouse.org/vs/Index.Once you are on the Verification Services page, you will need to select the option \"Degree or School Certificate\", then enter your personal information."
+      ],
+      "full_answer": "If you have a Student Accounting hold on your account, you can still obtain a letter indicating you completed your degree at Illinois Tech. Here are the steps you can complete to obtain this official letter of completion: Visit the National Student Clearinghouse website: mystudentcenter.org/. You can obtain the letter required for the visa by going to the alumnus picture, and selecting \"verify my degree/past attendance.\"You can also go to this link directly too: https://secure.studentclearinghouse.org/vs/Index.Once you are on the Verification Services page, you will need to select the option \"Degree or School Certificate\", then enter your personal information.",
+      "links": [
+        {
+          "text": "mystudentcenter.org/",
+          "url": "https://mystudentcenter.org/",
+          "type": "external"
+        },
+        {
+          "text": "https://secure.studentclearinghouse.org/vs/Index",
+          "url": "https://secure.studentclearinghouse.org/vs/Index",
+          "type": "external"
+        }
+      ],
+      "files": [],
+      "tables": []
+    },
+    {
+      "question": "How Can I Access My 1098t?",
+      "answer_paragraphs": [
+        "In the Illinois Tech Portal, click Manage My Account, My Account, Statements, and 1098T Tax Statement. Or visit www.ecsi.net"
+      ],
+      "full_answer": "In the Illinois Tech Portal, click Manage My Account, My Account, Statements, and 1098T Tax Statement. Or visit www.ecsi.net",
+      "links": [
+        {
+          "text": "www.ecsi.net",
+          "url": "https://heartland.ecsi.net/index.main.html#/access/lookup",
+          "type": "external"
+        }
+      ],
+      "files": [],
+      "tables": []
+    },
+    {
+      "question": "How Can I Add an Authorized User to My Online Account?",
+      "answer_paragraphs": [
+        "Click, link below, for information about adding a user to your online student account.",
+        "Add Authorized User (416.14 KB)"
+      ],
+      "full_answer": "Click, link below, for information about adding a user to your online student account. Add Authorized User (416.14 KB)",
+      "links": [
+        {
+          "text": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "size": null,
+          "type": "pdf"
+        },
+        {
+          "name": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "size": null,
+          "type": "pdf"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "question": "How Can My Parent/Guardian Receive Copies of My Tuition Bill?",
+      "answer_paragraphs": [
+        "You may add other people as Authorized Users who can view your account information and/or make online payments to your account. Access your student account through your Illinois Tech Portal, “Manage my Account” Tool.",
+        "You can add Authorized Users through the Authorized User tab. Once you've entered the name and contact information for your Authorized User, that person will receive an email prompting him/her to create his/her own account. Your new Authorized User will then be copied on subsequent email notifications of statements or tuition bills.",
+        "Authorized Users can access your student account information directly through the Authorized User Login Page. They will not need direct access to your portal.",
+        "Add Authorized User (416.14 KB)"
+      ],
+      "full_answer": "You may add other people as Authorized Users who can view your account information and/or make online payments to your account. Access your student account through your Illinois Tech Portal, “Manage my Account” Tool. You can add Authorized Users through the Authorized User tab. Once you've entered the name and contact information for your Authorized User, that person will receive an email prompting him/her to create his/her own account. Your new Authorized User will then be copied on subsequent email notifications of statements or tuition bills. Authorized Users can access your student account information directly through the Authorized User Login Page. They will not need direct access to your portal. Add Authorized User (416.14 KB)",
+      "links": [
+        {
+          "text": "Authorized User Login Page",
+          "url": "https://secure.touchnet.com/C20090_tsa/web/login.jsp",
+          "type": "external"
+        },
+        {
+          "text": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "size": null,
+          "type": "pdf"
+        },
+        {
+          "name": "Add Authorized User",
+          "url": "https://www.iit.edu/sites/default/files/2021-10/adding_authorized_users_updated_6-26-2020.pdf",
+          "size": null,
+          "type": "pdf"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "question": "How Do I Make a Payment?",
+      "answer_paragraphs": [
+        "For a complete list of tuition payment methods including instructions on sending a wire transfer, visit the Payment Methods page.If you have a domestic bank account, you can make payments for free online via electronic check by using your bank routing and account number. Access our secure online pay site through the portal, clicking Manage My Student Account Tool.",
+        "Credit cards are also accepted online for an additional transaction fee."
+      ],
+      "full_answer": "For a complete list of tuition payment methods including instructions on sending a wire transfer, visit the Payment Methods page.If you have a domestic bank account, you can make payments for free online via electronic check by using your bank routing and account number. Access our secure online pay site through the portal, clicking Manage My Student Account Tool. Credit cards are also accepted online for an additional transaction fee.",
+      "links": [
+        {
+          "text": "Payment Methods",
+          "url": "https://www.iit.edu/student-accounting/payments/payment-methods",
+          "type": "internal"
+        }
+      ],
+      "files": [],
+      "tables": []
+    },
+    {
+      "question": "Where Is My Tuition Bill? Can You Send Me a Copy?",
+      "answer_paragraphs": [
+        "An archive of all recent bills is available online. You can access your student account through your portal under Manage My Account. Once you launch our online system, your bill will be displayed under the My Account tab.Each time a new bill is issued, you and your authorized users will receive an email."
+      ],
+      "full_answer": "An archive of all recent bills is available online. You can access your student account through your portal under Manage My Account. Once you launch our online system, your bill will be displayed under the My Account tab.Each time a new bill is issued, you and your authorized users will receive an email.",
+      "links": [],
+      "files": [],
+      "tables": []
+    },
+    {
+      "question": "Where Is My Refund?",
+      "answer_paragraphs": [
+        "Financial aid and other tuition credits are applied to your account after the semester starts. A Title IV form must be complete. Once all funds are posted to your account, the Student Accounting Office will begin generating refunds.",
+        "In order to receive your refund, you must be enrolled in direct deposit. You may enroll through Manage My Account link in the Illinois Tech Portal."
+      ],
+      "full_answer": "Financial aid and other tuition credits are applied to your account after the semester starts. A Title IV form must be complete. Once all funds are posted to your account, the Student Accounting Office will begin generating refunds. In order to receive your refund, you must be enrolled in direct deposit. You may enroll through Manage My Account link in the Illinois Tech Portal.",
+      "links": [
+        {
+          "text": "Title IV form",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/federal_regulations_refund_policies_title_iv-08-12-24_0.pdf",
+          "type": "internal"
+        }
+      ],
+      "files": [
+        {
+          "name": "Title IV form",
+          "url": "https://www.iit.edu/sites/default/files/2024-08/federal_regulations_refund_policies_title_iv-08-12-24_0.pdf",
+          "size": null,
+          "type": "pdf"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "question": "I Have Questions About My Perkins Loan (Or Other Institutional Loan). Who Should I Ask?",
+      "answer_paragraphs": [
+        "IIT has contracted with ECSI, a third-party loan servicer, for all Perkins and institutional loans. Any questions or issues related to these types of loans should be directed to that company. ECSI can be contacted by phone at 888.549.3274 or by email at webcservice@ecsi.net.",
+        "If you have recently been awarded a Perkins or other institutional loan, you will be contacted by ECSI prior to the beginning of classes with instructions for how to complete your promissory note and entrance interview."
+      ],
+      "full_answer": "IIT has contracted with ECSI, a third-party loan servicer, for all Perkins and institutional loans. Any questions or issues related to these types of loans should be directed to that company. ECSI can be contacted by phone at 888.549.3274 or by email at webcservice@ecsi.net. If you have recently been awarded a Perkins or other institutional loan, you will be contacted by ECSI prior to the beginning of classes with instructions for how to complete your promissory note and entrance interview.",
+      "links": [
+        {
+          "text": "webcservice@ecsi.net",
+          "url": "mailto:webcservice@ecsi.net",
+          "type": "internal"
+        }
+      ],
+      "files": [],
+      "tables": []
+    }
+  ],
+  "all_page_links": [
+    {
+      "text": "Request Info",
+      "url": "https://www.iit.edu/admissions-aid/request-information"
+    },
+    {
+      "text": "Visit",
+      "url": "https://www.iit.edu/admissions-aid/visit-and-tour"
+    },
+    {
+      "text": "Apply",
+      "url": "https://www.iit.edu/admissions-aid/apply"
+    },
+    {
+      "text": "Directory",
+      "url": "https://www.iit.edu/directory/people"
+    },
+    {
+      "text": "News",
+      "url": "https://www.iit.edu/university-news"
+    },
+    {
+      "text": "Alumni",
+      "url": "https://www.iit.edu/alumni"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.iit.edu/events"
+    },
+    {
+      "text": "Giving",
+      "url": "https://www.iit.edu/giving"
+    },
+    {
+      "text": "Illinois Tech Mumbai",
+      "url": "https://www.iit.edu/mumbai"
+    },
+    {
+      "text": "Academic Advising",
+      "url": "https://www.iit.edu/academic-advising"
+    },
+    {
+      "text": "Admitted Students",
+      "url": "https://www.iit.edu/resources-admitted-students"
+    },
+    {
+      "text": "Academic Calendar",
+      "url": "https://www.iit.edu/registrar/academic-calendar"
+    },
+    {
+      "text": "Community",
+      "url": "https://www.iit.edu/community-affairs"
+    },
+    {
+      "text": "Current Students",
+      "url": "https://www.iit.edu/resources-current-students"
+    },
+    {
+      "text": "Faculty and Staff",
+      "url": "https://www.iit.edu/resources-faculty-and-staff"
+    },
+    {
+      "text": "Parents and Families",
+      "url": "https://www.iit.edu/resources-parents-and-families"
+    },
+    {
+      "text": "School Counselors",
+      "url": "https://www.iit.edu/resources-school-counselors"
+    },
+    {
+      "text": "Title IX Compliance",
+      "url": "https://www.iit.edu/title-ix"
+    },
+    {
+      "text": "Academics",
+      "url": "https://www.iit.edu/academics"
+    },
+    {
+      "text": "Academic Programs",
+      "url": "https://www.iit.edu/academics/programs"
+    },
+    {
+      "text": "Experiential Learning",
+      "url": "https://www.iit.edu/academics/experiential-learning"
+    },
+    {
+      "text": "Undergraduate Programs",
+      "url": "https://www.iit.edu/academics/undergraduate-programs"
+    },
+    {
+      "text": "Graduate Programs",
+      "url": "https://www.iit.edu/academics/graduate-programs"
+    },
+    {
+      "text": "Lifelong Learners",
+      "url": "https://www.iit.edu/academics/lifelong-learners"
+    },
+    {
+      "text": "Elevate College Prep",
+      "url": "https://www.iit.edu/academics/elevate-college-prep"
+    },
+    {
+      "text": "Colleges and Institutes",
+      "url": "https://www.iit.edu/academics/colleges-and-institutes"
+    },
+    {
+      "text": "Course Catalog",
+      "url": "https://www.iit.edu/academics/course-catalog"
+    },
+    {
+      "text": "Admission and Aid",
+      "url": "https://www.iit.edu/admissions-aid"
+    },
+    {
+      "text": "Undergraduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/undergraduate-admission"
+    },
+    {
+      "text": "Graduate Admission",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission"
+    },
+    {
+      "text": "Tuition and Aid",
+      "url": "https://www.iit.edu/admissions-aid/tuition-and-aid"
+    },
+    {
+      "text": "Student Experience",
+      "url": "https://www.iit.edu/student-experience"
+    },
+    {
+      "text": "Our Campus and Housing",
+      "url": "https://www.iit.edu/student-experience/campus-and-housing"
+    },
+    {
+      "text": "Life in Chicago",
+      "url": "https://www.iit.edu/student-experience/life-in-chicago"
+    },
+    {
+      "text": "Career Services and Internships",
+      "url": "https://www.iit.edu/student-experience/career-services-and-internships"
+    },
+    {
+      "text": "Student Outcomes",
+      "url": "https://www.iit.edu/student-experience/student-outcomes"
+    },
+    {
+      "text": "Athletics",
+      "url": "https://www.iit.edu/student-experience/athletics"
+    },
+    {
+      "text": "Student Organizations and Greek Life",
+      "url": "https://www.iit.edu/student-experience/student-organizations-and-greek-life"
+    },
+    {
+      "text": "Services and Resources",
+      "url": "https://www.iit.edu/student-experience/services-and-resources"
+    },
+    {
+      "text": "Student and Alumni Stories",
+      "url": "https://www.iit.edu/student-experience/student-and-alumni-stories"
+    },
+    {
+      "text": "New Student Transition",
+      "url": "https://www.iit.edu/student-experience/new-student-transition"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.iit.edu/research"
+    },
+    {
+      "text": "About Research",
+      "url": "https://www.iit.edu/research/about-research"
+    },
+    {
+      "text": "University Research Initiatives",
+      "url": "https://www.iit.edu/research/initiatives"
+    },
+    {
+      "text": "Conducting Research with Illinois Tech",
+      "url": "https://www.iit.edu/research/conducting-research-illinois-tech"
+    },
+    {
+      "text": "Featured Projects",
+      "url": "https://www.iit.edu/research/featured-projects"
+    },
+    {
+      "text": "Student Research",
+      "url": "https://www.iit.edu/research/student-research"
+    },
+    {
+      "text": "Institutes and Centers",
+      "url": "https://www.iit.edu/research/institutes-and-centers"
+    },
+    {
+      "text": "Libraries",
+      "url": "https://www.iit.edu/research/libraries"
+    },
+    {
+      "text": "About",
+      "url": "https://www.iit.edu/about"
+    }
+  ]
+}
