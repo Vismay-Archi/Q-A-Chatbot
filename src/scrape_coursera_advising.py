@@ -7,6 +7,7 @@ from typing import List, Dict, Any
 
 URL = "https://www.iit.edu/coursera/advising-and-planning"
 
+
 def clean_text(s: str) -> str:
     """Clean and normalize text"""
     if not s:
@@ -35,6 +36,8 @@ def extract_links_from_element(element) -> List[Dict[str, str]]:
                 "type": "external" if href.startswith('http') and 'iit.edu' not in href else "internal"
             })
     return links
+
+
 
 def extract_images_from_element(element) -> List[Dict[str, str]]:
     """Extract all images from an element"""

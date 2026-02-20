@@ -5,7 +5,10 @@ import re
 import time
 from typing import List, Dict, Any
 
+
 URL = "https://www.iit.edu/coursera/coursera-faqs"
+
+
 
 def clean_text(s: str) -> str:
     """Clean and normalize text"""

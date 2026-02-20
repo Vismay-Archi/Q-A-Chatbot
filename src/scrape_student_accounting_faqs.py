@@ -484,6 +484,8 @@ def export_qa_csv(data, filename="student_accounting_faqs.csv"):
             ])
     
     print(f"\n✓ CSV data exported to: {filename}")
+    
+
 
 # Main execution
 if __name__ == "__main__":
@@ -501,3 +503,4 @@ if __name__ == "__main__":
         export_qa_csv(result)
     
     print("\n✅ Scraping process completed successfully!")
+    

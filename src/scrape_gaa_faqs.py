@@ -7,6 +7,7 @@ from typing import List, Dict, Any
 
 URL = "https://www.iit.edu/gaa/students/faqs"
 
+
 def clean_text(s: str) -> str:
     """Clean and normalize text"""
     if not s:
