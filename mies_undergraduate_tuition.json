@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "institution": "Illinois Institute of Technology",
+      "campus": "Mies Campus",
+      "program_level": "Undergraduate",
+      "academic_year": "2025–2026",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-undergraduate",
+      "chunks": [
+        {
+          "type": "tuition",
+          "title": "Mies Campus Undergraduate Tuition Rates (2025–2026)",
+          "content": {
+            "semester_flat_rate_12_18_hours": {
+              "Admitted 2015–2026": 25824,
+              "Admitted 2010–2015": 25150
+            },
+            "per_credit_hour_rates": {
+              "Admitted 2015–2026": 1612,
+              "Admitted 2010–2015": 1574
+            },
+            "special_courses": {
+              "Post-Baccalaureate": 806,
+              "Winter Intersession": 2500,
+              "Short Courses": 1977,
+              "Summer 2026 Per Credit": 1851
+            }
+          },
+          "tags": [
+            "tuition",
+            "undergraduate",
+            "mies campus",
+            "2025-2026"
+          ]
+        },
+        {
+          "type": "mandatory_fees",
+          "title": "Mandatory Fees",
+          "content": {
+            "Activity Fee Full Time": 125,
+            "Student Service Fee": "Varies by enrollment period",
+            "UPass Fee": 155,
+            "Health Insurance (Annual)": 2343
+          },
+          "tags": [
+            "fees",
+            "mandatory",
+            "undergraduate"
+          ]
+        },
+        {
+          "type": "other_fees",
+          "title": "Other Fees",
+          "content": {
+            "Graduation Application Fee": 200,
+            "Credit By Proficiency Exam (Per Credit Hour)": 250,
+            "Undergraduate Admissions Deposit": 300
+          },
+          "tags": [
+            "fees",
+            "other",
+            "undergraduate"
+          ]
+        }
+      ]
+    }
+  ]
+}

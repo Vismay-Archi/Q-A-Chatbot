@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "institution": "Illinois Institute of Technology",
+      "campus": "Mies Campus",
+      "program_level": "Graduate",
+      "academic_year": "2025–2026",
+      "url": "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/mies-campus-graduate",
+      "chunks": [
+        {
+          "type": "tuition_per_credit",
+          "title": "Mies Campus Graduate Tuition Rates (Per Credit Hour) 2025–2026",
+          "content": {
+            "Summer 2025": 1780,
+            "Fall 2025": 1851,
+            "Spring 2026": 1851,
+            "Summer 2026": 1851,
+            "Short Courses (Per Course)": 2314,
+            "CAPS Courses (Per Course)": 1851
+          },
+          "tags": [
+            "tuition",
+            "graduate",
+            "mies campus",
+            "per credit",
+            "2025-2026"
+          ]
+        },
+        {
+          "type": "semester_fees",
+          "title": "Graduate Per Semester Fees",
+          "content": {
+            "Activity Fee Full Time": 125,
+            "Activity Fee Part Time (Per Course)": 50,
+            "Student Service Fee": "Varies by enrollment period",
+            "Course Fees": "TBD"
+          },
+          "tags": [
+            "fees",
+            "graduate",
+            "semester"
+          ]
+        },
+        {
+          "type": "annual_fees",
+          "title": "Graduate Annual Fees",
+          "content": {
+            "Health Insurance (Annual)": 2343
+          },
+          "tags": [
+            "fees",
+            "graduate",
+            "annual"
+          ]
+        },
+        {
+          "type": "other_fees",
+          "title": "Graduate Other Fees",
+          "content": {
+            "Graduation Application Fee": 200,
+            "Graduate Certificate Fee": 60,
+            "Revalidation of Outdated Course Fee": 135,
+            "Admissions Application Fee": 100,
+            "Admissions Deposit": 300,
+            "Graduate Continuation Studies Fee (Per Course)": 135,
+            "Credit By Proficiency Exam (Per Credit Hour)": 250,
+            "UMII Scholarship Fee (Opt-In)": 4.5
+          },
+          "tags": [
+            "fees",
+            "graduate",
+            "other"
+          ]
+        }
+      ]
+    }
+  ]
+}
